@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20130405131907" doknr="BJNR190200004"><norm builddate="20130405131907" doknr="BJNR190200004"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><ausfertigung-datum manuell="ja">2004-07-26</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>2004, 1902</zitstelle></fundstelle><langue>Verordnung über die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Geändert durch Art. 1 V v. 25.5.2009 I 1165</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 1.8.2004 +++)<BR/><BR/></pre>Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000100000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000200000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 1</enbez><titel format="parat">Staatliche Anerkennung des Ausbildungsberufes</titel></metadaten><textdaten><text format="XML"><Content><P>Der Ausbildungsberuf Kaufmann für Spedition und Logistikdienstleistung/Kauffrau für Spedition und Logistikdienstleistung wird staatlich anerkannt.</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000300000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 2</enbez><titel format="parat">Ausbildungsdauer</titel></metadaten><textdaten><text format="XML"><Content><P>Die Ausbildung dauert drei Jahre.</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000400000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 3</enbez><titel format="parat">Zielsetzung der Berufsausbildung</titel></metadaten><textdaten><text format="XML"><Content><P>Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000500000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 4</enbez><titel format="parat">Ausbildungsberufsbild</titel></metadaten><textdaten><text format="XML"><Content><P>Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Der Ausbildungsbetrieb:</LA></DD> <DT>1.1</DT><DD Font="normal"><LA Size="normal">Stellung, Rechtsform und Struktur,</LA></DD> <DT>1.2</DT><DD Font="normal"><LA Size="normal">Berufsbildung,</LA></DD> <DT>1.3</DT><DD Font="normal"><LA Size="normal">Personalwirtschaft, arbeits-, sozial- und tarifrechtliche Vorschriften,</LA></DD> <DT>1.4</DT><DD Font="normal"><LA Size="normal">Sicherheit und Gesundheitsschutz bei der Arbeit,</LA></DD> <DT>1.5</DT><DD Font="normal"><LA Size="normal">Umweltschutz;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Arbeitsorganisation, Information und Kommunikation:</LA></DD> <DT>2.1</DT><DD Font="normal"><LA Size="normal">Arbeitsorganisation,</LA></DD> <DT>2.2</DT><DD Font="normal"><LA Size="normal">Teamarbeit und Kommunikation,</LA></DD> <DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme,</LA></DD> <DT>2.4</DT><DD Font="normal"><LA Size="normal">Datenschutz und Datensicherheit;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Anwenden der englischen Sprache bei Fachaufgaben;</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Prozessorientierte Leistungserstellung in Spedition und Logistik;</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Speditionelle und logistische Leistungen:</LA></DD> <DT>5.1</DT><DD Font="normal"><LA Size="normal">Güterversendung und Transport,</LA></DD> <DT>5.2</DT><DD Font="normal"><LA Size="normal">Lagerlogistik,</LA></DD> <DT>5.3</DT><DD Font="normal"><LA Size="normal">Sammelgut- und Systemverkehre,</LA></DD> <DT>5.4</DT><DD Font="normal"><LA Size="normal">Internationale Spedition,</LA></DD> <DT>5.5</DT><DD Font="normal"><LA Size="normal">Logistische Dienstleistungen;</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Verträge, Haftung und Versicherungen;</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Marketing;</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Gefahrgut, Schutz und Sicherheit;</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Kaufmännische Steuerung und Kontrolle:</LA></DD> <DT>9.1</DT><DD Font="normal"><LA Size="normal">Zahlungsverkehr und Buchführung,</LA></DD> <DT>9.2</DT><DD Font="normal"><LA Size="normal">Kosten- und Leistungsrechnung, Controlling,</LA></DD> <DT>9.3</DT><DD Font="normal"><LA Size="normal">Qualitätsmanagement.</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000600000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 5</enbez><titel format="parat">Ausbildungsrahmenplan</titel></metadaten><textdaten><text format="XML"><Content><P>Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000700000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 6</enbez><titel format="XML">Ausbildungsplan</titel></metadaten><textdaten><text format="XML"><Content><P>Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000800000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 7</enbez><titel format="parat">Berichtsheft</titel></metadaten><textdaten><text format="XML"><Content><P>Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE000900000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 8</enbez><titel format="parat">Zwischenprüfung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.</P><P>(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P><P>(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Fälle oder Aufgaben in höchstens 180 Minuten in folgenden Prüfungsgebieten durchzuführen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Betriebliche Leistungserstellung,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Rechnungswesen,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Wirtschafts- und Sozialkunde.</LA></DD> </DL></P></Content>  </text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE001001310"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 9</enbez><titel format="XML">Abschlussprüfung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P><P>(2) Die Prüfung ist in den Prüfungsbereichen Leistungserstellung in Spedition und Logistik, Kaufmännische Steuerung und Kontrolle sowie Wirtschafts- und Sozialkunde schriftlich und im Prüfungsbereich Fallbezogenes Fachgespräch mündlich durchzuführen.</P><P>(3) Die Anforderungen in den Prüfungsbereichen sind: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">im Prüfungsbereich Leistungserstellung in Spedition und Logistik:</LA><LA Size="normal">In höchstens 180 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus den folgenden Gebieten bearbeiten:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Transport, Umschlag, Lagerleistungen,</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">Logistische Dienstleistungen,</LA></DD><DT>c)</DT><DD Font="normal"><LA Size="normal">Marketing.</LA></DD></DL></LA><LA Size="normal">Dabei soll er zeigen, dass er Lösungsvorschläge zu speditionellen und logistischen Aufgabenstellungen verkehrsträgerübergreifend entwickeln und Möglichkeiten des Marketings berücksichtigen kann. Darüber hinaus soll er zeigen, dass er Speditionsaufträge verkehrsträgerspezifisch durchführen, dabei rechtliche Vorschriften und Beförderungsbestimmungen anwenden sowie englischsprachige Formulare bearbeiten kann; hierfür kommt einer von zwei Verkehrsträgern in Betracht, die der Prüfling bei der Prüfungsanmeldung aus den folgenden Verkehrsträgern benennt: Straßen-, Schienen-, Luftverkehr, Binnenschifffahrt, Seeschifffahrt; der Prüfungsausschuss legt den zu bearbeitenden Verkehrsträger fest, der dem Prüfling am Tag der Prüfung mit der Aufgabenstellung vorgegeben wird;</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">im Prüfungsbereich Kaufmännische Steuerung und Kontrolle:</LA><LA Size="normal">In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus den folgenden Gebieten bearbeiten:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Kosten- und Leistungsrechnung,</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">Controlling.</LA></DD></DL></LA><LA Size="normal">Dabei soll der Prüfling zeigen, dass er Preisangebote erstellen, Methoden der Erfolgskontrolle anwenden und kaufmännische Zusammenhänge berücksichtigen kann;</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">im Prüfungsbereich Wirtschafts- und Sozialkunde:</LA><LA Size="normal">In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus der Berufs- und Arbeitswelt bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt und die Bedeutung der Speditions- und Logistikbranche als Wirtschaftsfaktor darstellen kann;</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">im Prüfungsbereich Fallbezogenes Fachgespräch:</LA><LA Size="normal">Der Prüfling soll auf der Grundlage einer von zwei ihm zur Wahl gestellten praktischen Aufgaben aus dem Gebiet Speditionelle und logistische Leistungen Lösungsvorschläge entwickeln und begründen. Bei der Aufgabenstellung ist der betriebliche Ausbildungsschwerpunkt zugrunde zu legen. Die Aufgabe ist Ausgangspunkt für ein Fachgespräch. Das Fachgespräch soll einschließlich der Lösungsdarstellung höchstens 30 Minuten dauern. Der Prüfling soll zeigen, dass er betriebspraktische Aufgaben sachgerecht lösen, wirtschaftliche, technische, ökologische und rechtliche Zusammenhänge beachten sowie Gespräche systematisch und situationsbezogen führen kann.</LA></DD></DL>Dem Prüfling ist eine Vorbereitungszeit von höchstens 20 Minuten einzuräumen.</P><P>(4) Sind in den schriftlichen Prüfungsbereichen die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit &quot;mangelhaft&quot; und in den übrigen schriftlichen Prüfungsbereichen mit mindestens &quot;ausreichend&quot; bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit &quot;mangelhaft&quot; bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.</P><P>(5) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis sowie in mindestens drei Prüfungsbereichen, darunter dem Prüfungsbereich Leistungserstellung in Spedition und Logistik, ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit &quot;ungenügend&quot; bewertet, so ist die Prüfung nicht bestanden.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE001100000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 10</enbez><titel format="parat">Übergangsregelung</titel></metadaten><textdaten><text format="XML"><Content><P>Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.</P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE001200000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>§ 11</enbez><titel format="parat">Inkrafttreten, Außerkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt am 1. August 2004 in Kraft.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE001300000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>Anlage 1</enbez><titel format="parat">(zu § 5)</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle"> Fundstelle des Originaltextes: BGBl. I 2004, 1905 - 1910 </kommentar> <BR/><table frame="topbot" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="4" rowsep="0">
+		<colspec colname="col1" colnum="1" colsep="1" colwidth="10*"/>
+		<colspec colname="col2" colnum="2" colsep="1" colwidth="40*"/>
+		<colspec colname="col3" colnum="3" colsep="0" colwidth="5*"/>
+		<colspec colname="col4" colnum="4" colsep="0" colwidth="55*"/>
+		<thead valign="bottom">
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="middle">Lfd. Nr.</entry>
+				<entry VJ="1" align="center" colsep="0" valign="middle">Teil des Ausbildungsberufsbildes</entry>
+				<entry VJ="1" align="center" colsep="0" nameend="col4" namest="col3" valign="top">Zu vermittelnde Fertigkeiten und Kenntnisse</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" valign="top">1</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+				<entry VJ="1" align="center" colsep="0" nameend="col4" namest="col3" valign="top">3</entry>
+			</row>
+		</thead>
+		<tbody valign="top">
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" valign="top">1</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Der Ausbildungsbetrieb (§ 4 Nr. 1)</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="4" rowsep="1" valign="top">1.1</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="4" rowsep="1" valign="top">Stellung, Rechtsform und Struktur (§ 4 Nr. 1.1)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes sowie seine</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Stellung am Markt beschreiben Rechtsform des Ausbildungsbetriebes darstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Verbänden, Behörden und Gewerkschaften beschreiben</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kooperationsformen in der Branche und deren Vor- und Nachteile aufzeigen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aufbau- und Ablauforganisation sowie Zuständigkeiten im Ausbildungsbetrieb erläutern</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="2" rowsep="1" valign="top">1.2</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="2" rowsep="1" valign="top">Berufsbildung (§ 4 Nr. 1.2)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der an der Berufsausbildung Beteiligten beschreiben</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ausbildungsordnung mit dem betrieblichen Ausbildungsplan vergleichen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nutzen beruflicher Weiterbildung für die berufliche und persönliche Entwicklung sowie für den Betrieb darstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="5" rowsep="1" valign="top">1.3</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="5" rowsep="1" valign="top">Personalwirtschaft, arbeits-, sozial- und tarifrechtliche Vorschriften (§ 4 Nr. 1.3)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">betriebliche Ziele und Grundsätze der Personalplanung, -beschaffung und des Personaleinsatzes beschreiben</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rechte und Pflichten aus dem Arbeitsvertrag erläutern</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">gesetzliche, tarifliche und betriebliche Arbeitszeitregelungen anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungsrechtlicher Organe erklären</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">die für das Ausbildungs- und Arbeitsverhältnis geltenden arbeits- und sozialrechtlichen Bestimmungen sowie tarifliche Vorschriften erläutern</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachweise für das Arbeitsverhältnis erläutern und die Positionen der eigenen Entgeltabrechnung beschreiben</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="3" rowsep="1" valign="top">1.4</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="3" rowsep="1" valign="top">Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Nr. 1.4)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="4" rowsep="1" valign="top">1.5</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="4" rowsep="1" valign="top">Umweltschutz (§ 4 Nr. 1.5)</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Arbeitsorganisation, Information und Kommunikation (§ 4 Nr. 2)</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="2" rowsep="1" valign="top">2.1</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="2" rowsep="1" valign="top">Arbeitsorganisation (§ 4 Nr. 2.1)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">die eigene Arbeit systematisch, qualitätsbewusst und unter Berücksichtigung organisatorischer, technischer und wirtschaftlicher Notwendigkeiten planen, durchführen und kontrollieren</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und Arbeitsraumgestaltung nutzen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">betriebliche Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken einsetzen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="5" rowsep="1" valign="top">2.2</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="5" rowsep="1" valign="top">Teamarbeit und Kommunikation (§ 4 Nr. 2.2)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aufgaben im Team planen und bearbeiten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">interne und externe Zusammenarbeit im Arbeitsprozess gestalten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Gespräche situations- und zielgruppenorientiert führen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Sachverhalte situationsbezogen und adressatengerecht aufbereiten und präsentieren</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">zur Vermeidung von Kommunikationsstörungen beitragen und Möglichkeiten der Konfliktlösung anwenden</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Auswirkungen von Information, Kommunikation und Kooperation auf Betriebsklima, Arbeits- und Geschäftserfolg beachten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="5" rowsep="1" valign="top">2.3</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="5" rowsep="1" valign="top">Informations- und Kommunikationssysteme (§ 4 Nr. 2.3)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bedeutung von Information- und Kommunikationssystemen für den Ausbildungsbetrieb erläutern</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Netze und Dienste nutzen, Sicherheitsanforderungen beachten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leistungsmerkmale von Hardware- und Softwarekomponenten beachten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Betriebssystem, Standardsoftware und betriebsspezifische Software anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Informationen erfassen, Daten eingeben und pflegen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">bei der Erarbeitung von Leistungsanforderungen an Softwarelösungen mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="1" rowsep="1" valign="top">2.4</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="1" rowsep="1" valign="top">Datenschutz und Datensicherheit (§ 4 Nr. 2.4)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Regelungen des Datenschutzes einhalten</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Daten sichern, Datensicherung und unterschiedliche Zugriffsberechtigungen begründen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="3" rowsep="1" valign="top">3</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="3" rowsep="1" valign="top">Anwenden der englischen Sprache bei Fachaufgaben (§ 4 Nr. 3)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">englischsprachige Dokumente ausstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">branchenübliche englischsprachige Informationen nutzen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">in englischer Sprache über Produkte informieren und Angebote erstellen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">mit ausländischen Geschäftspartnern und Kunden in englischer Sprache korrespondieren und kommunizieren</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="15" rowsep="1" valign="top">4</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="15" rowsep="1" valign="top">Prozessorientierte Leistungserstellung in Spedition und Logistik (§ 4 Nr. 4)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kundenwünsche ermitteln, Kunden beraten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">bei der Ermittlung von logistischen Aufgabenstellungen mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leistungsanforderungen festlegen und vereinbaren</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Angebote einholen, vergleichen und bewerten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Preisangebote auf der Grundlage betrieblicher Kalkulationsregeln erstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Angebote über speditionelle Leistungen für Kunden erstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">bei der Gestaltung und Erstellung von Verträgen mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">zeitliche und technische Abläufe der Dienstleistungen abstimmen und überwachen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">i)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Informationen und Daten zur Auftragsabwicklung beschaffen und bearbeiten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">k)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Begleitpapiere und Dokumente beschaffen, vervollständigen und ausstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">l)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Lieferbedingungen und Frankaturvorschriften anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">m)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Eingangsrechnungen kontrollieren und bearbeiten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">n)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ausgangsrechnungen erstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">o)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kundenreklamationen bearbeiten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">p)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kunden bei Leistungsstörungen informieren, Lösungsalternativen aufzeigen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">q)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Schadenfälle abwickeln</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" valign="top">5</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Speditionelle und logistische Leistungen (§ 4 Nr. 5)</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="8" rowsep="1" valign="top">5.1</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="8" rowsep="1" valign="top">Güterversendung und Transport (§ 4 Nr. 5.1)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leistungsmerkmale des Straßen-, Schienen- und Luftfrachtverkehrs sowie der Binnen- und Seeschifffahrt vergleichen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Eignung der Verkehrsträger für bestimmte Transportgüter unter Berücksichtigung rechtlicher Bedingungen und Beschränkungen ermitteln</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Möglichkeiten der Verknüpfung von Leistungen der Verkehrsträger nutzen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Verkehrsverbindungen unter Berücksichtigung Verkehrsgeografischer und wirtschaftlicher Gesichtspunkte festlegen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Einsatzmöglichkeiten im kombinierten Verkehr bewerten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Organisation der Beförderung als Kernleistung speditioneller Betätigung beschreiben und gegenüber dem Selbsteintritt abgrenzen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Dienstleister, insbesondere Frachtführer und Verfrachter, auswählen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Beförderungsmittel und technische Geräte unter Beachtung der Be- und Entladefristen disponieren</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">i)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Einsatzbereiche von Umschlagstechniken und -geräten darstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="6" rowsep="1" valign="top">5.2</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="6" rowsep="1" valign="top">Lagerlogistik (§ 4 Nr. 5.2)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leistungen in der Lagerlogistik erläutern</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Arten der Lagerorganisation beschreiben, das vom Ausbildungsbetrieb genutzte Lagersystem darstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Arbeitsabläufe im Lager darstellen und in logistische Abläufe einbinden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Eignung von Anlagen, Maschinen und Geräten im Lager für Transport, Förderung und Verpackung beurteilen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Güter nach Lagermöglichkeiten unterscheiden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Lagerdokumente verwenden</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aufzeichnung von Lagerdaten und ihre Weiterleitung innerhalb der Transportkette überwachen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="5" rowsep="1" valign="top">5.3</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="5" rowsep="1" valign="top">Sammelgut- und Systemverkehre (§ 4 Nr. 5.3)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Marktinformationen erschließen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leistungen von Sammelgut- und Systemverkehren anbieten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kunden organisatorische und zeitliche Abläufe sowie Möglichkeiten der Sendungsverfolgung erläutern</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Versendungen durchführen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rechtsbeziehungen zwischen den Beteiligten darstellen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Preisbildung und Abrechnung erläutern</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="3" rowsep="1" valign="top">5.4</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="3" rowsep="1" valign="top">Internationale Spedition (§ 4 Nr. 5.4)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Vorschriften im grenzüberschreitenden Verkehr berücksichtigen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Einsatzmöglichkeiten von Speditionsdokumenten darstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">zoll- und außenwirtschaftliche Rechtsvorschriften berücksichtigen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">das Akkreditivverfahren erläutern, Bestimmungen von Akkreditiven bei der Auftragsabwicklung beachten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="10" rowsep="1" valign="top">5.5</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="10" rowsep="1" valign="top">Logistische Dienstleistungen (§ 4 Nr. 5.5)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">logistische Bedürfnisse des Kunden sowie Umsetzungsmöglichkeiten ermitteln, Lösungsvorschläge entwickeln</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">bei der Erarbeitung von Logistikkonzepten mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">bei der Ermittlung und Bewertung von Angeboten zur Erbringung logistischer Dienstleistungen im Ausbildungsbetrieb und bei Dritten mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Informationsleistungen des Ausbildungsbetriebes anbieten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Abläufe und Aufgabenverteilung bei der Umsetzung logistischer Leistungen darstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">an der Sicherstellung des Daten- und Informationsflusses zwischen den an logistischen Ketten Beteiligten mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">vertragliche Leistungsvorgaben umsetzen, Bedürfnisse und Möglichkeiten der Beteiligten berücksichtigen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Abweichungen in logistischen Prozessen feststellen und zur Beseitigung beitragen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">i)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Vorgänge dokumentieren, Daten analysieren und für Kunden bereitstellen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">k)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Daten für Leistungsabrechnungen erfassen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">l)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">bei Verbesserungen von logistischen Prozessen mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="9" rowsep="1" valign="top">6</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="9" rowsep="1" valign="top">Verträge, Haftung und Versicherungen (§ 4 Nr. 6)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rechtsgrundlagen des Speditionsvertrages und die sich daraus ergebenden Rechte und Pflichten der Vertragspartner erläutern</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rechtsbeziehungen aus Fracht- und Lagerverträgen sowie Verträgen über logistische Dienstleistungen von den Rechtsbeziehungen aus dem Speditionsvertrag abgrenzen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rechtsvorschriften und Beförderungsbedingungen von zwei Verkehrsträgern anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">branchen- und betriebsübliche allgemeine Geschäftsbedingungen anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Speditionsverträge abschließen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Frachtverträge abschließen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Schadenersatzansprüche prüfen, Regressansprüche gegenüber Dritten wahren, Regulierungen veranlassen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Verkehrshaftungs- und Warenversicherungen des Ausbildungsbetriebes nutzen, insbesondere für auftragsbezogene Deckung sorgen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">i)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kunden über Risiken informieren, Möglichkeiten der Absicherung erläutern, Versicherungsschutz für Kunden besorgen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">k)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rechte und Pflichten aus betrieblichen Haftpflicht- und Sachversicherungsverträgen wahrnehmen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="4" rowsep="1" valign="top">7</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="4" rowsep="1" valign="top">Marketing (§ 4 Nr. 7)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Anforderungen an speditionelle und logistische Dienstleistungen insbesondere im Bereich von Produktion, Beschaffung und Distribution ermitteln und bewerten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">die Produktpalette des Ausbildungsbetriebes mit den Angeboten der Speditions- und Logistikbranche vergleichen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Möglichkeiten der Kontaktaufnahme zu Kunden und Interessenten situationsgerecht nutzen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kundengespräche vorbereiten und führen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">bei der Betreuung und Ausweitung des Kundenkreises mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="3" rowsep="1" valign="top">8</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="3" rowsep="1" valign="top">Gefahrgut, Schutz und Sicherheit (§ 4 Nr. 8)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Gefahren im Umgang mit Gefahrgut unter Berücksichtigung der Gefahrenklassen und -Symbole sowie Stoffeinteilungen beachten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">güterbezogene Sicherheitsvorschriften beachten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Maßnahmen zur Schadenverhütung und Schadenminderung treffen und überwachen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Schutz- und Sicherheitsvorkehrungen begründen und beachten</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" valign="top">9</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kaufmännische Steuerung und Kontrolle (§ 4 Nr. 9)</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="7" rowsep="1" valign="top">9.1</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="7" rowsep="1" valign="top">Zahlungsverkehr und Buchführung (§ 4 Nr. 9.1)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Grundsätze einer ordnungsgemäßen Kassenführung beachten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Forderungen und Verbindlichkeiten überwachen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Zahlungsvorgänge bearbeiten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Maßnahmen bei Zahlungsverzug einleiten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aufbau und Inhalt des betrieblichen Buchungssystems berücksichtigen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">vorbereitende Arbeiten für die Buchung durchführen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">im Ausbildungsbetrieb anfallende Steuern und Abgaben berücksichtigen</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">vorbereitende Arbeiten für den Jahresabschluss durchführen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="5" rowsep="1" valign="top">9.2</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="5" rowsep="1" valign="top">Kosten- und Leistungsrechnung, Controlling (§ 4 Nr. 9.2)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aufbau der betrieblichen Kostenrechnung erläutern, Funktion des Controllings erklären</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kosten und Erträge von erbrachten Dienstleistungen berechnen und bewerten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Daten für die Kalkulation ermitteln</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">an kaufmännischen Planungs-, Steuerungs- und Kontrollaufgaben des Ausbildungsbetriebes mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Daten für die Erstellung von Statistiken beschaffen, Statistiken erstellen und präsentieren</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">an Aufgaben des kaufmännischen Berichtswesens im Ausbildungsbetrieb mitwirken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" morerows="2" valign="top">9.3</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="2" valign="top">Qualitätsmanagement (§ 4 Nr. 9.3)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">den Zusammenhang zwischen Qualität und Kundenzufriedenheit erklären und die Auswirkung auf das Betriebsergebnis darstellen</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text></textdaten></norm>
+<norm builddate="20130405131907" doknr="BJNR190200004BJNE001400000"><metadaten><jurabk>SpedKfmAusbV 2004</jurabk><enbez>Anlage 2</enbez><titel format="XML">(zu § 5)
+<BR/>
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Spedition
+und Logistikdienstleistung/zur Kauffrau für Spedition und
+Logistikdienstleistung - Zeitliche Gliederung -</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle">(Fundstelle: BGBl. I 2004, 1911 - 1913)</kommentar></P><P><B>1. Ausbildungsjahr</B><BR/>(1) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildungspositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>1.1</DT><DD Font="normal"><LA Size="normal">Stellung, Rechtsform und Struktur,</LA></DD><DT>1.2</DT><DD Font="normal"><LA Size="normal">Berufsbildung,</LA></DD><DT>1.3</DT><DD Font="normal"><LA Size="normal">Personalwirtschaft, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele c bis f,</LA></DD><DT>1.4</DT><DD Font="normal"><LA Size="normal">Sicherheit und Gesundheitsschutz bei der Arbeit,</LA></DD><DT>1.5</DT><DD Font="normal"><LA Size="normal">Umweltschutz</LA></DD></DL></LA></DD></DL>zu vermitteln.<BR/>(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>4.</DT><DD Font="normal"><LA Size="normal">Prozessorientierte Leistungserstellung in Spedition und Logistik, Lernziele a, f, g und m,</LA></DD><DT>5.3</DT><DD Font="normal"><LA Size="normal">Sammelgut- und Systemverkehre,</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">Verträge, Haftung und Versicherungen, Lernziele a und c,</LA></DD></DL></LA></DD></DL>im Zusammenhang mit den Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>2.1</DT><DD Font="normal"><LA Size="normal">Arbeitsorganisation,</LA></DD><DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme, Lernziele a bis e,</LA></DD><DT>2.4</DT><DD Font="normal"><LA Size="normal">Datenschutz und Datensicherheit,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">Anwenden der englischen Sprache bei Fachaufgaben, Lernziele a und b,</LA></DD></DL></LA></DD></DL>zu vermitteln.<BR/>(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>5.1</DT><DD Font="normal"><LA Size="normal">Güterversendung und Transport, Lernziele a bis d,</LA></DD><DT>8.</DT><DD Font="normal"><LA Size="normal">Gefahrgut, Schutz und Sicherheit, Lernziel a,</LA></DD></DL></LA></DD></DL>zu vermitteln und in Verbindung damit die Vermittlung der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>1.4</DT><DD Font="normal"><LA Size="normal">Sicherheit und Gesundheitsschutz bei der Arbeit,</LA></DD><DT>1.5</DT><DD Font="normal"><LA Size="normal">Umweltschutz,</LA></DD><DT>2.1</DT><DD Font="normal"><LA Size="normal">Arbeitsorganisation,</LA></DD><DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme, Lernzeile b, d und e,</LA></DD></DL></LA></DD></DL>zu vertiefen.</P><P><B>2. Ausbildungsjahr</B><BR/>(1) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>4.</DT><DD Font="normal"><LA Size="normal">Prozessorientierte Leistungserstellung in Spedition und Logistik, Lernzeile c, d, h, i, k, l,</LA></DD><DT>5.1</DT><DD Font="normal"><LA Size="normal">Güterversendung und Transport, Lernziele e bis i,</LA></DD><DT>5.5</DT><DD Font="normal"><LA Size="normal">Logistische Dienstleistungen, Lernziel a,</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">Verträge, Haftung und Versicherungen, Lernziel d,</LA></DD><DT>7.</DT><DD Font="normal"><LA Size="normal">Marketing, Lernziele c bis e,</LA></DD></DL></LA></DD></DL>zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme, Lernziele a bis e,</LA></DD><DT>5.1</DT><DD Font="normal"><LA Size="normal">Güterversendung und Transport, Lernzeile a bis d,</LA></DD><DT>5.3</DT><DD Font="normal"><LA Size="normal">Sammelgut- und Systemverkehre</LA></DD></DL></LA></DD></DL>zu vertiefen.<BR/>(2) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>5.2</DT><DD Font="normal"><LA Size="normal">Lagerlogistik</LA></DD></DL></LA></DD></DL>in Verbindung mit den Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>1.3</DT><DD Font="normal"><LA Size="normal">Personalwirtschaft, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele a und b,</LA></DD><DT>2.2</DT><DD Font="normal"><LA Size="normal">Teamarbeit und Kommunikation,</LA></DD><DT>8.</DT><DD Font="normal"><LA Size="normal">Gefahrgut, Schutz und Sicherheit, Lernziele b bis d,</LA></DD><DT>9.3</DT><DD Font="normal"><LA Size="normal">Qualitätsmanagement</LA></DD></DL></LA></DD></DL>zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildposition <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>1.1</DT><DD Font="normal"><LA Size="normal">Stellung, Rechtsform und Struktur, Lernziel e,</LA></DD><DT>2.1</DT><DD Font="normal"><LA Size="normal">Arbeitsorganisation</LA></DD></DL></LA></DD></DL>zu vertiefen.<BR/>(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>5.5</DT><DD Font="normal"><LA Size="normal">Logistische Dienstleistungen, Lernziel k,</LA></DD><DT>9.1</DT><DD Font="normal"><LA Size="normal">Zahlungsverkehr und Buchführung, Lernziele a, c, e und f</LA></DD><DT>9.2</DT><DD Font="normal"><LA Size="normal">Kosten- und Leistungsrechnung, Controlling, Lernziele a bis c,</LA></DD></DL></LA></DD></DL>zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme, Lernziele a bis e,</LA></DD><DT>5.1</DT><DD Font="normal"><LA Size="normal">Güterversendung und Transport</LA></DD></DL></LA></DD></DL>zu vertiefen.</P><P><B>3. Ausbildungsjahr</B><BR/>(1) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>3.</DT><DD Font="normal"><LA Size="normal">Anwenden der englischen Sprache bei Fachaufgaben, Lernziele c und d,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">Prozessorientierte Leistungserstellung in Spedition und Logistik, Lernziele b und e, n bis p,</LA></DD><DT>5.4</DT><DD Font="normal"><LA Size="normal">Internationale Spedition,</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">Verträge, Haftung und Versicherungen, Lernziele b, e bis k,</LA></DD><DT>9.1</DT><DD Font="normal"><LA Size="normal">Zahlungsverkehr und Buchführung, Lernziele b, d, g und h,</LA></DD><DT>9.2</DT><DD Font="normal"><LA Size="normal">Kosten- und Leistungsrechnung, Controlling, Lernziele d bis f,</LA></DD></DL></LA></DD></DL>zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme,</LA></DD><DT>2.4</DT><DD Font="normal"><LA Size="normal">Datenschutz und Datensicherheit,</LA></DD><DT>5.3</DT><DD Font="normal"><LA Size="normal">Sammelgut- und Systemverkehre,</LA></DD><DT>7.</DT><DD Font="normal"><LA Size="normal">Marketing, Lernziele c bis e,</LA></DD><DT>8.</DT><DD Font="normal"><LA Size="normal">Gefahrgut, Schutz und Sicherheit, Lernziel a,</LA></DD><DT>9.3</DT><DD Font="normal"><LA Size="normal">Qualitätsmanagement</LA></DD></DL></LA></DD></DL>fortzuführen.<BR/>(2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme, Lernziel f,</LA></DD><DT>5.5</DT><DD Font="normal"><LA Size="normal">Logistische Dienstleistungen, Lernziele b bis i und l,</LA></DD><DT>7.</DT><DD Font="normal"><LA Size="normal">Marketing, Lernziele a und b,</LA></DD></DL></LA></DD></DL>zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>2.3</DT><DD Font="normal"><LA Size="normal">Informations- und Kommunikationssysteme, Lernziele a bis e,</LA></DD><DT>2.4</DT><DD Font="normal"><LA Size="normal">Datenschutz und Datensicherheit,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">Anwenden der englischen Sprache bei Fachaufgaben, Lernziele c und d,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">Prozessorientierte Leistungserstellung in Spedition und Logistik,</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">Verträge, Haftung und Versicherungen,</LA></DD><DT>7.</DT><DD Font="normal"><LA Size="normal">Marketing, Lernziele c bis e,</LA></DD><DT>9.3</DT><DD Font="normal"><LA Size="normal">Qualitätsmanagement</LA></DD></DL></LA></DD></DL>fortzuführen.<BR/>(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse einer der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>5.1</DT><DD Font="normal"><LA Size="normal">Güterversendung und Transport,</LA></DD><DT>5.2</DT><DD Font="normal"><LA Size="normal">Lagerlogistik</LA></DD><DT>5.3</DT><DD Font="normal"><LA Size="normal">Sammelgut- und Systemverkehre,</LA></DD><DT>5.4</DT><DD Font="normal"><LA Size="normal">Internationale Spedition oder</LA></DD><DT>5.5</DT><DD Font="normal"><LA Size="normal">Logistische Dienstleistungen</LA></DD></DL></LA></DD></DL>in Verbindung mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>4.</DT><DD Font="normal"><LA Size="normal">Prozessorientierte Leistungserstellung in Spedition und Logistik</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">Verträge, Haftung und Versicherungen</LA></DD></DL></LA></DD></DL>zu vertiefen. Dabei ist der betriebliche Ausbildungsschwerpunkt zugrunde zu legen.</P></Content></text></textdaten></norm>
+</dokumente>

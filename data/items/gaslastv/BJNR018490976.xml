@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20150917215011" doknr="BJNR018490976"><norm builddate="20150917215011" doknr="BJNR018490976"><metadaten><jurabk>GasLastV</jurabk><amtabk>GasLastV</amtabk><ausfertigung-datum manuell="ja">1976-07-21</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1976, 1849</zitstelle></fundstelle><kurzue>Gaslastverteilungs-Verordnung</kurzue><langue>Verordnung über die Sicherstellung der Gasversorgung</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 264 V v. 31.8.2015 I 1474</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 25.7.1976 +++)<BR/>(+++ Zur Anwendung vgl. § 11 Abs. 2 u. 3 +++)<BR/><BR/></pre></P></Content></fussnoten></textdaten></norm>
+<norm builddate="20150917215011" doknr="BJNR018490976BJNE000100314"><metadaten><jurabk>GasLastV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2 Buchstabe a, Nr. 5 bis 7, des § 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzbl. I S. 705), wird von der Bundesregierung und auf Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:</P></Content></text></textdaten></norm>
+<norm builddate="20150917215011" doknr="BJNR018490976BJNE000201309"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Zur Sicherstellung der öffentlichen Gasversorgung wird eine Lastverteilung für Gas eingerichtet.</P><P>(2) Gas im Sinne dieser Verordnung sind brennbare, verdichtete oder verflüssigte Gase, die für eine Verwendung in der öffentlichen Gasversorgung mittelbar oder unmittelbar geeignet sind.</P><P>(3) Auf Flüssiggas ist diese Verordnung insoweit anzuwenden, als es für die leitungsgebundene öffentliche Gasversorgung verwendet wird.</P></Content>  </text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215011" doknr="BJNR018490976BJNE000304118"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>Die Lastverteilung obliegt <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern; durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden;</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">dem Bundesministerium für Wirtschaft und Energie als Bundeslastverteiler.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215011" doknr="BJNR018490976BJNE000404118"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 3</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Beim Bundesministerium für Wirtschaft und Energie und bei den obersten Wirtschaftsbehörden der Länder sind besondere Stellen einzurichten. Sie tragen die Bezeichnungen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal">Bundeslastverteilerstelle für Gas,</LA><LA Size="normal">Gebietslastverteilerstelle für Gas.</LA></DD></DL></P><P>(2) Soweit nach § 2 Nr. 1 Gruppen-, Bezirks- oder Bereichslastverteiler bestimmt werden, sind bei diesen ebenfalls besondere Stellen einzurichten. Sie tragen die Bezeichnungen <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal">Gruppenlastverteilerstelle für Gas,</LA><LA Size="normal">Bezirkslastverteilerstelle für Gas,</LA><LA Size="normal">Bereichslastverteilerstelle für Gas.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215011" doknr="BJNR018490976BJNE000504118"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 4</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage zu dieser Verordnung. Die Befugnis, diese Grenzen durch Rechtsverordnung zu ändern, wird auf das Bundesministerium für Wirtschaft und Energie übertragen.</P><P>(2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung bestimmen sich nach Landesrecht.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215011" doknr="BJNR018490976BJNE000601309"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 5</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Lastverteiler können Verfügungen erlassen <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">an Unternehmen und Betriebe, die Gas erzeugen, beziehen oder abgeben, über<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">die Gewinnung, Herstellung, den Bezug, die Bearbeitung, Verarbeitung, Umwandlung, Lagerung, Weiterleitung, Zuteilung, Abgabe, Verwendung, Einfuhr und Ausfuhr von Gas;</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung, Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen und Produktionsmitteln, die für die Gasversorgung erforderlich sind;</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerblichen Wirtschaft, die für eine Versorgung mit Gas erforderlich sind;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">an Verbraucher über die Zuteilung, den Bezug und die Verwendung von Gas sowie den Ausschluß vom Bezug von Gas.</LA></DD> </DL> </P><P>(2) Die Lastverteiler können Unternehmen und Betriebe, die Gas erzeugen, beziehen oder abgeben, sowie Verbraucher durch Verfügung verpflichten, innerhalb einer bestimmten Frist bestehende Verträge des in Absatz 1 bezeichneten Inhalts zu ändern oder neue Verträge dieses Inhalts abzuschließen, soweit das angestrebte Verhalten durch Anwendung bestehender Verträge nicht oder nicht rechtzeitig verwirklicht werden kann. In der Verfügung ist für eine Leistung das übliche Entgelt oder, in Ermangelung eines solchen, ein angemessenes Entgelt festzusetzen; für die übrigen Vertragsbedingungen gilt Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß zustande, so können die Lastverteiler ihn durch Verfügung begründen.</P><P>(3) Die Lastverteiler dürfen Verfügungen nach den Absätzen 1 und 2 nur erlassen, soweit diese erforderlich sind, um eine Gefährdung der öffentlichen Versorgung mit Gas zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern. Bestehende Verträge und die Zweckbestimmung von Eigenanlagen sind möglichst zu berücksichtigen.</P><P>(4) Der Bundeslastverteiler darf Verfügungen nur nach Maßgabe des § 9 des Wirtschaftssicherstellungsgesetzes erlassen.</P><P>(5) Bezirks- und Bereichslastverteiler dürfen Verfügungen nach Absatz 1 Nr. 1 Buchstaben b und c sowie Verfügungen nach Absatz 2, die Verträge des in Absatz 1 Nr. 1 Buchstaben b und c bezeichneten Inhalts betreffen, nur erlassen, wenn die Lage ein sofortiges Handeln erfordert oder wenn die Verbindungen zu den übergeordneten Lastverteilern unterbrochen sind.</P><P>(6) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald diese Verordnung aufgehoben oder außer Anwendung gesetzt wird. Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2 Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem ursprünglichen Inhalt wieder auf.</P></Content>    </text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE000700314"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>Örtlich zuständig ist der Lastverteiler, in dessen Bezirk <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die von einer Verfügung nach § 5 Abs. 1 Nr. 1 betroffene Betriebsstätte eines Unternehmens oder Betriebes liegt; zu den Betriebsstätten gehören auch die nicht mit Betriebspersonal besetzten, der Versorgung von Verbrauchern mit Gas dienenden Anlagen;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die von einer Verfügung nach § 5 Abs. 1 Nr. 2 betroffene Betriebsstätte eines Verbrauchers liegt.</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE001400309"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 6a</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Der Leiter einer Lastverteilerstelle muß mit der technischen Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der Verbrauchsstruktur seiner Lastverteilung gut vertraut sein.</P><P>(2) Zum Leiter einer Lastverteilerstelle kann ein leitender Angehöriger des Gasversorgungsunternehmens bestellt werden, dem die Belieferung des jeweiligen Lastverteilungsgebietes ganz oder teilweise obliegt. Das Beschäftigungsverhältnis zu seinem Gasversorgungsunternehmen bleibt unberührt. Die Vorschriften der Verwaltungsverfahrensgesetze über in Verwaltungsverfahren ausgeschlossene Personen, die bei einem Beteiligten gegen Entgelt beschäftigt sind oder bei ihm als Mitglied des Vorstandes, des Aufsichtsrates oder eines gleichartigen Organs tätig sind, sowie über die Besorgnis der Befangenheit sind insoweit nicht anzuwenden.</P><P>(3) Der zum Leiter einer Gebiets-, Gruppen-, Bezirks- oder Bereichslastverteilerstelle bestellte Angehörige des Gasversorgungsunternehmens kann in das Ehrenbeamtenverhältnis berufen werden. Die nähere Ausgestaltung des Ehrenbeamtenverhältnisses regelt das Landesrecht.</P><P>(4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der Lastverteilerstelle.</P></Content>   </text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE000801377"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 7</enbez></metadaten><textdaten><text format="XML"><Content><P>Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet worden ist.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE000901309"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 8</enbez></metadaten><textdaten><text format="XML"><Content><P>Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5 Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz 1954 geahndet wird.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE001000314"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 9</enbez></metadaten><textdaten><text format="XML"><Content><P>Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die Verfügung nach § 5 erlassen hat.</P></Content></text></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE001100314"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 10</enbez></metadaten><textdaten><text format="XML"><Content><P>Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.</P></Content></text></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE001205118"><metadaten><jurabk>GasLastV</jurabk><enbez>§ 11</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</P><P>(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann angewandt werden, wenn es das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung bestimmt.</P><P>(3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20150917215012" doknr="BJNR018490976BJNE001302377"><metadaten><jurabk>GasLastV</jurabk><enbez>Anlage</enbez><titel format="parat">zu § 4 Abs. 1 Satz 1 der Gaslastverteilungs-Verordnung</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle"> Fundstelle des Originaltextes: BGBl. I 2002, 390 - 394 </kommentar></P><P> Die aus versorgungstechnischen Gründen gebildeten Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen: <BR/><table frame="none" tocentry="%yes;">
+		<tgroup align="left" char="" charoff="50" cols="5" colsep="0" rowsep="0">
+			<colspec colname="col1" colnum="1" colwidth="5*"/>
+			<colspec colname="col2" colnum="2" colwidth="5*"/>
+			<colspec colname="col3" colnum="3" colwidth="5*"/>
+			<colspec colname="col4" colnum="4" colwidth="5*"/>
+			<colspec colname="col5" colnum="5" colwidth="70*"/>
+			<tbody valign="top">
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet I</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Die Länder</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Bremen,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Hamburg,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Schleswig-Holstein,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Niedersachsen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Braunschweig (ohne die Gemeinden/Städte Friedland, Göttingen, Rosdorf aus dem Landkreis Göttingen, die zum Lastverteilungsgebiet III gehören),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Hannover,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Lüneburg,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Weser-Ems (ohne die kreisfreie Stadt Osnabrück und ohne die zum Lastverteilungsgebiet II gehörenden Gemeinden/Städte des Landkreises Osnabrück),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Hessen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Kassel</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Kreis/Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Kassel</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Ahnatal, Bad Karlshafen, Calden,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Espenau, Fuldatal (ohne den Ortsteil Ihringshausen),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Grebenstein, Gutsbezirk Reinhardswald, Hofgeismar, Immenhausen,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Liebenau, Oberweser, Reinhardshagen, Trendelburg, Vellmar,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Wahlsburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte und Stadt-/Ortsteile gehören zu den Lastverteilungsgebieten II oder III),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Mecklenburg-Vorpommern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Nordwestmecklenburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Alt Meteln, Badow, Böken, Brüsewitz, Bülow, Carlow, Cramonshagen, Dalberg-Wendelsdorf, Dassow, Dechow, Demern, Dragun, Gadebusch, Grambow, Groß Molzahn, Groß Salitz, Harkensee, Holdorf, Kalkhorst, Kneese, Köchelstorf b. Rehna, Krembz, Löwitz, Lüdersdorf, Lützow, Mühlen-Eichsen, Nesow, Nienmark, Perlin, Pokrent, Pötenitz, Rehna, Renzow, Rieps, Roggendorf, Schlagsdorf, Schönberg, Selmsdorf, Testorf-Steinfort, Thandorf, Utecht, Veelböken, Vitense, Wedendorf, Zickhusen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Ludwigslust</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Dümmer, Gallin, Gresse, Lüttow, Nostorf, Schwanheide, Valluhn, Zarrentin, Zülow</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Sachsen-Anhalt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Magdeburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Bördekreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Ausleben, Barneberg, Beckendorf-Neindorf, Gröningen, Großalsleben, Hamersleben, Harbke, Hötersleben, Hordorf, Hornhausen, Krottorf, Marienborn, Neuwegersleben, Oschersleben, Sommersdorf, Völpke, Wackersleben, Wulferstedt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Halberstadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Aspenstedt, Berßel, Danstedt, Halberstadt, Harsleben, Langenstein, Lüttgenrode, Osterwieck, Sargstedt, Schauen, Schwanebeck, Ströbeck, Wegeleben, Zilly</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Ohrekreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Beendorf, Morsleben, Oebisfelde, Schwanefeld, Walbeck, Weferlingen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Quedlinburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der Gemeinde</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Westerhausen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Wernigerode</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Abbenrode, Altenbrak, Benneckenstein, Blankenburg, Cattenstedt, Darlingerode, Derenburg, Drübeck, Elbingerode, Elend, Heimburg, Heudeber, Hüttenrode, Ilsenburg, Langeln, Reddeber, Schierke, Stapelburg, Veckenstedt, Wasserleben, Wernigerode, Wienrode</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII).</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet II</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Die Länder</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Nordrhein-Westfalen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Arnsberg,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Detmold,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Düsseldorf,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Köln,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Münster,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Niedersachsen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Weser-Ems</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Osnabrück</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Osnabrück</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Bad Essen, Bad Iburg, Bad Laer, Bad Rothenfelde, Belm, Bissendorf, Bohmte, Dissen am Teutoburger Wald, Georgsmarienhütte, Hagen am Teutoburger Wald, Hasbergen, Hilter am Teutoburger Wald, Melle, Ostercappeln, Wallenhorst</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet I),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Rheinland-Pfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Bereichen der ehemaligen Regierungsbezirke</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Koblenz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Koblenz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">und den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Ahrweiler, Altenkirchen (Westerwald),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Mayen-Koblenz, Neuwied, Westerwaldkreis, Cochem-Zell (ohne die Verbandsgemeinde Zell (Mosel), die zum Lastverteilungsgebiet IV gehört),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Rhein-Hunsrück-Kreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Rhein-Lahn-Kreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der großen kreisangehörigen Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Lahnstein und der</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">Verbandsgemeinde</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">Braubach</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet III),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Trier</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Daun,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Bitburg-Prüm</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der Verbandsgemeinde</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Prüm,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Hessen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Gießen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Kreis/Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Marburg-Biedenkopf</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Angelburg, Biedenkopf, Breidenbach, Dautphetal, Steffenberg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet III),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Kassel</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Kreisen/Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Kassel</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Breuna, Wolfhagen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zu den Lastverteilungsgebieten I oder III),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Waldeck-Frankenberg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Allendorf (Eder), Arolsen,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Battenberg (Eder), Bromskirchen, Burgwald, Diemelsee, Diemelstadt, Frankenau, Frankenberg (Eder), Gemünden (Wohra), Haina (Kloster), Hatzfeld (Eder), Korbach, Lichtenfels, Rosenthal, Twistetal, Volksmarsen, Vöhl, Waldeck, Willingen (Upland)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet III).</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet III</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Die Länder</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Hessen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Darmstadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den kreisfreien Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Darmstadt, Frankfurt am Main,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Offenbach am Main, Wiesbaden</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Kreisen/Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Bergstraße (ohne die zum Lastverteilungsgebiet V gehörende Stadt Viernheim),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Darmstadt-Dieburg, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis, Main-Taunus-Kreis, Odenwaldkreis, Offenbach, Rheingau-Taunus-Kreis, Wetteraukreis,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Gießen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Kreisen/Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Gießen, Lahn-Dill-Kreis,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Limburg-Weilburg, Vogelsbergkreis, Marburg-Biedenkopf (ohne die beim Lastverteilungsgebiet II aufgeführten Gemeinden/Städte),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Kassel</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Kassel</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Kreisen/Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Fulda, Hersfeld-Rotenburg (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden/Städte),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Kassel (ohne die bei den Lastverteilungsgebieten I und II aufgeführten Gemeinden/Städte), Schwalm-Eder-Kreis,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Waldeck-Frankenberg (ohne die beim Lastverteilungsgebiet II aufgeführten Gemeinden/Städte), Werra-Meißner-Kreis, (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden/Städte),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Niedersachsen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Braunschweig</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Göttingen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Friedland, Göttingen, Rosdorf</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet I),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Rheinland-Pfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Bereichen der ehemaligen Regierungsbezirke</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Koblenz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Rhein-Lahn-Kreis (ohne die beim Lastverteilungsgebiet II aufgeführten Gemeinden)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Rheinhessen-Pfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Mainz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Alzey-Worms</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der verbandsfreien Gemeinde</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Osthofen (Stadt)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">und den Verbandsgemeinden</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Eich, Westhofen, Wörrstadt mit</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">der Ortsgemeinde Partenheim</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet IV),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Mainz-Bingen (ohne die Verbandsgemeinde Sprendlingen-Gensingen, die zum Lastverteilungsgebiet IV gehört),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Bayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Unterfranken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Aschaffenburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Aschaffenburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Alzenau i. Ufr., Bessenbach,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Blankenbach, Geiselbach, Glattbach, Goldbach, Haibach, Hösbach, Johannesberg, Kahl a. Main, Karlstein a. Main, Kleinkahl,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Kleinostheim, Krombach, Laufach, Mainaschaff, Mömbris, Sailauf, Schöllkrippen, Sommerkahl, Stockstadt a. Main, Waldaschaff,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Westerngrund</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIa),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Thüringen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Eichsfeld.</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet IV</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Die Länder</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Saarland,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Rheinland-Pfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Bereichen der ehemaligen Regierungsbezirke</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Koblenz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Bad Kreuznach, Birkenfeld,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Cochem-Zell</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der Verbandsgemeinde</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Zell (Mosel)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet II)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Trier</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Trier</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Bernkastel-Wittlich, Trier-Saarburg,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Bitburg-Prüm (ohne die Verbandsgemeinde Prüm, die zum Lastverteilungsgebiet II gehört)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Rheinhessen-Pfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den kreisfreien Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Frankenthal (Pfalz), Kaiserslautern,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Landau in der Pfalz, Ludwigshafen am Rhein, Neustadt an der Weinstraße,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Pirmasens, Speyer, Zweibrücken,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Worms, soweit aus dem Netz der Saar Ferngas AG, Saarbrücken/Pfalzgas GmbH,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Frankenthal (Pfalz) versorgt,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Bad Dürkheim, Donnersbergkreis,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Germersheim, Kaiserslautern, Kusel, Südliche Weinstraße,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Ludwigshafen, Pirmasens,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Alzey-Worms (ohne die beim Lastverteilungsgebiet III aufgeführten Gemeinden),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Mainz-Bingen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der Verbandsgemeinde</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Sprendlingen-Gensingen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet III).</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet V</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Die Länder</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Baden-Württemberg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Freiburg,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Tübingen,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Karlsruhe,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Stuttgart (ohne die Städte Freudenberg und Wertheim aus dem Main-Tauber-Kreis, die zum Lastverteilungsgebiet VIa gehören),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Bayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Schwaben</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Lindau (Bodensee),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Neu-Ulm</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Elchingen, Neu-Ulm, Senden, Vöhringen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIb),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Unterfranken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Würzburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Bieberehren, Röttingen, Tauberrettersheim</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIa),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Rheinland-Pfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Rheinhessen-Pfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Worms, soweit aus dem Netz der Gasversorgung</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Süddeutschland GmbH, Stuttgart/Energie- und Wasserwerke</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Rhein-Neckar AG, Mannheim, versorgt,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Hessen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Darmstadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Kreis/Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Bergstraße</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Viernheim.</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet VIa</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Die Länder</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Baden-Württemberg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Stuttgart</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Main-Tauber-Kreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Freudenberg, Wertheim,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Bayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Oberbayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Eichstätt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Adelschlag, Altmannstein, Beilngries,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Böhmfeld, Buxheim, Denkendorf, Dollnstein, Egweil,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Eichstätt, Hitzhofen, Kinding, Kipfenberg, Mindelstetten,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Mörnsheim, Nassenfels, Pollenfeld, Schernfeld, Titting,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Walting, Wellheim</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIb),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Niederbayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Deggendorf (ohne die zum Lastverteilungsgebiet VIb gehörenden Gemeinden)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Freyung-Grafenau</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Kelheim</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit dem Markt Painten,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Regen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Straubing-Bogen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Ascha, Falkenfels, Haibach, Haselbach,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Hunderdorf, Kirchroth, Konzell, Loitzendorf, Mariaposching, Mitterfels, Neukirchen, Niederwinkling, Parkstetten, Perasdorf, Rattenberg, Rattiszell, Sankt Englmar, Schwarzach, Stallwang, Steinach, Wiesenfelden, Windberg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIb),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Oberpfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den kreisfreien Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Amberg, Weiden i. d. Opf.</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Amberg-Sulzbach, Cham (ohne die Gemeinde Rettenbach, die zum Lastverteilungsgebiet VIb gehört),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Neumarkt i. d. Opf., Neustadt a. d. Waldnaab, Schwandorf,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Tirschenreuth,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Regensburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Beratzhausen, Brunn, Deuerling,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Duggendorf, Hemau, Holzheim a. Forst, Kallmünz, Laaber</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIb),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Oberfranken (ohne die zum Lastverteilungsgebiet VII gehörende Stadt Rodach b. Coburg des Landkreises Coburg)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Mittelfranken und</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Unterfranken (ohne die zum Lastverteilungsgebiet III gehörenden Gemeinden/Städte des Landkreises Aschaffenburg, ohne die kreisfreie Stadt Aschaffenburg sowie ohne die zum Lastverteilungsgebiet V gehörenden Gemeinden/Städte des Landkreises Würzburg),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Thüringen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Saale-Orla-Kreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Blankenberg, Blankenstein, Harra, Pottiga</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">(die übrigen Gemeinden/Städte gehören zum Lastverteilungsgebiet VII).</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet VIb</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Das Land</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Bayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Oberbayern (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden/Städte des Landkreises Eichstätt),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Niederbayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit den kreisfreien Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Landshut, Passau, Straubing</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Deggendorf</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit den Gemeinden/Städten</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Aholming, Buchhofen, Deggendorf, Künzing,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Moos, Oberpöring, Osterhofen, Otzing, Plattling,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Stephansposching, Wallerfing</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIa),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Dingolfing-Landau, Kelheim (ohne den Markt Painten, der zum Lastverteilungsgebiet VIa gehört), Landshut, Passau, Rottal-Inn,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Straubing-Bogen (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Oberpfalz</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit der kreisfreien Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Regensburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">und den Landkreisen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Cham</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">mit der Gemeinde</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">Rettenbach</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">(die übrigen Gemeinden gehören zum Lastverteilungsgebiet VIa),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Regensburg (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Schwaben (ohne den Landkreis Lindau - gehört zum Lastverteilungsgebiet V -sowie ohne die zum Lastverteilungsgebiet V gehörenden Gemeinden/Städte des Landkreises Neu-Ulm).</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col1" valign="top">Lastverteilungsgebiet VII</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Die Länder</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Berlin,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Brandenburg,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Mecklenburg-Vorpommern (ohne die zum Lastverteilungsgebiet I gehörenden Gemeinden/Städte aus den Landkreisen Nordwestmecklenburg und Ludwigslust),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Sachsen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Dresden,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Chemnitz,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Leipzig,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Sachsen-Anhalt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit den Regierungsbezirken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Dessau,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Halle,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Magdeburg (ohne die zum Lastverteilungsgebiet I gehörenden Gemeinden/Städte aus den Landkreisen Bördekreis, Halberstadt, Ohrekreis, Quedlinburg, Wernigerode),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Thüringen (ohne den zum Lastverteilungsgebiet III gehörenden Landkreis Eichsfeld)</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">(ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden/Städte aus dem Saale-Orla-Kreis),</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Bayern</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Oberfranken</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Landkreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">Coburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Rodach b. Coburg,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top">Hessen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">mit dem Regierungsbezirk</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col2" valign="top">Kassel</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Werra-Meißner-Kreis</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der Gemeinde/Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Herleshausen</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col3" valign="top">mit dem Kreis Hersfeld-Rotenburg</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">mit der Gemeinde/Stadt</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col4" valign="top">Wildeck-Obersuhl.</entry>
+				</row>
+			</tbody>
+		</tgroup>
+	</table> </P></Content> </text><fussnoten/></textdaten></norm>
+</dokumente>

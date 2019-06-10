@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20130405124957" doknr="BJNR005530966"><norm builddate="20130405124957" doknr="BJNR005530966"><metadaten><jurabk>BewG§90DV</jurabk><ausfertigung-datum manuell="ja">1966-09-02</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1966, 553</zitstelle></fundstelle><langue>Verordnung zur Durchführung des § 90 des Bewertungsgesetzes</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 18 Nr. 3 G v. 19.12.2000 I 1790</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P>(+++ Textnachweis Geltung ab: 5.3.1970 +++)</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20130405124957" doknr="BJNR005530966BJNE000100306"><metadaten><jurabk>BewG§90DV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 90 Abs. 2 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</P></Content></text></textdaten></norm>
+<norm builddate="20130405124957" doknr="BJNR005530966BJNE000200306"><metadaten><jurabk>BewG§90DV</jurabk><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>In den Fällen, in denen die Einheitswerte der bebauten Grundstücke im Sachwertverfahren zu ermitteln und die Wertverhältnisse vom 1. Januar 1964 zugrunde zu legen sind, ist nach den §§ 2 bis 4 zu verfahren.</P></Content></text></textdaten></norm>
+<norm builddate="20130405124957" doknr="BJNR005530966BJNE000300306"><metadaten><jurabk>BewG§90DV</jurabk><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Wertzahl zur Angleichung des Ausgangswerts (§ 83 des Gesetzes) an den gemeinen Wert wird in einem Hundertsatz ausgedrückt. Sie ergibt sich aus der nachstehenden Übersicht: <BR/><table frame="top" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="5" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="5*"/>
+		<colspec colname="col2" colnum="2" colwidth="5*"/>
+		<colspec colname="col3" colnum="3" colwidth="5*"/>
+		<colspec colname="col4" colnum="4" colwidth="85*"/>
+		<colspec colname="col5" colnum="5" colwidth="10*"/>
+		<thead valign="bottom">
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" nameend="col4" namest="col1" valign="top">Grundstücksart und Grundstücksgruppe</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Wertzahl in v.H.</entry>
+			</row>
+		</thead>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"><SP>A.</SP></entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top"><SP>Geschäftsgrundstücke</SP></entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Fabriken und Werkstätten des Handwerks mit einem Ausgangswert bis zu 500.000 DM</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">70</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">80</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">mit einem Ausgangswert über 500.000 DM bis zu 1.000.000 DM</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">70</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">mit einem Ausgangswert über 1.000.000 DM</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">70</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Lagerhäuser</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">80</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Warenhäuser</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">80</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">85</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Hotels und Kinderheime</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Betriebe, die mindestens 3 Monate im Jahr geschlossen sind</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">65</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">übrige Betriebe</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">70</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Grundstücke, die unmittelbar und nicht nur vorübergehend der Gewinnung, Lieferung und Verteilung von Wasser zur öffentlichen Versorgung dienen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">60</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Grundstücke, die unmittelbar dem öffentlichen Verkehr mit Luftfahrzeugen, Schienenbahnen, Oberleitungsomnibussen und Kraftomnibussen dienen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">50</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Grundstücke, die unmittelbar dem Betrieb, der Erhaltung und der Verwaltung eines öffentlichen Hafens dienen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">50</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Geld- und Kreditinstitute</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">60</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">65</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Lichtspielhäuser und Theater</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">in Gemeinden bis 10.000 Einwohner</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">60</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">in Gemeinden über 10.000 bis 100.000 Einwohner</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">65</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">in Gemeinden über 100.000 Einwohner</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">60</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">übrige Geschäftsgrundstücke</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">70</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">80</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"><SP>B.</SP></entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top"><SP>Mietwohngrundstücke und gemischtgenutzte Grundstücke</SP></entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">70</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">80</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"><SP>C.</SP></entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top"><SP>Einfamilienhäuser und Zweifamilienhäuser</SP></entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">60</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">65</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"><SP>D.</SP></entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top"><SP>Sonstige bebaute Grundstücke</SP></entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Altbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">60</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Neubauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">70</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nachkriegsbauten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">75</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P><P>(2) Als Hotels gelten auch Fremdenheime und andere Grundstücke, die dem Beherbergungsgewerbe dienen.</P><P>(3) Bei Lichtspielhäusern und Theatern ist die Einwohnerzahl der Belegenheitsgemeinde im Hauptfeststellungszeitpunkt maßgebend; § 80 Abs. 1 Satz 3 und 4 des Gesetzes ist entsprechend anzuwenden.</P><P>(4) Es sind anzuwenden die Wertzahlen für <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Altbauten, wenn die Gebäude bis zum 31. März 1924 bezugsfertig geworden sind,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Neubauten, wenn die Gebäude in der Zeit vom 1. April 1924 bis zum 20. Juni 1948 bezugsfertig geworden sind,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Nachkriegsbauten, wenn die Gebäude nach dem 20. Juni 1948 bezugsfertig geworden sind.</LA></DD> </DL>Bei Grundstücken mit Gebäuden oder Gebäudeteilen verschiedener Baujahrgruppen, für die die Wertminderung wegen Alters (§ 86 des Gesetzes) getrennt berechnet worden ist, ist für das ganze Grundstück eine durchschnittliche Wertzahl zu bilden. Dabei ist von dem Verhältnis der auf die verschiedenen Baujahrgruppen entfallenden Gebäudewerte oder Teile des Gebäudewerts auszugehen. Die errechnete Zahl ist auf die durch die Zahl 5 teilbare Zahl abzurunden, die ihr am nächsten kommt.</P><P>(5) Gehören Teile eines Geschäftsgrundstücks zu verschiedenen Grundstücksgruppen, so ist für das ganze Grundstück eine durchschnittliche Wertzahl zu bilden. Dabei ist von dem Verhältnis der auf die verschiedenen Grundstücksgruppen entfallenden Gebäudewerte oder Teile des Gebäudewerts auszugehen. Die errechnete Zahl ist auf die durch die Zahl 5 teilbare Zahl abzurunden, die ihr am nächsten kommt. Dies gilt nicht für Teile eines Fabrikgrundstücks.</P></Content>    </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405124957" doknr="BJNR005530966BJNE000400306"><metadaten><jurabk>BewG§90DV</jurabk><enbez>§ 3</enbez></metadaten><textdaten><text format="XML"><Content><P>Für Fabrikgrundstücke, bei denen der gesamte Betrieb stilliegt, gilt folgendes: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Läßt sich das Grundstück nicht mehr für einen Fabrikbetrieb, aber noch für andere Zwecke verwenden, so ermäßigt sich die Wertzahl um 10.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Läßt sich das Grundstück noch für einen Fabrikbetrieb verwenden, steht aber nicht fest, daß der Betrieb spätestens nach zwei Jahren wieder aufgenommen wird, so ermäßigt sich die Wertzahl um 5.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Steht fest, daß ein Fabrikbetrieb spätestens nach zwei Jahren wieder aufgenommen wird, so bestimmt sich die Wertzahl nach § 2.</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20130405124957" doknr="BJNR005530966BJNE000500306"><metadaten><jurabk>BewG§90DV</jurabk><enbez>§ 4</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Für Geschäftsgrundstücke und für gemischtgenutzte Grundstücke im Zonenrandgebiet ermäßigt sich die Wertzahl, die sich nach den §§ 2 und 3 ergibt, um 10. Als Zonenrandgebiet im Sinne dieser Verordnung sind anzusehen <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">im Land Schleswig-Holstein</LA><LA Size="normal">die kreisfreien Städte Flensburg, Kiel, Neumünster und Lübeck,</LA><LA Size="normal">die Kreise Flensburg, Schleswig, Eckernförde, Rendsburg, Plön, Oldenburg, Eutin, Segeberg, Stormarn und Herzogtum Lauenburg;</LA></DD>   <DT>2.</DT><DD Font="normal"><LA Size="normal">im Land Niedersachsen</LA><LA Size="normal">die kreisfreien Städte Lüneburg und Wolfsburg, die Landkreise Lüneburg, Lüchow-Dannenberg, Uelzen und Gifhorn,</LA><LA Size="normal">die kreisfreien Städte Braunschweig, Salzgitter und Goslar,</LA><LA Size="normal">die Landkreise Helmstedt, Braunschweig, Wolfenbüttel, Goslar, Gandersheim und Restkreis Blankenburg,</LA><LA Size="normal">die kreisfreie Stadt Hildesheim und die frühere kreisfreie Stadt Göttingen,</LA><LA Size="normal">die Landkreise Peine, Hildesheim-Marienburg, Zellerfeld, Osterode, Einbeck, Northeim, Duderstadt, Göttingen und Münden;</LA></DD>      <DT>3.</DT><DD Font="normal"><LA Size="normal">im Land Hessen</LA><LA Size="normal">die kreisfreien Städte Kassel und Fulda,</LA><LA Size="normal">die Landkreise Hofgeismar, Kassel, Witzenhausen, Eschwege, Melsungen, Rotenburg, Hersfeld, Hünfeld, Lauterbach, Fulda und Schlüchtern;</LA></DD>   <DT>4.</DT><DD Font="normal"><LA Size="normal">im Land Bayern</LA><LA Size="normal">die kreisfreien Städte Bad Kissingen und Schweinfurt,</LA><LA Size="normal">die Landkreise Mellrichstadt, Bad Neustadt/Saale, Brückenau, Königshofen/Grabfeld, Bad Kissingen, Hofheim, Ebern, Schweinfurt und Haßfurt,</LA><LA Size="normal">die kreisfreien Städte Coburg, Neustadt b. Coburg, Hof, Selb, Kulmbach, Marktredwitz, Bayreuth und Bamberg,</LA><LA Size="normal">die Landkreise Coburg, Staffelstein, Bamberg, Lichtenfels, Kronach, Stadtsteinach, Kulmbach, Naila, Münchberg, Hof, Rehau, Wunsiedel und Bayreuth,</LA><LA Size="normal">die kreisfreie Stadt Weiden,</LA><LA Size="normal">die Landkreise Tirschenreuth, Kemnath, Neustadt a.d. Waldnaab, Vohenstrauß, Nabburg, Oberviechtach, Waldmünchen, Neunburg v.W., Cham und Roding,</LA><LA Size="normal">die kreisfreien Städte Deggendorf und Passau,</LA><LA Size="normal">die Landkreise Kötzting, Viechtach, Regen, Bogen, Grafenau, Deggendorf, Wolfstein, Wegscheid und Passau.</LA></DD>         </DL> </P><P>(2) Durch die Ermäßigung nach Absatz 1 darf sich keine geringere Wertzahl als 50 vom Hundert ergeben.</P></Content></text></textdaten></norm>
+<norm builddate="20130405124957" doknr="BJNR005530966BJNE000601301"><metadaten><jurabk>BewG§90DV</jurabk><enbez>§ 5</enbez></metadaten><textdaten><text format="XML"><Content><P>Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten nach dem 31. Dezember 2001 als Berechnungsgrößen fort.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405124957" doknr="BJNR005530966BJNE000700306"><metadaten><jurabk>BewG§90DV</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</P></Content></text></textdaten></norm>
+</dokumente>

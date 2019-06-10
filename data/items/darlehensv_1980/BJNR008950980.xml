@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20161108222005" doknr="BJNR008950980"><norm builddate="20161108222005" doknr="BJNR008950980"><metadaten><jurabk>DarlehensV 1980</jurabk><amtabk>DarlehensV</amtabk><ausfertigung-datum manuell="ja">1980-07-09</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1980, 895</zitstelle></fundstelle><langue>Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen</langue><standangabe checked="ja"><standtyp>Neuf</standtyp><standkommentar>Neugefasst durch Bek. v. 28.10.1983 I 1340;</standkommentar></standangabe><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 1 V v. 11.7.2016 I 1715</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P>(+++ Textnachweis ab:  1.10.1986 +++)</P><P><BR/> Die V wurde aufgrund des § 18 Abs. 6 d. G v. 26.8.1971 I 1409 vom Bundesminister für Bildung und Wissenschaft mit Zustimmung des Bundesrates erlassen. <BR/>Sie ist in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. XVI Sachgeb. B Abschn. II Eingangssatz EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1132 am 1.1.1991 in Kraft getreten.</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000102116"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 1</enbez><titel format="XML">Reihenfolge der Tilgung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Verzinsliche Darlehen nach § 17 Abs. 4 des Gesetzes in der bis 31. März 1976 geltenden Fassung werden vor unverzinslichen Darlehen nach dem Bundesausbildungsförderungsgesetz eingezogen.</P><P>(2) Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht ausreichen, werden zunächst auf das Darlehen, dann auf die Kosten und zuletzt auf die Zinsen angerechnet.</P><P>(3) Bei mehreren gleichartigen Darlehen ist das ältere vor dem jüngeren zu tilgen.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000200327"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 2</enbez><titel format="parat">Dauer der Verzinsung</titel></metadaten><textdaten><text format="XML"><Content><P>Das Darlehen nach § 17 Abs. 4 des Gesetzes in der bis 31. März 1976 geltenden Fassung ist von Beginn des Jahres an zu verzinsen, das auf die Auszahlung des Betrages folgt.</P></Content></text></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000300327"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 3</enbez></metadaten><textdaten><text format="XML"><Content><P>(Aufgehoben)</P></Content></text></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000500327"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 5</enbez><titel format="parat">Freistellung von der Rückzahlungsverpflichtung</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000603116"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 6</enbez><titel format="XML">Vorzeitige Rückzahlung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Über den Antrag auf Gewährung eines Nachlasses wegen vorzeitiger Rückzahlung der Darlehens(rest)schuld nach § 18 Abs. 5b des Gesetzes entscheidet das Bundesverwaltungsamt nach Maßgabe des Absatzes 2 und der Anlage zu dieser Verordnung.</P><P>(2) Löst der Darlehensnehmer die gesamte Darlehens(rest)schuld nicht in einer Summe ab, so wird der Nachlass nur für die Ablösung von mindestens 500 Euro gewährt. Soweit vorzeitig zurückgezahlte Beträge nicht zur Ablösung der vollen Restschuld ausreichen, werden sie auf die zuletzt fällig werdenden Rückzahlungsraten angerechnet.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000700327"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 7</enbez><titel format="parat">Vergleiche, Veränderungen von Ansprüchen</titel></metadaten><textdaten><text format="XML"><Content><P>Der Abschluß von Vergleichen sowie die Stundung, Niederschlagung und der Erlaß von Ansprüchen richten sich nach den §§ 58 und 59 der Bundeshaushaltsordnung.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000803116"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 8</enbez><titel format="XML">Zahlungsrückstand</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Nach dem Zahlungstermin werden gesondert erhoben: <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA>Zinsen nach § 18 Absatz 2 des Gesetzes ab dem auf den Zahlungstermin folgenden Monat, wobei einem Kalendermonat 30 Tage zugrunde zu legen sind,</LA></DD><DT>2.</DT><DD Font="normal"><LA>2 Euro Mahnkosten.</LA></DD></DL></P><P>(2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem Darlehensnehmer ein Bescheid nach § 10 zugegangen ist. Abweichend von Satz 1 treten die Rechtsfolgen nicht ein, solange der Bescheid dem Darlehensnehmer aus von ihm nicht zu vertretenden Gründen nicht zugegangen ist.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE000900327"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 9</enbez><titel format="parat">Datenermittlung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Ämter für Ausbildungsförderung stellen nach Ablauf eines jeden Kalenderjahres bis zum 31. März dem Bundesverwaltungsamt die für die Zinsberechnung und den Darlehenseinzug erforderlichen Daten über <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die in dem Kalenderjahr geleisteten Darlehen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die in dem Kalenderjahr getroffenen Änderungen über in zurückliegenden Kalenderjahren geleistete Darlehen</LA></DD> </DL>auch für die elektronische Datenverarbeitung geeigneten, maschinell lesbaren Datenträgern zur Verfügung.</P><P>(2) Abweichend von Absatz 1 können die Ämter für Ausbildungsförderung in Einzelfällen, in denen die maschinelle Datenmitteilung wegen eines unverhältnismäßigen Verwaltungsaufwandes nicht vertretbar ist, die Datenmitteilung an das Bundesverwaltungsamt auf den Darlehenserfassungsbögen übermitteln.</P><P>(3) (Aufgehoben)</P><P>(4) Werden an einen Auszubildenden innerhalb eines Kalenderjahres von mehreren Ämtern für Ausbildungsförderung Darlehen geleistet, so hat jedes Amt die Höhe des von ihm gezahlten Darlehens dem Bundesverwaltungsamt mitzuteilen.</P><P>(5) Die Akten verbleiben bei dem Amt für Ausbildungsförderung, das zuletzt mit einer Entscheidung in der Förderungsangelegenheit befaßt war. Sie sind dem Bundesverwaltungsamt auf Anforderung zu überlassen.</P><P>(6) (Aufgehoben)</P></Content>     </text></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE001000327"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 10</enbez><titel format="parat">Rückzahlungsbescheid</titel></metadaten><textdaten><text format="XML"><Content><P>Unbeschadet der nach § 18 Abs. 3 des Gesetzes eintretenden Fälligkeit der Rückzahlungsraten erteilt das Bundesverwaltungsamt dem Darlehensnehmer einen Bescheid, in dem der Zeitpunkt des Beginns der Rückzahlung des Darlehens, die Höhe der monatlichen oder vierteljährlichen Raten sowie gegebenenfalls die Gesamthöhe des Zinsbetrages festgestellt werden.</P></Content></text></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE001102310"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 11</enbez><titel format="parat">Rückzahlungsbedingungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Rückzahlungsraten sind bei monatlicher Zahlungsweise (§ 18 Abs. 3 Satz 1 des Gesetzes) jeweils am Ende des Monats, bei vierteljährlicher Zahlungsweise (§ 18 Abs. 4 des Gesetzes) jeweils am Ende des dritten Monats in einer Summe zu leisten.</P><P>(2) Der Rückzahlungsbetrag wird im Auftrag des Bundesverwaltungsamtes von der zuständigen Bundeskasse im Lastschrifteinzugsverfahren von einem laufenden Konto des Darlehensnehmers eingezogen. Kann diesem die Einrichtung eines solchen Kontos nicht zugemutet werden, ist die unbare Zahlung auf ein vom Bundesverwaltungsamt bestimmtes Konto der Bundeskasse zuzulassen. Die Zahlung gilt mit Eingang des Rückzahlungsbetrages bei der Bundeskasse als geleistet.</P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE001204116"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 12</enbez><titel format="XML">Mitteilungspflichten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Der Darlehensnehmer ist verpflichtet, <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">jede Änderung der Wohnanschrift und des Familiennamens,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">(weggefallen)</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">(weggefallen)</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">während der Dauer der Freistellung von der Rückzahlungsverpflichtung jede nach der Geltendmachung eintretende Änderung seiner nach § 18a des Gesetzes maßgeblichen Familien- und Einkommensverhältnisse</LA></DD></DL>dem Bundesverwaltungsamt unverzüglich schriftlich oder elektronisch mitzuteilen.</P><P>(2) Kommt der Darlehensnehmer seinen Mitteilungspflichten nach Absatz 1 Nr. 1 nicht nach und muß seine Anschrift deshalb ermittelt werden, so hat er für die Ermittlung, sofern nicht höhere Kosten nachgewiesen werden, pauschal 25 Euro zu zahlen. Anschriftenermittlungskosten sollen nicht erhoben werden, wenn der Darlehensnehmer seine Mitteilungspflichten nach Bekanntgabe des Bescheides nach § 18 Abs. 5a des Gesetzes und nach § 10 verletzt und das Darlehenskonto des Darlehensnehmers im Zeitpunkt der Notwendigkeit der Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Absatz 1 Nummer 2 gilt entsprechend.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE001302116"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 13</enbez><titel format="XML">Aufteilung der eingezogenen Beträge</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Das Bundesverwaltungsamt hat den Ländern nach Ablauf eines Kalenderjahres eine Aufstellung über die Höhe der eingezogenen Beträge und Zinsen (Darlehens- und Zahlungsrückstandszinsen) sowie über die Aufteilung nach Maßgabe des § 56 Absatz 2 des Gesetzes zu übermitteln. Es hat zum Ende des jeweiligen Kalenderjahres jedem Land eine Abschlagszahlung in Höhe des ihm voraussichtlich zustehenden Betrages zu leisten und bis zum 30. Juni des laufenden Jahres den Restbetrag abzuführen, der ihm nach § 56 Absatz 2 Satz 4 zusteht.</P><P>(2) Kostenerstattungen nach § 8 Absatz 1 Nummer 2 und § 12 Absatz 2 sowie Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE001401310"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 13a</enbez></metadaten><textdaten><text format="XML"><Content><P>(weggefallen)</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE001501116"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>§ 14</enbez><titel format="XML">Ordnungswidrigkeiten</titel></metadaten><textdaten><text format="XML"><Content><P>Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 3 des Bundesausbildungsförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 12 Absatz 1 Nummer 4 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20161108222005" doknr="BJNR008950980BJNE001702320"><metadaten><jurabk>DarlehensV 1980</jurabk><enbez>Anlage</enbez><titel format="parat">(zu § 6 Abs. 1)</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle"> Fundstelle des Originaltextes: BGBl. I 2001, 398 </kommentar> <BR/><table frame="topbot" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="7" colsep="1" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="20*"/>
+		<colspec colname="col2" colnum="2" colwidth="15*"/>
+		<colspec colname="col3" colnum="3" colwidth="15*"/>
+		<colspec colname="col4" colnum="4" colwidth="15*"/>
+		<colspec colname="col5" colnum="5" colwidth="15*"/>
+		<colspec colname="col6" colnum="6" colwidth="15*"/>
+		<colspec colname="col7" colnum="7" colwidth="15*"/>
+		<thead valign="bottom">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ablösung des Darlehens bis zu einschließlich</entry>
+				<entry VJ="1" align="center" colsep="0" nameend="col7" namest="col2" valign="top">Nachlass in v.H. und Zahlungsbetrag zur Ablösung des Darlehensbetrages in Spalte 1 bei einer monatlichen Rückzahlungsmindestrate von</entry>
+			</row>
+				<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="center" colsep="0" nameend="col3" namest="col2" valign="top">25,56 Euro oder 40,90 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" nameend="col5" namest="col4" valign="top">61,36 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" nameend="col7" namest="col6" valign="top">105 Euro</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" valign="top">Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Nachlass v.H.</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Zahlungsbetrag Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Nachlass v.H.</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Zahlungsbetrag Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Nachlass v.H.</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Zahlungsbetrag Euro</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="0" valign="top">1</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">3</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">4</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">5</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">6</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">7</entry>
+			</row>
+		</thead>
+		<tbody valign="top">
+		
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">450</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">455</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8,0 </entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">460</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">13,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">870</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">890</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">910</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">16,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.260</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">13,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.305</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.350</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">19,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.620</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">15,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.700</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.770</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">2.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">21,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.963</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">17,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.075</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">12,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.188</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">24,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.265</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">19,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.430</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">13,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.595</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">27,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.555</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">21,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.765</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">15,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.975</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">29,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.820</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">22,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.100</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">16,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.360</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">31,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.083</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">24,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.398</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">17,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.735</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">5.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">34,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.300</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">26,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.700</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">18,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.075</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">36,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.520</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">27,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.988</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">19,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.428</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">38,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.720</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">29,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.230</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">20,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.770</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">40,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.900</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">31,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.485</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">21,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.103</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">41,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.095</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">32,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.725</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">22,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.425</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">7.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">43,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.238</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">34,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.950</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">23,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.738</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">45,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.400</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">35,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.200</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">24,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.040</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">47,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.505</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">36,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.398</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">25,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.333</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">48,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.635</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">38,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.580</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">26,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.615</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">39,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.795</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">27,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.888</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">10.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">40,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.950</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">28,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.150</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.250</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">41,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.143</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">29,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.403</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">43,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.270</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">30,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.700</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">44,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.440</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">31,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.935</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">12.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">45,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.600</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">32,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.160</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">12.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.250</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">46,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.688</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">33,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.375</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">47,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.825</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">33,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.645</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">48,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.953</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">34,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.843</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">49,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.070</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">35,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.030</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.250</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.178</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">36,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.280</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">15.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.425</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">37,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.450</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">15.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.673</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">37,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.688</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">16.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.920</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">38,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.840</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">16.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.250</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.168</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">39,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.065</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">17.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.415</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">40,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.200</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">17.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.663</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">40,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.413</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">18.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.910</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">41,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.530</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">18.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.250</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.158</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">42,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.730</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">19.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.405</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">43,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.830</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">19.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.653</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">43,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.018</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">20.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.900</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">44,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.200</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">20.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.250</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.148</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">45,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.275</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">21.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.395</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">45,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.445</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">21.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.643</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">46,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.610</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">22.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.890</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">47,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.660</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">22.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.250</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.138</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">48,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.700</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">23.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.385</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">49,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.730</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">23.500</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.750</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.633</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.750</entry>
+			</row>
+			<row rowsep="1">
+				<entry VJ="1" align="right" colsep="0" valign="top">24.000 (und mehr)</entry>
+				<entry VJ="1" align="right" colsep="0" valign="bottom">50,0</entry>
+				<entry VJ="1" align="right" colsep="0" valign="bottom">12.000</entry>
+				<entry VJ="1" align="right" colsep="0" valign="bottom">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="bottom">11.880</entry>
+				<entry VJ="1" align="right" colsep="0" valign="bottom">50,5</entry>
+				<entry VJ="1" align="right" colsep="0" valign="bottom">11.880</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text><fussnoten/></textdaten></norm>
+</dokumente>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20140116220521" doknr="BJNR054510997"><norm builddate="20140116220521" doknr="BJNR054510997"><metadaten><jurabk>BImSchV 27</jurabk><amtabk>27. BImSchV</amtabk><ausfertigung-datum manuell="ja">1997-03-19</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1997, 545</zitstelle></fundstelle><kurzue>Verordnung über Anlagen zur Feuerbestattung</kurzue><langue>Siebenundzwanzigste Verordnung zur Durchführung
+des Bundes-Immissionsschutzgesetzes (Artikel 1 der
+Verordnung über Anlagen zur Feuerbestattung und zur
+Änderung der Verordnung über genehmigungsbedürftige Anlagen)</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 10 V v. 2.5.2013 I 973</standkommentar></standangabe></metadaten><textdaten><text format="XML"><Content><P><noindex>Die Verpflichtungen aus der Richtlinie 83/189/EWG des Rates<BR/>vom 28. März 1983 über ein Informationsverfahren auf dem<BR/>Gebiet der Normen und technischen Vorschriften<BR/>(ABl. EG Nr. L 109 S. 8), zuletzt geändert durch<BR/>die Richtlinie 94/10/EG des Europäischen Parlaments<BR/>und des Rates vom 23. März 1994 (ABl. EG Nr. L 100<BR/>S. 30), sind beachtet worden.</noindex></P></Content></text><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 1.5.1997 +++)<BR/>(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR/>     Beachtung der<BR/>       EWGRL 189/83 (CELEX Nr: 383L0189) +++)<BR/><BR/></pre>Die V wurde von der Bundesregierung nach Anhörung der beteiligten Kreise mit Zustimmung des Bundesrates erlassen. Sie tritt gem. Art. 3 V v. 19.3.1997 I 545 mWv 1.5.1997 in Kraft.</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20140116220521" doknr="BJNR054510997BJNE000100320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 1</enbez><titel format="parat">Anwendungsbereich</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den Betrieb von Anlagen zur Feuerbestattung.</P></Content></text></textdaten></norm>
+<norm builddate="20140116220521" doknr="BJNR054510997BJNE000200320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 2</enbez><titel format="parat">Begriffsbestimmung</titel></metadaten><textdaten><text format="XML"><Content><P>Im Sinne dieser Verordnung sind: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Abgase:</LA><LA Size="normal">die Trägergase mit den festen, flüssigen oder gasförmigen Emissionen;</LA></DD>  <DT>2.</DT><DD Font="normal"><LA Size="normal">Altanlagen:</LA><LA Size="normal">Anlagen, die vor dem Inkrafttreten dieser Verordnung errichtet oder genehmigt worden sind;</LA></DD>  <DT>3.</DT><DD Font="normal"><LA Size="normal">Anlagen zur Feuerbestattung (Anlagen):</LA><LA Size="normal">alle technischen Einrichtungen, die der Einäscherung des menschlichen Leichnams dienen;</LA></DD>  <DT>4.</DT><DD Font="normal"><LA Size="normal">Emissionen:</LA><LA Size="normal">die von der Anlage ausgehenden Luftverunreinigungen; sie werden angegeben als Massenkonzentration in den Einheiten Nanogramm je Kubikmeter <ABWFORMAT typ="A"/>(ng/cbm) oder Milligramm je Kubikmeter <ABWFORMAT typ="A"/>(mg/cbm), bezogen auf das Abgasvolumen im Normzustand (273 K, 1013 hPa) nach Abzug des Feuchtegehaltes an Wasserdampf; sie beziehen sich auf einen Volumengehalt an Sauerstoff im Abgas von 11 vom Hundert, bei elektrisch betriebenen Anlagen auf einen Volumengehalt an Sauerstoff im Abgas von 15 vom Hundert.</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20140116220521" doknr="BJNR054510997BJNE000300320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 3</enbez><titel format="parat">Feuerung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Soweit die Anlagen mit Brennern ausgerüstet sind, dürfen diese nur mit Gasen der öffentlichen Gasversorgung, Flüssiggas, Wasserstoff oder Heizöl EL betrieben werden.</P><P>(2) Die Temperatur nach der letzten Verbrennungsluftzuführung muß mindestens <ABWFORMAT typ="A"/>850 Grad C, ermittelt als Zehnminutenmittelwert, betragen.</P><P>(3) Durch geeignete Vorrichtungen ist sicherzustellen, daß ein Sarg nicht eingefahren werden kann, wenn die Mindesttemperatur nach § 3 Abs. 2 unterschritten ist oder die kontinuierlich ermittelte Konzentration von Kohlenmonoxid oder die Anzeige für die Rauchgasdichte auf eine Störung des ordnungsgemäßen Betriebes hinweist. Eine bereits begonnene Einäscherung ist zu Ende zu führen.</P></Content>  </text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE000400320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 4</enbez><titel format="parat">Emissionsgrenzwerte</titel></metadaten><textdaten><text format="XML"><Content><P>Anlagen dürfen nur so errichtet und betrieben werden, daß <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Emissionen von Kohlenmonoxid einen Stundenmittelwert von 50 mg je Kubikmeter Abgas,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die Emissionen von Gesamtstaub und organischen Stoffen, gebildet als Stundenmittelwert und in Übereinstimmung mit dem im Anhang 1 festgelegten Verfahren, die folgenden Emissionsgrenzwerte<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Gesamtstaub 10 <ABWFORMAT typ="A"/>mg/cbm,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">organische Stoffe, angegeben als Gesamtkohlenstoff, <ABWFORMAT typ="A"/>20 mg/cbm und</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">die Emissionen von den im Anhang 2 genannten Dioxinen und Furanen, angegeben als Summenwert und gebildet als Mittelwert über die jeweilige Probenahmezeit, jeweils in Übereinstimmung mit dem im Anhang 2 festgelegten Verfahren, den Emissionsgrenzwert von 0,1 <ABWFORMAT typ="A"/>ng/cbm</LA></DD> </DL>nicht überschreiten. 11121</P></Content></text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE000500320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 5</enbez><titel format="parat">Ableitbedingungen für Abgase</titel></metadaten><textdaten><text format="XML"><Content><P>Abgase sind über einen oder mehrere Schornsteine in die freie Luftströmung so abzuleiten, daß die Höhe der Austrittsöffnung für die Abgase <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die höchste Kante des Dachfirstes der Anlage um mindestens 3 Meter überragt und</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">mindestens 10 Meter über Flur liegt.</LA></DD> </DL>Bei einer Dachneigung von weniger als 20 Grad ist die Höhe der Austrittsöffnung auf einen fiktiven Dachfirst zu beziehen, dessen Höhe unter Zugrundelegung einer Dachneigung von 20 Grad zu berechnen ist.</P></Content></text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE000600320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 6</enbez><titel format="parat">Anzeige</titel></metadaten><textdaten><text format="XML"><Content><P>Der Betreiber einer Anlage hat diese der zuständigen Behörde spätestens einen Monat vor der Inbetriebnahme anzuzeigen.</P></Content></text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE000701320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 7</enbez><titel format="parat">Kontinuierliche Messungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Anlagen sind mit Meßeinrichtungen auszurüsten, die <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">den Volumengehalt an Sauerstoff im Abgas,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die Massenkonzentration von Kohlenmonoxid im Abgas und</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">die Mindesttemperatur nach § 3 Abs. 2</LA></DD> </DL>fortlaufend messen und registrieren. Die Anlagen dürfen nur mit hierzu geeigneten und funktionsfähigen Meßeinrichtungen betrieben werden.</P><P>(2) Die Anlagen sind zur Überwachung der Funktionstüchtigkeit der Staubabscheideeinrichtungen mit Meßgeräten auszurüsten, die die Rauchgasdichte kontinuierlich messen. Die Anlagen dürfen nur mit hierzu geeigneten und funktionsfähigen Rauchgasdichtemeßgeräten, die Rückschlüsse auf die ständige Einhaltung des Emissionsgrenzwertes für Gesamtstaub nach § 4 Nr. 2 Buchstabe a ermöglichen, betrieben werden.</P><P>(3) Der Betreiber hat durch eine von der zuständigen obersten Landesbehörde oder der nach Landesrecht bestimmten Behörde für Kalibrierungen bekanntgegebene Stelle den ordnungsgemäßen Einbau der Meßeinrichtungen zur kontinuierlichen Überwachung von Kohlenmonoxid, Sauerstoff, Rauchgasdichte und Temperatur bescheinigen zu lassen sowie die Meßeinrichtungen vor Inbetriebnahme kalibrieren und jeweils spätestens nach Ablauf eines Jahres auf Funktionsfähigkeit prüfen zu lassen. Der Betreiber hat die Kalibrierung spätestens fünf Jahre nach der letzten Kalibrierung wiederholen zu lassen. Der Betreiber hat die Bescheinigung über den ordnungsgemäßen Einbau, die Berichte über das Ergebnis der Kalibrierung und der Prüfung der Funktionsfähigkeit der zuständigen Behörde jeweils innerhalb von drei Monaten nach Durchführung vorzulegen.</P></Content>  </text><fussnoten/></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE000800320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 8</enbez><titel format="parat">Beurteilung und Berichte von kontinuierlichen
+Messungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Während des Betriebes der Anlage ist für den Kohlenmonoxidmeßwert für jede aufeinanderfolgende Stunde der Mittelwert zu bilden.</P><P>(2) Über die Auswertung der kontinuierlichen Messungen hat der Betreiber einen Meßbericht zu erstellen oder erstellen zu lassen und innerhalb von drei Monaten nach Ablauf eines jeden Kalenderjahres der zuständigen Behörde vorzulegen. Der Betreiber muß die Aufzeichnungen fünf Jahre aufbewahren.</P><P>(3) Der Grenzwert für Kohlenmonoxid ist eingehalten, wenn kein Stundenmittelwert nach § 7 Abs. 1 Nr. 2 in Verbindung mit Absatz 1 den Grenzwert nach § 4 Nr. 1 überschreitet.</P></Content>  </text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE000901116"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 9</enbez><titel format="XML">Einzelmessungen</titel></metadaten><textdaten><text format="XML"><Content><P>Der Betreiber einer nach Inkrafttreten dieser Verordnung errichteten Anlage hat die Einhaltung der Anforderungen für Gesamtstaub, Gesamtkohlenstoff und Dioxine und Furane nach § 4 frühestens drei Monate und spätestens sechs Monate nach der Inbetriebnahme von einer nach § 29b Absatz 2 in Verbindung mit § 26 des Bundes-Immissionsschutzgesetzes bekanntgegebenen Stelle nach Maßgabe von Anhang 1 und Anhang 2 prüfen zu lassen. Der Betreiber hat die Prüfung nach Satz 1 im Abstand von drei Jahren wiederholen zu lassen.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE001000320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 10</enbez><titel format="parat">Beurteilung und Berichte von Einzelmessungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Über die Messungen nach § 9 ist ein Meßbericht zu erstellen und der zuständigen Behörde innerhalb von drei Monaten nach Durchführung der Messung vorzulegen. Der Meßbericht muß Angaben über die Meßplanung, das Ergebnis, die verwendeten Meßverfahren und die Betriebsbedingungen, die für die Beurteilung der Meßergebnisse von Bedeutung sind, enthalten. Der Betreiber muß die Berichte fünf Jahre aufbewahren.</P><P>(2) Die Emissionsgrenzwerte gelten als eingehalten, wenn kein Ergebnis einer Einzelmessung des Stundenmittelwertes den jeweiligen Emissionsgrenzwert nach § 4 Nr. 2 oder den Mittelwert über die Probenahmezeit nach § 4 Nr. 3 überschreitet.</P></Content> </text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE001100320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 11</enbez><titel format="parat">Übergangsregelung</titel></metadaten><textdaten><text format="XML"><Content><P>Altanlagen müssen die Anforderungen dieser Verordnung spätestens nach Ablauf von drei Jahren nach Inkrafttreten dieser Verordnung einhalten.</P></Content></text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE001200320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 12</enbez><titel format="parat">Zulassung von Ausnahmen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von Vorschriften dieser Verordnung zulassen, soweit unter Berücksichtigung der besonderen Umstände des Einzelfalles <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">einzelne Anforderungen der Verordnung nicht oder nur mit unverhältnismäßig hohem Aufwand erfüllbar sind,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">schädliche Umwelteinwirkungen nicht zu befürchten sind und</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">im übrigen die dem Stand der Technik entsprechenden Maßnahmen zur Emissionsbegrenzung angewandt werden.</LA></DD> </DL> </P><P>(2) Eine Ausnahme von § 5 kommt insbesondere in Betracht, wenn Belange des Denkmalschutzes berührt sind.</P><P>(3) Die zuständige Behörde kann die Ausnahme unter Bedingungen erteilen, mit Auflagen verbinden oder befristen.</P></Content> </text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE001300320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 13</enbez><titel format="parat">Weitergehende Anforderungen</titel></metadaten><textdaten><text format="XML"><Content><P>Die Befugnis der zuständigen Behörde, auf der Grundlage des Bundes-Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu treffen, bleibt unberührt.</P></Content></text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE001400320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>§ 14</enbez><titel format="parat">Ordnungswidrigkeiten</titel></metadaten><textdaten><text format="XML"><Content><P>Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">entgegen § 4 eine Anlage errichtet oder betreibt,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">entgegen § 5 Satz 1 ein Abgas nicht oder nicht in der vorgeschriebenen Weise ableitet,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">entgegen § 6 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">entgegen § 7 Abs. 1 oder Abs. 2 eine Anlage betreibt,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">entgegen § 7 Abs. 3 Satz 1 oder 2 eine Meßeinrichtung nicht oder nicht rechtzeitig kalibrieren oder nicht oder nicht rechtzeitig prüfen oder die Kalibrierung nicht oder nicht rechtzeitig wiederholen läßt oder</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">entgegen § 9 Satz 1 oder 2 die Einhaltung der Anforderungen nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig prüfen läßt oder eine Prüfung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig wiederholen läßt.</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE001500320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>Anhang 1</enbez><titel format="parat">Bestimmung der Massenkonzentration von Gesamtstaub und
+und Gesamtkohlenstoff nach § 4 Nr. 2</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle"> Fundstelle des Originaltextes: BGBl. I 1997, 547 </kommentar></P><P> <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Zur Bestimmung der Massenkonzentration an Gesamtstaub und Gesamtkohlenstoff nach § 4 Nr. 2 beträgt die Probenahmezeit eine Stunde; die Probenahme erfolgt ab Beginn einer Einäscherung.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Es sind Proben während fünf aufeinanderfolgender Einäscherungsvorgänge zu ziehen.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Pausenzeiten zwischen jeweils zwei Einäscherungen bleiben unberücksichtigt.</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Die Messung der organischen Stoffe, angegeben als Gesamtkohlenstoff, erfolgt nach der FID-Methode. Die Kalibrierung des Gerätes erfolgt mit Propan oder Butan. Es sind geeignete Meßgeräte zu verwenden, die eine Bekanntgabe für Meßaufgaben nach der 17. BImSchV besitzen.</LA></DD> </DL></P></Content> </text></textdaten></norm>
+<norm builddate="20140116220522" doknr="BJNR054510997BJNE001600320"><metadaten><jurabk>BImSchV 27</jurabk><enbez>Anhang 2</enbez><titel format="parat">Bestimmung der Massenkonzentration von Dioxinen
+und Furanen nach § 4 Nr. 3</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle"> Fundstelle des Originaltextes: BGBl. I 1997, 547 </kommentar></P><P> <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Zur Bestimmung der Massenkonzentration von Dioxinen und Furanen nach § 4 Nr. 3 beträgt die Probenahmezeit mindestens sechs Stunden.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Die Probenahme erfolgt ab Beginn einer Einäscherung.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Pausenzeiten zwischen jeweils zwei Einäscherungen bleiben unberücksichtigt.</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Für die in diesem Anhang genannten Dioxine und Furane soll die Nachweisgrenze des eingesetzten Analyseverfahrens nicht über 0,005 <ABWFORMAT typ="A"/>ng/cbm Abgas liegen.</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Für den nach § 4 Nr. 3 zu bildenden Summenwert sind die im Abgas ermittelten Konzentrationen der nachstehend genannten Dioxine und Furane mit den angegebenen Äquivalenzfaktoren zu multiplizieren und zu summieren.</LA></DD>  </DL><table frame="topbot" tocentry="%yes;">
+		<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+			<colspec colname="col1" colnum="1" colwidth="40*"/>
+			<colspec colname="col2" colnum="2" colwidth="45*"/>
+			<colspec align="char" char="," colname="col3" colnum="3" colwidth="25*"/>
+			<tbody valign="top">
+				<row rowsep="1">
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="center" colsep="0" valign="top">Äquivalenzfaktor</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">2,3,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Tetrachlordibenzodioxin (TCDD)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Pentachlordibenzodioxin (PeCDD)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,5</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,4,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Hexachlordibenzodioxin (HxCDD)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,7,8,9</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Hexachlordibenzodioxin (HxCDD)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,6,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Hexachlordibenzodioxin (HxCDD)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,4,6,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Heptachlordibenzodioxin (HpCDD)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,01</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">Octachlordibenzodioxin (OCDD)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,001</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">2,3,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Tetrachlordibenzofuran (TCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">2,3,4,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Pentachlordibenzofuran (PeCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,5</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Pentachlordibenzofuran (PeCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,05</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,4,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Hexachlordibenzofuran (HxCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,7,8,9</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Hexachlordibenzofuran (HxCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,6,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Hexachlordibenzofuran (HxCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">2,3,4,6,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Hexachlordibenzofuran (HxCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,1</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,4,6,7,8</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Heptachlordibenzofuran (HpCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,01</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">1,2,3,4,7,8,9</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">- Heptachlordibenzofuran (HpCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,01</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">Octachlordibenzofuran (OCDF)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">0,001</entry>
+				</row>
+			</tbody>
+		</tgroup>
+	</table> </P></Content> </text></textdaten></norm>
+</dokumente>

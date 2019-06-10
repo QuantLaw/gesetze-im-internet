@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20171122221038" doknr="BJNR338200017"><norm builddate="20171122221038" doknr="BJNR338200017"><metadaten><jurabk>TeleGebV</jurabk><ausfertigung-datum manuell="ja">2017-09-04</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>2017, 3382</zitstelle></fundstelle><kurzue>Telematikgebührenverordnung</kurzue><langue>Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik</langue></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 16.9.2017 +++)<BR/><BR/></pre></P></Content></fussnoten></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000100000"><metadaten><jurabk>TeleGebV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 291b Absatz 1d Satz 3 des Fünften Buches Sozialgesetzbuch, der durch Artikel 1 Nummer 12 Buchstabe e des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2408) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit:</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000200000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 1</enbez><titel format="XML">Gebührenerhebung; Entstehung der Gebührenschuld</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Gesellschaft für Telematik erhebt für von ihr erbrachte individuell zurechenbare öffentliche Leistungen nach § 291b Absatz 1a bis 1c und 1e des Fünften Buches Sozialgesetzbuch Gebühren und Auslagen nach den folgenden Vorschriften.</P><P>(2) Die Gebührenschuld für eine individuell zurechenbare öffentliche Leistung nach Absatz 1 sowie die Verpflichtung zur Erstattung von Auslagen nach § 6 entsteht mit der Bekanntgabe des Bescheides über die beantragte Zulassung oder Bestätigung.</P><P>(3) Wird ein Antrag zurückgenommen, entsteht die Gebührenschuld für eine individuell zurechenbare öffentliche Leistung nach Absatz 1 mit der Rücknahme des Antrags.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000300000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 2</enbez><titel format="XML">Gebührenschuldner</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist derjenige verpflichtet, der <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA>die gebührenpflichtige Leistung durch einen Antrag veranlasst,</LA></DD><DT>2.</DT><DD Font="normal"><LA>die Gebührenschuld eines anderen durch eine gegenüber der Gesellschaft für Telematik abgegebene Erklärung übernommen hat oder</LA></DD><DT>3.</DT><DD Font="normal"><LA>für die Gebührenschuld eines anderen kraft Gesetzes haftet.</LA></DD></DL></P><P>(2) Mehrere Gebührenschuldner haften als Gesamtschuldner.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000400000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 3</enbez><titel format="XML">Höhe der Gebühr</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Gebühr beträgt für <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA><!-- SPLIT UMBAU : [Text: die Zulassung von][Element: <BR/>
+
+
+
+][Text: Komponenten nach][Element: <BR/>][Text: § 291b Absatz 1a][Element: 
+<BR/>][Text: des Fünften Buches][Element: <BR/>][Text: 
+Sozialgesetzbuch][Element: 
+
+
+
+<Split/>
+
+
+
+][Text: 7 900 bis 135 000 Euro,]--><table colsep="0" frame="none" pgwide="1" rowsep="0"><tgroup cols="2"><colspec align="left" colname="leftSplit"/><colspec align="right" colname="rightSplit"/><tbody Class="Split"><row><entry colname="leftSplit">die Zulassung von<BR/>Komponenten nach<BR/>§ 291b Absatz 1a<BR/>des Fünften Buches<BR/>Sozialgesetzbuch</entry><entry colname="rightSplit" valign="bottom">7 900 bis 135 000 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font="normal"><LA><!-- SPLIT UMBAU : [Text: die Zulassung von][Element: <BR/>
+
+
+
+][Text: Diensten nach][Element: <BR/>][Text: § 291b Absatz 1a und 1e][Element: 
+<BR/>][Text: des Fünften Buches][Element: <BR/>][Text: 
+Sozialgesetzbuch][Element: 
+
+
+
+<Split/>
+
+
+
+][Text: 3 500 bis 62 000 Euro,]--><table colsep="0" frame="none" pgwide="1" rowsep="0"><tgroup cols="2"><colspec align="left" colname="leftSplit"/><colspec align="right" colname="rightSplit"/><tbody Class="Split"><row><entry colname="leftSplit">die Zulassung von<BR/>Diensten nach<BR/>§ 291b Absatz 1a und 1e<BR/>des Fünften Buches<BR/>Sozialgesetzbuch</entry><entry colname="rightSplit" valign="bottom">3 500 bis 62 000 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>3.</DT><DD Font="normal"><LA><!-- SPLIT UMBAU : [Text: die Zulassung von][Element: <BR/>
+
+
+
+][Text: Anbietern operativer][Element: <BR/>][Text: Betriebsleistungen 
+nach][Element: <BR/>][Text: § 291b Absatz 1c][Element: <BR/>][Text: des Fünften
+ Buches][Element: <BR/>][Text: Sozialgesetzbuch][Element: 
+
+
+
+<Split/>
+
+
+
+][Text: 10 600 bis 16 500 Euro,]--><table colsep="0" frame="none" pgwide="1" rowsep="0"><tgroup cols="2"><colspec align="left" colname="leftSplit"/><colspec align="right" colname="rightSplit"/><tbody Class="Split"><row><entry colname="leftSplit">die Zulassung von<BR/>Anbietern operativer<BR/>Betriebsleistungen nach<BR/>§ 291b Absatz 1c<BR/>des Fünften Buches<BR/>Sozialgesetzbuch</entry><entry colname="rightSplit" valign="bottom">10 600 bis 16 500 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>4.</DT><DD Font="normal"><LA><!-- SPLIT UMBAU : [Text: die Bestätigung][Element: <BR/>
+
+
+
+][Text: weiterer elektronischer][Element: <BR/>][Text: Anwendungen 
+nach][Element: <BR/>][Text: § 291b Absatz 1b][Element: <BR/>][Text: des Fünften
+ Buches][Element: <BR/>][Text: Sozialgesetzbuch][Element: 
+
+
+
+<Split/>
+
+
+
+][Text: 1 500 bis 6 100 Euro.]--><table colsep="0" frame="none" pgwide="1" rowsep="0"><tgroup cols="2"><colspec align="left" colname="leftSplit"/><colspec align="right" colname="rightSplit"/><tbody Class="Split"><row><entry colname="leftSplit">die Bestätigung<BR/>weiterer elektronischer<BR/>Anwendungen nach<BR/>§ 291b Absatz 1b<BR/>des Fünften Buches<BR/>Sozialgesetzbuch</entry><entry colname="rightSplit" valign="bottom">1 500 bis 6 100 Euro.</entry></row></tbody></tgroup></table></LA></DD></DL>Für die Bemessung der konkreten Gebühr gilt § 9 Absatz 1 des Bundesgebührengesetzes entsprechend.</P><P>(2) Die Zulassung nach Absatz 1 Satz 1 Nummer 1 und 2 sowie die Bestätigung nach Absatz 1 Satz 1 Nummer 4 erfordern grundsätzlich jeweils einen erfolgreichen Testdurchlauf. Für jeden gescheiterten Testdurchlauf kann entsprechend dem angefallenen Prüfaufwand eine Gebühr von bis zu 70 Prozent des für die beantragte individuell zurechenbare öffentliche Leistung vorgesehenen Höchstsatzes erhoben werden.</P><P>(3) Die Gebühr kann aus Gründen der Billigkeit bis auf 25 Prozent des für die beantragte individuell zurechenbare öffentliche Leistung vorgesehenen Mindestsatzes ermäßigt werden.</P><P>(4) Den Gebühren und Auslagen ist die gesetzliche Umsatzsteuer hinzuzurechnen.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000500000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 4</enbez><titel format="XML">Gebührenbefreiung und Gebührenermäßigung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Auf Antrag des Gebührenschuldners kann die Gebühr ganz oder teilweise erlassen werden, wenn an der beantragten Zulassung oder Bestätigung ein besonderes öffentliches Interesse besteht und der Antragsteller einen den Gebühren und dem Entwicklungsaufwand angemessenen wirtschaftlichen Nutzen nicht erwarten kann. Satz 1 gilt für Auslagen entsprechend.</P><P>(2) Zur Einführung eines neuen technischen Stands der Telematikinfrastruktur kann die Gesellschaft für Telematik beschließen, abweichend von § 3 Absatz 1 Satz 2 für alle Zulassungen und Bestätigungen, die sie in einem von ihr zu benennenden Zeitraum erlässt, die Gebühren um einen von ihr zu benennenden Faktor zu ermäßigen.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000600000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 5</enbez><titel format="XML">Gebühren in besonderen Fällen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Wird ein Antrag aus formalen Gründen abgelehnt, beträgt die Gebühr 50 Euro. Wird ein Antrag aus inhaltlichen Gründen abgelehnt, entspricht die Gebühr dem Prüfaufwand, der bis zur Entscheidung über die Ablehnung angefallen ist. Die Gebühr ist jedoch begrenzt auf den Höchstsatz, der für die beantragte individuell zurechenbare öffentliche Leistung vorgesehen ist.</P><P>(2) Wird ein Antrag nach Beginn der sachlichen Bearbeitung zurückgenommen, bevor die individuell zurechenbare öffentliche Leistung vollständig erbracht ist, entspricht die Gebühr dem Prüfaufwand, der bis zur Rücknahme des Antrags angefallen ist. Die Gebühr ist jedoch begrenzt auf 75 Prozent des Höchstsatzes, der für die beantragte individuell zurechenbare öffentliche Leistung vorgesehen ist.</P><P>(3) Wird ein Widerspruch gegen eine Sachentscheidung ganz oder teilweise zurückgewiesen, beträgt die Gebühr mindestens 100 Euro und höchstens die für die angefochtene Entscheidung festgesetzte Gebühr. Eine Gebühr wird nicht erhoben, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 41 des Zehnten Buches Sozialgesetzbuch unbeachtlich ist. Richtet sich der Widerspruch ausschließlich gegen die Gebührenfestsetzung, beträgt die Gebühr bei Zurückweisung des Widerspruchs mindestens 25 Euro und höchstens 10 Prozent des mit der Gebührenfestsetzung geltend gemachten Betrags. Wird ein Widerspruch nach Beginn der sachlichen Bearbeitung zurückgenommen, beträgt die Gebühr mindestens 50 Euro und höchstens 75 Prozent der Gebühr nach Satz 1.</P><P>(4) Für die Rücknahme oder den Widerruf einer Zulassung oder Bestätigung kann, soweit der Adressat dies zu vertreten hat, eine Gebühr bis zur Höhe des für die jeweilige Zulassung oder Bestätigung vorgesehenen Höchstsatzes erhoben werden.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000700000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 6</enbez><titel format="XML">Auslagen</titel></metadaten><textdaten><text format="XML"><Content><P>Als Auslagen werden die Kosten gesondert in der tatsächlich entstandenen Höhe erhoben, die nicht bereits in die Gebühr einbezogen sind, und im Zusammenhang mit dem Zulassungs- oder Bestätigungsverfahren bei Geschäften außerhalb des Dienstsitzes entstehen für die Vergütungen, die den Mitarbeitern der Gesellschaft für Telematik auf Grund gesetzlicher oder vertraglicher Bestimmungen zu gewähren sind, oder die für die Bereitstellung von Räumen entstehen.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000800000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 7</enbez><titel format="XML">Anwendung des Bundesgebührengesetzes</titel></metadaten><textdaten><text format="XML"><Content><P>Die §§ 14, 16 bis 19 und 21 des Bundesgebührengesetzes zur Fälligkeit, zum Säumniszuschlag, zur Stundung, zur Niederschlagung, zum Erlass, zur Verjährung und zur Erstattung sind entsprechend anzuwenden.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE000900000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 8</enbez><titel format="XML">Übergangsregelung</titel></metadaten><textdaten><text format="XML"><Content><P>Für individuell zurechenbare öffentliche Leistungen, die vor Inkrafttreten dieser Verordnung vorgenommen worden sind, können Gebühren und Auslagen nach Maßgabe dieser Verordnung erhoben werden, sofern bei diesen Leistungen unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine Festsetzung von Gebühren und Auslagen ausdrücklich vorbehalten und der Antragsteller über die voraussichtliche Höhe der Gebühren und Auslagen informiert worden ist. Bei individuell zurechenbaren öffentlichen Leistungen, die vor dem 29. Dezember 2015 beantragt worden sind, dürfen die Gebühren und Auslagen die in dem am 28. Dezember 2015 geltenden Entgeltkatalog der Gesellschaft für Telematik für diese Leistungen vorgesehenen Beträge nicht übersteigen.</P></Content></text></textdaten></norm>
+<norm builddate="20171122221038" doknr="BJNR338200017BJNE001000000"><metadaten><jurabk>TeleGebV</jurabk><enbez>§ 9</enbez><titel format="XML">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt am Tag nach der Verkündung in Kraft.</P></Content></text></textdaten></norm>
+</dokumente>

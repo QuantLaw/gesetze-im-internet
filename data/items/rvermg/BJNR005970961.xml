@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20131008093452" doknr="BJNR005970961"><norm builddate="20131008093452" doknr="BJNR005970961"><metadaten><jurabk>RVermG</jurabk><ausfertigung-datum manuell="ja">1961-05-16</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1961, 597</zitstelle></fundstelle><kurzue>Reichsvermögen-Gesetz</kurzue><langue>Gesetz zur Regelung der Rechtsverhältnisse des Reichsvermögens und der
+preußischen Beteiligungen</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis Geltung ab:  1. 1.1964 +++)</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000100314"><metadaten><jurabk>RVermG</jurabk><enbez>Inhaltsübersicht</enbez></metadaten><textdaten><text format="XML"><Content><P> <table frame="none" pgwide="1" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="80*"/>
+		<colspec colname="col2" colnum="2" colwidth="15*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bundesvermögen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 1</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Den Aufgabennachfolgern zustehendes Reichsvermögen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 2</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Für Aufgaben eines Landes benutztes Reichsvermögen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 3</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Oberfinanzdirektionen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 4</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rückfallvermögen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 5</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Sonderregelung bei vereinbarter Verwaltungszuständigkeit</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 6</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Übertragung der Rechte</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 7</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Unübertragbare Vermögensrechte</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 8</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Feststellung der vom Bund auf andere Rechtsträger zu übertragenden Rechte an Grundstücken</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 9</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Formvorschriften für die Übertragung von Rechten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 10</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Formvorschriften für eine Berichtigung des Grundbuchs</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 11</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Übergang von Beteiligungsrechten auf die Länder</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 12</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Übertragung von Beteiligungsrechten auf die Länder</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 13</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ausgleich zwischen Bund, Ländern und sonstigen Verwaltungsträgern</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 14</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bundesgesetzliche Vorabregelungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 15</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Besatzungs- und Stationierungsschäden</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 16</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kosten anhängiger Gerichtsverfahren</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 17</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kosten der Durchführung des Gesetzes</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 18</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Sondervorschriften für Berlin</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 19</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Sondervorschriften für das Saarland</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 20</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Berlin-Klausel</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 21</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Inkrafttreten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">§ 22</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">Anlage zu § 12 Abs. 1</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000200314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 1</enbez><titel format="parat">Bundesvermögen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Eigentum und sonstige Vermögensrechte, die dem Deutschen Reich am oder nach dem 8. Mai 1945 zustanden, sind Vermögen des Bundes. Das gleiche gilt für Beteiligungen, die dem ehemaligen Land Preußen an Unternehmen des privaten Rechts am oder nach dem 8. Mai 1945 zustanden.</P><P>(2) Soweit nach dem 8. Mai 1945 über Vermögensrechte im Sinne des Absatzes 1 verfügt worden ist, bleiben unbeschadet des Absatzes 3 die hierauf beruhenden, noch wirksamen Rechtsänderungen unberührt.</P><P>(3) Vermögensrechte im Sinne des Absatzes 1, über die nach dem 8. Mai 1945 anders als durch Rechtsgeschäft unmittelbar zugunsten eines Landes verfügt worden ist und die am 1. Oktober 1959 noch zum unmittelbaren Vermögen des Landes gehörten, unterliegen den Vorschriften dieses Gesetzes; sie sind auf den Bund zu übertragen, soweit sie nach diesem Gesetz nicht dem Land zustehen.</P></Content>  </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000300314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 2</enbez><titel format="parat">Den Aufgabennachfolgern zustehendes Reichsvermögen</titel></metadaten><textdaten><text format="XML"><Content><P>Vermögensrechte des Deutschen Reichs (§ 1), die am 8. Mai 1945 überwiegend und nicht nur vorübergehend für einen Sachbereich einer Verwaltungsaufgabe bestimmt waren, für den bei Inkrafttreten dieses Gesetzes nach dem Grundgesetz ein anderer Rechtsträger als der Bund zuständig ist, stehen diesem Rechtsträger zu.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000400314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 3</enbez><titel format="parat">Für Aufgaben eines Landes benutztes Reichsvermögen</titel></metadaten><textdaten><text format="XML"><Content><P>Vermögensrechte des Deutschen Reichs (§ 1), auf welche die Voraussetzungen des § 2 nicht zutreffen und die bei Inkrafttreten dieses Gesetzes überwiegend und nicht nur vorübergehend für eine grundgesetzliche Verwaltungsaufgabe eines Landes benutzt werden, stehen dem Land zu, dem diese Verwaltungsaufgabe obliegt.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000500314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 4</enbez><titel format="parat">Oberfinanzdirektionen</titel></metadaten><textdaten><text format="XML"><Content><P>Das Eigentum des Deutschen Reichs (§ 1) an Grundstücken, die bei Inkrafttreten dieses Gesetzes überwiegend und nicht nur vorübergehend für Aufgaben der Oberfinanzdirektionen (Landesfinanzamt) oder als Dienstwohnungen der Angehörigen dieser Dienststellen benutzt werden, steht zur Hälfte dem Land als Miteigentum zu, in welchem die Grundstücke belegen sind. Die §§ 2 und 3 sind insoweit nicht anzuwenden.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000600314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 5</enbez><titel format="parat">Rückfallvermögen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Vermögensrechte des Deutschen Reichs (§ 1), die ein Land oder eine Gemeinde (Gemeindeverband) unmittelbar oder durch einen Dritten dem Deutschen Reich auf Grund eines Gesetzes, Verwaltungsaktes oder Rechtsgeschäftes unentgeltlich zur Verfügung gestellt haben und auf welche die Voraussetzungen der §§ 2 bis 4 nicht zutreffen, stehen dem Rechtsträger (Land, Gemeinde, Gemeindeverband) zu, von dem oder für dessen Rechnung sie zur Verfügung gestellt worden sind. Der Anspruch auf Übertragung eines Vermögensrechts als Rückfallvermögen kann nur innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes geltend gemacht werden. Erlangt der Rückfallberechtigte erst nach dem Inkrafttreten dieses Gesetzes von seinem Rückfallrecht Kenntnis, so beginnt die Frist mit diesem Zeitpunkt.</P><P>(2) Absatz 1 gilt nicht für Vermögensrechte an Gegenständen, welche der Bund überwiegend und nicht nur vorübergehend unmittelbar für eigene Verwaltungsaufgaben benötigt und für welche der Bund seinen Bedarf geltend macht. Der Bund kann sich auf seinen Bedarf nur innerhalb eines Jahres nach Geltendmachung eines Rückfallrechts, mindestens aber bis zum Ablauf von drei Jahren nach Inkrafttreten dieses Gesetzes, berufen. Der Bund kann sich auf einen von ihm geltend gemachten Eigenbedarf nicht mehr berufen, wenn der Vermögensgegenstand von ihm nicht innerhalb von zwei Jahren nach der Geltendmachung des Bedarfs hierfür tatsächlich genutzt wird.</P><P>(3) Benötigt der Bund einen nach Absatz 1 einem Land oder einer Gemeinde (Gemeindeverband) zustehenden Vermögensgegenstand nach den bei Inkrafttreten dieses Gesetzes bestehenden Verhältnissen vorübergehend überwiegend für eine eigene Verwaltungsaufgabe, so ist der Rückfallberechtigte verpflichtet, den Vermögensgegenstand dem Bund für die Dauer dieses Verwaltungsbedarfs zur unentgeltlichen Nutzung zu belassen.</P><P>(4) Ist der Verkehrswert eines dem Deutschen Reich zur Verfügung gestellten Vermögensgegenstandes durch Maßnahmen, welche ein anderer als der Rückfallberechtigte bis zum Inkrafttreten dieses Gesetzes getroffen hat, höher als der Verkehrswert, welchen der Vermögensgegenstand ohne diese Maßnahmen haben würde, so kann der Bund verlangen, daß der Wertunterschied von dem Rückfallberechtigten in Geld ausgeglichen wird. Der Rückfallberechtigte kann den Ausgleich des Wertunterschiedes unter Verzicht auf sein Rückfallrecht verweigern. In diesem Fall hat der Bund dem Rückfallberechtigten eine Entschädigung in Höhe des Verkehrswertes zu zahlen, den der dem Reich zur Verfügung gestellte Vermögensgegenstand ohne die getroffenen Maßnahmen haben würde.</P><P>(5) Hatte ein Land dem Deutschen Reich Vermögensgegenstände unentgeltlich zur Verfügung gestellt, die in einem Gebiet belegen sind, dessen Landeszugehörigkeit sich nach dem 8. Mai 1945 bis zum Inkrafttreten des Grundgesetzes geändert hat, so stehen diese Vermögensgegenstände dem Land zu, dem nach Artikel 135 Abs. 1 des Grundgesetzes das Vermögen in diesem Gebiet zugefallen ist. Soweit nicht mehr bestehende Länder dem Deutschen Reich Vermögensgegenstände unentgeltlich zur Verfügung gestellt haben, die in einem Gebiet belegen sind, dessen Landeszugehörigkeit sich nicht geändert hat, stehen diese dem Land zu, dem das Grundvermögen des nicht mehr bestehenden Landes nach Artikel 135 Abs. 3 des Grundgesetzes zugefallen ist.</P></Content>    </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000700314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 6</enbez><titel format="parat">Sonderregelung bei vereinbarter Verwaltungszuständigkeit</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Ist nach dem 31. Juli 1951 und vor Inkrafttreten dieses Gesetzes im Rahmen von Verhandlungen, welche zwischen dem Bund und einem Land geführt worden sind, ausdrücklich und endgültig anerkannt worden <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">vom Bund, daß das Land ein Recht zur Verwaltung eines Vermögensrechts (§ 1) hat, so steht dieses Vermögensrecht dem Land zu, auch wenn sich aus den §§ 2 bis 5 etwas anderes ergeben würde;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">vom Land, daß es kein Recht zur Verwaltung eines Vermögensrechts (§ 1) hat, so steht dieses Vermögensrecht dem Bund zu, auch wenn sich aus den §§ 2 bis 4 etwas anderes ergeben würde;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">vom Land, daß es kein Rückfallrecht im Sinne des § 5 Abs. 1 an einem Vermögensrecht (§ 1) hat, so kann es sich auf dieses Recht nicht mehr berufen.</LA></DD> </DL> </P><P>(2) Der Absatz 1 gilt nicht, sofern nach den Vorschriften der §§ 2 oder 5 das Vermögensrecht einem anderen Rechtsträger als dem Bund oder einem Land zusteht und dieser andere Rechtsträger sich innerhalb einer Frist von sechs Monaten nach Inkrafttreten dieses Gesetzes durch Erklärung gegenüber dem Bund darauf beruft.</P><P>(3) Der Absatz 1 gilt nicht für Beteiligungen an Unternehmen des privaten Rechts.</P></Content> </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000800314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 7</enbez><titel format="parat">Übertragung der Rechte</titel></metadaten><textdaten><text format="XML"><Content><P>Vermögensrechte des Deutschen Reichs (§ 1), die nach den §§ 2 bis 6 dieses Gesetzes einem Land, einer Gemeinde (Gemeindeverband) oder einem anderen Rechtsträger zustehen, sind auf diesen zu übertragen und von diesem zu übernehmen.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE000900314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 8</enbez><titel format="parat">Unübertragbare Vermögensrechte</titel></metadaten><textdaten><text format="XML"><Content><P>Unter die §§ 1 bis 6 fallen auch Vermögensrechte, die durch Gesetz für unübertragbar oder nur auf Grund besonderer Vereinbarung für übertragbar erklärt worden sind.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001000314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 9</enbez><titel format="parat">Feststellung der vom Bund auf andere Rechtsträger zu
+übertragenden Rechte an Grundstücken</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Länder übergeben dem Bund innerhalb von sechs Monaten nach Inkrafttreten dieses Gesetzes Verzeichnisse der Grundstücke, der grundstücksgleichen Rechte sowie der sonstigen dinglichen Rechte an Grundstücken und grundstücksgleichen Rechten, die als Verwaltungs- oder Rückfallvermögen für die Länder, Gemeinden (Gemeindeverbände) oder andere Rechtsträger in Anspruch genommen werden. Der Bund wird sich innerhalb von sechs Monaten nach Übergabe der Verzeichnisse zu den Verzeichnissen erklären.</P><P>(2) Macht ein Land, eine Gemeinde (Gemeindeverband) oder ein anderer Rechtsträger einen Anspruch auf Übertragung als Verwaltungsvermögen oder Rückfallvermögen geltend und übt er bei Inkrafttreten dieses Gesetzes die Verwaltung aus, so verbleibt ihm die Verwaltung, bis über seinen Anspruch entschieden ist.</P></Content> </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001100314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 10</enbez><titel format="parat">Formvorschriften für die Übertragung von Rechten</titel></metadaten><textdaten><text format="XML"><Content><P>Für die Übertragung (§ 1 Abs. 3, § 7) des Eigentums oder eines anderen Rechts an einem Grundstück gilt folgendes: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Die zur Übertragung des Rechts erforderliche Einigung bedarf keiner Form.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">§ 20 der Grundbuchordnung ist nicht anzuwenden.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">§ 39 Abs. 1 der Grundbuchordnung ist nicht anzuwenden, wenn als Berechtigter das Deutsche Reich eingetragen ist.</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001200314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 11</enbez><titel format="parat">Formvorschriften für eine Berichtigung des Grundbuchs</titel></metadaten><textdaten><text format="XML"><Content><P>Ist als Eigentümer eines Grundstücks oder als Berechtigter eines sonstigen Rechts an einem Grundstück ein nicht mehr bestehender öffentlicher Rechtsträger eingetragen, und ist nach § 1 Abs. 1 Eigentümer oder sonstiger Berechtigter der Bund, so ist zum Nachweis der Unrichtigkeit des Grundbuchs eine Erklärung des Landes, in dem das betreffende Grundstück liegt, darüber erforderlich und genügend, daß Eigentümer oder sonstiger Berechtigter der Bund ist.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001300314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 12</enbez><titel format="parat">Übergang von Beteiligungsrechten auf die Länder</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Beteiligungen, die dem Deutschen Reich oder dem ehemaligen Land Preußen am oder nach dem 8. Mai 1945 an den in der Anlage aufgeführten Unternehmen des privaten Rechts zustanden, gehen auf die in der Anlage bezeichneten Länder über.</P><P>(2) Die Beteiligung, die dem ehemaligen Land Preußen an der Versuchsgruben GmbH, Dortmund, zustand, geht auf das Land Nordrhein-Westfalen über.</P><P>(3) Die Beteiligung, die dem ehemaligen Land Preußen an der Nürburgring GmbH, Adenau (Eifel), zustand, geht auf das Land Rheinland-Pfalz über.</P></Content>  </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001400314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 13</enbez><titel format="parat">Übertragung von Beteiligungsrechten auf die Länder</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Soweit die Beteiligungen des Deutschen Reichs an der <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Gemeinnützigen Siedlungsgesellschaft für die Rheinprovinz &quot;Rheinisches Heim&quot; mbH, Bonn,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Niedersächsischen Landgesellschaft mbH, Hannover,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Schleswig-Holsteinischen Landgesellschaft mbH, Kiel,</LA></DD> </DL>im Zeitpunkt des Inkrafttretens dieses Gesetzes insgesamt 26 vom Hundert des Stammkapitals der einzelnen Gesellschaft übersteigen, hat der Bund die diesen Anteil übersteigenden Beteiligungen unentgeltlich auf dasjenige Land zu übertragen, in dem sich der Sitz der Gesellschaft befindet. Bei Errechnung der zu übertragenden Teile von Geschäftsanteilen ist die dem Bund verbleibende Beteiligung auf volle einhundert Deutsche Mark aufzurunden.</P><P>(2) Der Bund hat die Hälfte der Beteiligung, die dem ehemaligen Land Preußen an der Duisburg-Ruhrorter Häfen AG, Duisburg-Ruhrort, zustand, unentgeltlich auf das Land Nordrhein-Westfalen zu übertragen.</P><P>(3) Der Bund hat die Beteiligung, die dem Deutschen Reich an der Nürburgring GmbH, Adenau (Eifel), zustand, unentgeltlich auf das Land Rheinland-Pfalz zu übertragen, soweit diese Beteiligung im Zeitpunkt des Inkrafttretens dieses Gesetzes die Hälfte des Stammkapitals der Gesellschaft übersteigt.</P><P>(4) Die nach dem Gesetz betreffend die Gesellschaften mit beschränkter Haftung oder nach dem Gesellschaftsvertrag erforderlichen Genehmigungen zur Übertragung von Geschäftsanteilen oder von Teilen von Geschäftsanteilen der in den Absätzen 1 bis 3 bezeichneten Gesellschaften gelten als erteilt.</P></Content>   </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001500314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 14</enbez><titel format="parat">Ausgleich zwischen Bund, Ländern und sonstigen
+Verwaltungsträgern</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Soweit nichts anderes vereinbart ist, gehen im Zusammenhang mit der Verwaltung von Vermögensrechten (§ 1) bis zum Inkrafttreten dieses Gesetzes vom Bund, einem Land oder einer Gemeinde (Gemeindeverband) vereinnahmte oder verausgabte Beträge unter Ausschluß etwa bestehender Erstattungsansprüche für Rechnung dessen, dem sie zugeflossen oder von dem sie geleistet worden sind. § 5 Abs. 4 bleibt unberührt.</P><P>(2) Im übrigen stehen Ansprüche des Bundes, eines Landes oder einer Gemeinde (Gemeindeverband), die sich rechtlich oder wirtschaftlich auf ein einzelnes Vermögensrecht (§ 1) beziehen und im Zusammenhang mit dessen Verwaltung bis zum Inkrafttreten dieses Gesetzes entstanden sind, demjenigen zu, dem das Vermögensrecht nach diesem Gesetz zusteht oder zustehen würde. Verbindlichkeiten des Bundes, eines Landes oder einer Gemeinde (Gemeindeverband), die sich rechtlich oder wirtschaftlich auf ein einzelnes Vermögensrecht (§ 1) beziehen und im Zusammenhang mit dessen Verwaltung bis zum Inkrafttreten dieses Gesetzes entstanden sind, sind von demjenigen zu erfüllen, dem das Vermögensrecht nach diesem Gesetz zusteht oder zustehen würde. Im Verhältnis von Bund und Ländern wird für die Benutzung von Vermögensrechten (§ 1) für die Zeit bis zum Inkrafttreten dieses Gesetzes eine Entschädigung nicht gezahlt, es sei denn, daß etwas anderes vereinbart ist.</P><P>(3) Notwendige oder nützliche Aufwendungen und Verwendungen, die im Zusammenhang mit der Verwaltung von Vermögensrechten (§ 1) nach Inkrafttreten dieses Gesetzes auf den Vermögensgegenstand gemacht werden, gehen für Rechnung dessen, dem der Vermögensgegenstand nach diesem Gesetz zusteht. Das gleiche gilt für gezogene Nutzungen.</P><P>(4) Haftet ein den Vorschriften dieses Gesetzes unterliegender Vermögensgegenstand für einen nach dem Allgemeinen Kriegsfolgengesetz vom 5. November 1957 (Bundesgesetzbl. I S. 1747) zu erfüllenden Anspruch und ist nach § 25 des Allgemeinen Kriegsfolgengesetzes Anspruchsschuldner ein anderer als derjenige, dem der Vermögensgegenstand nach diesem Gesetz zusteht, so ist der letztere verpflichtet, die notwendigen Aufwendungen zu ersetzen, die nach Inkrafttreten dieses Gesetzes zur Erfüllung des Anspruchs gemacht werden.</P></Content>   </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001600314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 15</enbez><titel format="parat">Bundesgesetzliche Vorabregelungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Dieses Gesetz gilt nicht für Vermögensrechte (§ 1), die unter die Vorschriften <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">des Gesetzes über die vermögensrechtlichen Verhältnisse der Deutschen Bundesbahn vom 2. März 1951 (Bundesgesetzbl. I S. 155) und des § 11 des Gesetzes über die Eingliederung des Saarlandes vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1011),</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">des Gesetzes über die vermögensrechtlichen Verhältnisse der Bundesautobahnen und sonstigen Bundesstraßen des Fernverkehrs vom 2. März 1951 (Bundesgesetzblatt I S. 157) und des Überleitungsgesetzes für die Bundesfernstraßen im Saarland vom 23. Dezember 1959 (Bundesgesetzbl. I S. 797),</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">des Gesetzes über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen vom 21. Mai 1951 (Bundesgesetzbl. I S. 352),</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">des Gesetzes über die Errichtung einer Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung vom 10. März 1952 (Bundesgesetzbl. I S. 123),</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">der §§ 1, 3 bis 9 des Gesetzes über die vermögensrechtlichen Verhältnisse der Deutschen Bundespost vom 21. Mai 1953 (Bundesgesetzbl. I S. 225) und des § 12 Abs. 1 und 3 des Gesetzes über die Eingliederung des Saarlandes vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1011),</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">des Gesetzes zur Abwicklung und Entflechtung des ehemaligen reichseigenen Filmvermögens vom 5. Juni 1953 (Bundesgesetzblatt I S. 276)</LA></DD> </DL>fallen.</P><P>(2) Dieses Gesetz gilt ferner nicht für Vermögensrechte (§ 1), die unter die Vorschriften des Gesetzes über den Deutschen Wetterdienst vom 11. November 1952 (Bundesgesetzbl. I S. 738) in der Fassung des Zweiten Gesetzes zur Änderung des Gesetzes über den deutschen Wetterdienst vom 23. Dezember 1959 (Bundesgesetzbl. I S. 796) fallen, es sei denn, daß es sich um Vermögensrechte im Sinne des § 10 Satz 2 des bezeichneten Gesetzes handelt und daß diese Vermögensrechte nach den §§ 2, 3, 5 oder 6 einem Land zustehen.</P></Content> </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001700314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 16</enbez><titel format="parat">Besatzungs- und Stationierungsschäden</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Besatzungsschäden, die nach dem 31. März 1950 an Sachen verursacht worden sind, die nach diesem Gesetz einem Land, einer Gemeinde (Gemeindeverband) oder einem sonstigen Rechtsträger zu übertragen sind, sind nach den Grundsätzen des Gesetzes über die Abgeltung von Besatzungsschäden vom 1. Dezember 1955 (Bundesgesetzbl. I S. 734) zu entschädigen. Der Antrag auf Entschädigung ist innerhalb von sechs Monaten nach Übertragung der in § 7 bezeichneten Rechte bei der nach § 44 des vorbezeichneten Gesetzes zuständigen Stelle einzureichen.</P><P>(2) Soweit an Sachen der in Absatz 1 bezeichneten Art in der Zeit zwischen dem 5. Mai 1955, 12 Uhr mittags, und der Übertragung der in § 7 bezeichneten Rechte durch Handlungen oder Unterlassungen der im Bundesgebiet stationierten ausländischen Streitkräfte Schäden verursacht worden sind, sind diese nach den Grundsätzen des Artikels 8 des Finanzvertrages vom 26. Mai 1952/23. Oktober 1954 (Bundesgesetzbl. 1955 II S. 381) oder nach den Grundsätzen der Bestimmungen, die diese Vorschrift ablösen, zu entschädigen. Der Lauf der in Artikel 8 Abs. 6 des Finanzvertrages oder in den diese Vorschrift ablösenden Bestimmungen vorgesehenen Fristen zur Geltendmachung des Anspruchs beginnt mit dem Tag der Übertragung der in § 7 bezeichneten Rechte.</P><P>(3) Absatz 2 gilt nicht im Land Berlin.</P></Content>  </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001800314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 17</enbez><titel format="parat">Kosten anhängiger Gerichtsverfahren</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt, trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE001900314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 18</enbez><titel format="parat">Kosten der Durchführung des Gesetzes</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Gerichtsgebühren sowie Abgaben, für die der Bund nach Artikel 105 des Grundgesetzes die Gesetzgebung hat, die aus Anlaß und in Durchführung dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben außer Ansatz.</P><P>(2) Außergerichtliche Kosten der Übertragung von Beteiligungsrechten (§ 13) haben die Rechtsträger zu tragen, auf welche die Rechte übertragen werden.</P></Content> </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE002000314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 19</enbez><titel format="parat">Sondervorschriften für Berlin</titel></metadaten><textdaten><text format="XML"><Content><P>(1) § 5 gilt nicht im Land Berlin. Eine besondere Regelung bleibt insoweit vorbehalten.</P><P>(2) Dieses Gesetz gilt nicht für in Berlin (West) belegene Vermögensrechte (§ 1), soweit die Rechtsverhältnisse derartiger Vermögensrechte im übrigen Geltungsbereich dieses Gesetzes durch in § 15 bezeichnete, im Land Berlin bisher nicht in Kraft getretene Gesetze geregelt sind.</P></Content> </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE002100314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 20</enbez><titel format="parat">Sondervorschriften für das Saarland</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Dieses Gesetz gilt nicht für im Saarland belegene Vermögensrechte (§ 1), soweit die Rechtsverhältnisse derartiger Vermögensrechte im übrigen Geltungsbereich dieses Gesetzes durch das in § 15 Abs. 1 Nr. 6 bezeichnete, im Saarland bisher nicht in Kraft getretene Gesetz geregelt sind.</P><P>(2) Dieses Gesetz gilt im Saarland mit folgender Maßgabe: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">In § 6 Abs. 2 tritt an Stelle einer Frist von sechs Monaten eine Frist von einem Jahr.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">§ 16 Abs. 1 findet keine Anwendung.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">In § 16 Abs. 2 tritt an Stelle des 5. Mai 1955, 12 Uhr mittags, der 6. Juli 1959, 0 Uhr.</LA></DD> </DL></P></Content> </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE002200314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 21</enbez><titel format="parat">Berlin-Klausel</titel></metadaten><textdaten><text format="XML"><Content><P>Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE002300314"><metadaten><jurabk>RVermG</jurabk><enbez>§ 22</enbez><titel format="parat">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden dritten Kalendermonats in Kraft.</P><P>(2) Im Saarland tritt dieses Gesetz am ersten Tage des auf die Verkündung folgenden zwölften Kalendermonats in Kraft.</P></Content> </text></textdaten></norm>
+<norm builddate="20131008093452" doknr="BJNR005970961BJNE002400314"><metadaten><jurabk>RVermG</jurabk><enbez>Anlage</enbez><titel format="parat">(zu § 12 Abs. 1)</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle"> Fundstelle des Originaltextes: BGBl. I 1961, 602 </kommentar> <BR/> <BR/><table frame="none" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="5*"/>
+		<colspec colname="col2" colnum="2" colwidth="10*"/>
+		<colspec colname="col3" colnum="3" colwidth="95*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B> I. Baden-Württemberg</B></entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Badisch-Pfälzische Flugbetrieb AG, Mannheim</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Doggererz AG, Blumberg</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Flughafen Friedrichshafen GmbH, Friedrichshafen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Hohenzollerische Landesbahn AG, Hechingen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Karlsruher Flughafen GmbH, Karlsruhe</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">6.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Siedlungsgesellschaft für das Doggererzgebiet Oberbaden mbH, Karlsruhe</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">7.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Württembergische Heimstätte GmbH, Stuttgart</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B> II. Bayern</B></entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Bayerische Bauvereinsbank eGmbH, München</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Beamtenwohnungsverein eGmbH, München</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Landeswohnungsfürsorge Bayern GmbH, München</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B> III. Berlin</B></entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Eisenbahn-Betriebs-Gesellschaft Tegel-Borsigwalde mbH, Berlin</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Reichsanstalt für Film und Bild in Wissenschaft und Unterricht GmbH i.L., Berlin</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Tempelhofer Feld AG für Grundstücksverwertung, Berlin</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B>IV. Bremen</B> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Beamten-Baugesellschaft Bremen GmbH, Bremen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Fischereihafen-Betriebsgesellschaft mbH, Bremerhaven</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B> V. Hessen</B></entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Bad Wildunger Heilquelle AG Königsquelle i.L., Bad Wildungen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn-Aktiengesellschaft Frankfurt am Main-Königstein, Frankfurt (Main)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn Kassel-Naumburg AG, Frankfurt (Main)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Nassauische Heimstätte GmbH, Frankfurt (Main)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Reinhardsquelle GmbH, Bad Wildungen West</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B>VI. Niedersachsen</B> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Ankum-Bersenbrücker Eisenbahn GmbH, Ankum</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Beamten-Baugesellschaft Hannover mbH, Hannover</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Bremervörde-Osterholzer Eisenbahn GmbH, Bremervörde</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Buxtehude-Harsefelder Eisenbahn GmbH, Buxtehude</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Delmenhorst-Harpstedter Eisenbahn GmbH, Harpstedt</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">6.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Eisenbahn Gittelde-Bad Grund GmbH, Bad Grund</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">7.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Emder Hafenumschlagsgesellschaft mbH, Emden</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">8.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Hafen-Dampfschiffahrt AG, Hamburg</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">9.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Hoya-Syke-Asendorf Eisenbahn GmbH, Hoya</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">10.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn Ihrhove-Westrhauderfehn GmbH, Leer</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">11.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn Leer-Aurich-Wittmund GmbH, Aurich</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">12.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn Neuhaus-Brahlstorf GmbH, Lüneburg</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">13.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Lüchow-Schmarsauer Eisenbahn GmbH, Lüchow</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">14.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Niedersächsische Heimstätte GmbH, Hannover</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">15.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Niederweserbahn GmbH, Bremerhaven</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">16.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Seefischmarkt Cuxhaven GmbH, Cuxhaven</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">17.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">St.Andreasberger Eisenbahn GmbH, St.Andreasberg</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">18.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Steinhuder Meer-Bahn GmbH, Wunstorf</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">19.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Verden-Walsroder Eisenbahn GmbH, Verden (Aller)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">20.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Wilstedt-Zeven-Tostedter Eisenbahn GmbH, Zeven</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">21.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Wittlager Kreisbahn AG, Bohmte (Holst.)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B>VII. Nordrhein-Westfalen</B></entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Extertalbahn AG, Barntrup</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Flughafen GmbH Essen-Mülheim, Mülheim (Ruhr)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Gemeinnützige Wohnungsgenossenschaft Duisburg-Hamborn eGmbH, Duisburg-Hamborn</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn Steinhelle-Medebach GmbH, Brilon</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn &quot;Tecklenburger Nordbahn&quot; - Rheine-Recke-Osnabrück-AG, Rheine (Westf.)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">6.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn Weidenau-Deuz GmbH, Siegen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">7.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kreis-Altenaer-Eisenbahn AG, Lüdenscheid</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">8.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Wohnungsgesellschaft &quot;Ruhr-Niederrhein&quot; mbH, Essen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B> VIII. Rheinland-Pfalz</B></entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kaolinwerk Oberwinter GmbH, Oberwinter</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Heimstätte Rheinland-Pfalz GmbH, Mainz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B>IX. Saarland</B> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Flughafengesellschaft Saarbrücken-Ensheim mbH, Saarbrücken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Merzig-Büschfelder Eisenbahn GmbH, Merzig (Saar)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"><B>X. Schleswig-Holstein</B> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Elmshorn-Barmstedt-Oldesloer Eisenbahn AG, Elmshorn</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kieler Flughafen GmbH, Kiel</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Kleinbahn Niebüll-Dagebüll AG, Niebüll</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Koloniale Frauenschule Rendsburg GmbH, Rendsburg</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">Wohnungsbaugesellschaft Nordmark mbH, Kiel</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text></textdaten></norm>
+</dokumente>

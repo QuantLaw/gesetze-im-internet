@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20130405125059" doknr="BJNR006370960"><norm builddate="20130405125059" doknr="BJNR006370960"><metadaten><jurabk>LASaarEG</jurabk><amtabk>LA-EG-Saar</amtabk><ausfertigung-datum manuell="ja">1960-07-30</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1960, 637</zitstelle></fundstelle><fundstelle typ="amtlich"><periodikum>BStBl I</periodikum><zitstelle>1960, 528</zitstelle></fundstelle><langue>Gesetz zur Einführung von Vorschriften des Lastenausgleichsrechts im
+Saarland</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 2 G v. 21.7.2004 I 1742</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P>(+++ Textnachweis Geltung ab: 1.1.1970 +++)</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE000701301"><metadaten><jurabk>LASaarEG</jurabk><enbez>Inhaltsübersicht</enbez></metadaten><textdaten><text format="XML"><Content><P> <table frame="none" pgwide="1" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="5" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="5*"/>
+		<colspec colname="col2" colnum="2" colwidth="5*"/>
+		<colspec colname="col3" colnum="3" colwidth="5*"/>
+		<colspec colname="col4" colnum="4" colwidth="70*"/>
+		<colspec colname="col5" colnum="5" colwidth="15*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">ERSTER ABSCHNITT</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Grundsätze und Begriffsbestimmungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Grundsatz</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 1</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Ausgleichsleistungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 2</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Beiträge der öffentlichen Haushalte an den Bund</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 3</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Begriffsbestimmungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 4</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Währungsstichtag</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 5</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">ZWEITER ABSCHNITT</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Schadensfeststellung</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Nichtberücksichtigung saarländischer Vorauszahlungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 6</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Feststellung von Hausratverlusten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 7</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Schadensberechnung bei Kriegssachschäden an land- und forstwirtschaftlichem Vermögen, Grundvermögen und Betriebsvermögen im Saarland</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 8</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Schadensberechnung bei Sparerschäden</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 9</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Frühere Feststellungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 10</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">DRITTER ABSCHNITT</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Ausgleichsleistungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Erster Titel</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">
+					<SP>Ergänzende Vorschriften zu den einzelnen Ausgleichsleistungen</SP>
+				</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Kürzung des Grundbetrags der Hauptentschädigung</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 11</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Anrechnung saarländischer Vorauszahlungen auf die Hauptentschädigung</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 12</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Verhältnis von saarländischen Aufbaudarlehen zur Hauptentschädigung</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 13</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Berücksichtigung von Einkünften bei der Kriegsschadenrente</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 14</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Verhältnis der saarländischen Unterhaltshilfe zur Hauptentschädigung</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 15</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Erstattung saarländischer Unterhaltshilfe</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 16</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Verhältnis der Kriegsschadenrente zu saarländischen Aufbaudarlehen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 17</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Hausratentschädigung</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 18</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Ausgleichsämter</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 19</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Sondervorschriften für die Verwendung von Mitteln</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 20</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Wiederaufnahme von Verfahren über Leistungen nach saarländischen Rechts- oder Verwaltungsvorschriften</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 21</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Erstattung und Verrechnung von Leistungen nach saarländischen Rechts- oder Verwaltungsvorschriften</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 22</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Ausschließung von Ausgleichsleistungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 23</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Umrechnung von Franken in Deutsche Mark</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 24</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Ausschluß der Entschädigungsberechtigung nach dem Währungsausgleichsgesetz</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 25</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Anwendung von Vorschriften des Altsparergesetzes</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 26</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Zweiter Titel</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">
+					<SP>Übergangsvorschriften</SP>
+				</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Überleitung der saarländischen Unterhaltshilfe</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 27</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Übergangsregelung bei der Kriegsschadenrente</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 28</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Überleitung der Behördenorganisation im Saarland</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 29</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Überleitung anhängiger Verfahren</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 30</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Überleitung saarländischer Mittel auf den Ausgleichsfonds</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 31</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Überleitung nach saarländischem Recht begründeter Verpflichtungen auf den Ausgleichsfonds</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 32</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Verwaltungskosten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 33</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">VIERTER ABSCHNITT</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Sonstige und Schlußvorschriften</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col5" namest="col1" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+					<I>Änderung des Lastenausgleichsgesetzes</I>
+				</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">
+					<I>§ 34</I>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+					<I>Änderung des Allgemeinen Kriegsfolgengesetzes</I>
+				</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">
+					<I>§ 35</I>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+					<I>Änderung des Länderfinanzausgleichsgesetzes 1958</I>
+				</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">
+					<I>§ 36</I>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Erlaß von Rechtsverordnungen</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 37</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+					<I>Aufhebung von Rechts- und Verwaltungsvorschriften</I>
+				</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">
+					<I>§ 38</I>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Anwendung in Berlin</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 39</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">Inkrafttreten</entry>
+				<entry VJ="1" align="left" colsep="0" valign="bottom">§ 40</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNG000100326"><metadaten><jurabk>LASaarEG</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>Erster Abschnitt</gliederungsbez><gliederungstitel>Grundsätze und
+Begriffsbestimmungen</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE000800326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 1</enbez><titel format="parat">Grundsatz</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Vorschriften <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">des Lastenausgleichsgesetzes vom 14. August 1952 (BGBl. I S. 446),</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">des Feststellungsgesetzes in der Fassung vom 14. August 1952 (BGBl. I S. 534),</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">des Gesetzes über einen Währungsausgleich für Sparguthaben Vertriebener in der Fassung vom 14. August 1952 (BGBl. I S. 546)</LA></DD> </DL>jeweils in der Fassung der dazu ergangenen Änderungsgesetze gelten, soweit sich nicht aus diesem Gesetz etwas anderes ergibt, auch im Saarland. Das Altsparergesetz in der Fassung vom 1. April 1959 (BGBl. I S. 169) gilt im Saarland nach Maßgabe des § 26.</P><P>(2) Soweit Vorschriften des Dritten Teils des Lastenausgleichsgesetzes und Vorschriften der in Absatz 1 Nr. 2 und 3 bezeichneten Gesetze auf den Geltungsbereich des Grundgesetzes bezogen sind, umfaßt diese Bezugnahme auch das Saarland.</P><P>(3) Die Vorschriften des Lastenausgleichsgesetzes über die Ausgleichsabgaben gelten im Saarland nur nach Maßgabe des § 106 Abs. 2 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiet der Steuern, Zölle und Finanzmonopole im Saarland vom 30. Juni 1959 (BGBl. I S. 339); § 106 Abs. 1 des vorbezeichneten Gesetzes, wonach in den dort bezeichneten Fällen Bezugnahmen im Zweiten Teil des Lastenausgleichsgesetzes auf den Geltungsbereich des Grundgesetzes auch das Saarland umfassen, bleibt unberührt.</P></Content>  </text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE000901301"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 2</enbez><titel format="parat">Ausgleichsleistungen</titel></metadaten><textdaten><text format="XML"><Content><P>Als Ausgleichsleistungen werden gewährt: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Hauptentschädigung (§§ 243 bis 252 LAG),</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Eingliederungsdarlehen (§§ 253 bis 260 LAG),</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Kriegsschadenrente (§§ 261 bis 292c LAG),</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Hausratentschädigung (§§ 293 bis 297 LAG) nach Maßgabe des § 18,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Wohnraumhilfe (§§ 298 bis 300 LAG),</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Härteleistungen (§§ 301, 301a LAG),</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Leistungen auf Grund sonstiger Förderungsmaßnahmen (§§ 302 LAG),</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">(weggefallen)</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Entschädigung nach dem Altsparergesetz nach Maßgabe des § 26.</LA></DD> </DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001001301"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 3</enbez><titel format="parat">Beiträge der öffentlichen Haushalte
+an den Bund</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Das Saarland leistet an den Ausgleichsfonds bis zum 31. Dezember 1979 einen jährlichen Zuschuß in Höhe von 25 vom Hundert seines Aufkommens an Vermögensteuer im jeweiligen Rechnungsjahr.</P><P>(2) Das Saarland leistet an den Bund einen jährlichen Zuschuss in Höhe von einem Drittel des Jahresaufwandes für die Unterhaltshilfe im Saarland.</P><P>(3) Der Ausgleichsfonds leistet einmalig <DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">an das Saarland einen Betrag von neunzig Millionen Deutsche Mark in drei Raten</LA><LA Size="normal">am 25. August und 25. November 1971 sowie am 25. Mai 1972,</LA></DD>  <DT>b)</DT><DD Font="normal"><LA Size="normal">an den Bund einen Betrag von zwei Millionen Deutsche Mark.</LA></DD> </DL> </P><P>(4) Im Verhältnis zum Saarland ist § 6 des Lastenausgleichsgesetzes nicht anzuwenden; bei der Anwendung dieser Vorschrift im übrigen Geltungsbereich des Lastenausgleichsgesetzes bleiben die auf das Saarland entfallenden Einnahmen und Ausgaben außer Ansatz.</P></Content>  </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001100326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 4</enbez><titel format="parat">Begriffsbestimmungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) In diesem Gesetz werden bezeichnet <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">das Gesetz über die Gewährung einer Unterhaltshilfe an Vermögensgeschädigte (Unterhaltshilfe-Gesetz) vom 19. Juli 1950 (Amtsblatt des Saarlandes S. 885) und das Gesetz über die Gewährung einer Unterhaltshilfe an Vermögensgeschädigte (Unterhaltshilfe-Gesetz) vom 18. Juni 1952 (Amtsblatt des Saarlandes S. 666) als saarländisches Unterhaltshilfe-Gesetz,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">der französische Franken als Franken.</LA></DD> </DL> </P><P>(2) Umstellungsvorschriften im Sinne des § 245 Nr. 4 des Lastenausgleichsgesetzes sind die Vorschriften über die Umstellung von Reichsmark auf Deutsche Mark.</P><P>(3) Soweit in den Vorschriften des Lastenausgleichsgesetzes auf das jeweils anzuwendende Wohnungsbaugesetz oder auf das Zweite Wohnungsbaugesetz Bezug genommen ist, gilt für die Anwendung im Saarland an deren Stelle das Gesetz Nr. 696, Wohnungsbaugesetz für das Saarland, vom 17. Juli 1959 (Amtsblatt des Saarlandes S. 1349) in der Fassung des § 5 des Vierzehnten Gesetzes zur Änderung des Lastenausgleichsgesetzes vom 26. Juni 1961 (BGBl. I S. 785).</P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001200326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 5</enbez><titel format="parat">Währungsstichtag</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit in Vorschriften des Lastenausgleichsgesetzes und des Feststellungsgesetzes auf den Währungsstichtag oder den 21. Juni 1948 Bezug genommen ist, tritt für im Saarland belegenes Vermögen und für im Saarland entstandene Kriegssachschäden an deren Stelle der 20. November 1947.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNG000200326"><metadaten><jurabk>LASaarEG</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Zweiter Abschnitt</gliederungsbez><gliederungstitel>Schadensfeststellung</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001300326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 6</enbez><titel format="parat">Nichtberücksichtigung saarländischer
+Vorauszahlungen</titel></metadaten><textdaten><text format="XML"><Content><P>§ 8 Abs. 2 Nr. 4 des Feststellungsgesetzes gilt nicht für Entschädigungszahlungen, die auf Grund saarländischer Rechts- oder Verwaltungsvorschriften gewährt worden sind.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001400326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 7</enbez><titel format="parat">Feststellung von Hausratverlusten</titel></metadaten><textdaten><text format="XML"><Content><P>Kriegssachschäden an Hausrat, die bis zum 31. Juli 1945 im Saarland entstanden sind, sowie Vertreibungsschäden an Hausrat, wenn der Geschädigte bis zum Inkrafttreten dieses Gesetzes seinen ständigen Aufenthalt im Saarland genommen hat, werden nach den Vorschriften des Feststellungsgesetzes nur festgestellt <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">bei Kriegssachschäden an Hausrat, der unter den sonstigen Voraussetzungen des § 8 Abs. 1 Satz 3 des Feststellungsgesetzes aus dem übrigen Geltungsbereich des Lastenausgleichsgesetzes in das Saarland oder aus dem Saarland in Gebiete außerhalb des Geltungsbereichs des Lastenausgleichsgesetzes verlagert worden ist,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">bei Vertreibungsschäden, wenn der Geschädigte die Voraussetzungen des § 230 des Lastenausgleichsgesetzes im Geltungsbereich des Lastenausgleichsgesetzes außerhalb des Saarlandes erfüllt hat oder wenn er nach mindestens einjährigem Aufenthalt in diesem Gebiet vor dem 31. Dezember 1952 seinen ständigen Aufenthalt im Saarland genommen hat,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">bei Erben, die nach saarländischen Rechts- oder Verwaltungsvorschriften zum Empfang von Vorauszahlungen für Hausratschäden nicht berechtigt waren.</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001500326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 8</enbez><titel format="parat">Schadensberechnung bei Kriegssachschäden
+an land- und forstwirtschaftlichem Vermögen,
+Grundvermögen und Betriebsvermögen im Saarland</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Bei der Berechnung von Kriegssachschäden an land- und forstwirtschaftlichem Vermögen und an Grundvermögen im Saarland nach § 13 Abs. 1 des Feststellungsgesetzes tritt an die Stelle des für den Währungsstichtag geltenden Einheitswertes der Reichsmarkbetrag, der dem für den 20. November 1947 geltenden Einheitswert zugrunde liegt. Durch Rechtsverordnung kann bestimmt werden, daß statt des Einheitswertes ein Sonderwert zugrunde zu legen ist, soweit dies wegen der vom übrigen Geltungsbereich des Grundgesetzes abweichenden Durchführung der Wertfortschreibung im Saarland zur Vermeidung von Härten erforderlich ist.</P><P>(2) Bei der Berechnung des Schadenshöchstbetrags für Kriegssachschäden an Betriebsvermögen im Saarland nach § 13 Abs. 4 des Feststellungsgesetzes ist der Endvergleichswert aus dem auf den 20. November 1947 festgestellten Einheitswert wie folgt zu ermitteln: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Betriebsgrundstücke sind mit dem nach Absatz 1 für den 20. November 1947 sich ergebenden Wert anzusetzen, Gewerbeberechtigungen mit dem Wert, der sich in entsprechender Anwendung des Absatzes 1 Satz 1 für den 20. November 1947 ergibt.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Die Wertansätze für die übrigen Wirtschaftsgüter sind umzurechnen<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">für Bargeld, für Forderungen und Verbindlichkeiten sowie für Posten, die der Rechnungsabgrenzung dienen, im Verhältnis von 60 Franken zu einer Reichsmark,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">für Gegenstände des Vorratsvermögens im Verhältnis von 40 Franken zu einer Reichsmark,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">für Gegenstände des Anlagevermögens im Verhältnis von 80 Franken zu einer Reichsmark.</LA></DD> </DL></LA></DD> </DL>§ 13 Abs. 6 Nr. 1 des Feststellungsgesetzes findet keine Anwendung. Der Endvergleichswert ist jedoch auf Antrag um den Betrag zu kürzen, um den die veranlagte Währungsbereicherungsteuer den dafür bei der Einheitswertfeststellung abgezogenen Betrag übersteigt. Dieser Betrag ist nach Nummer 2 Buchstabe a umzurechnen.</P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001600326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 9</enbez><titel format="parat">Schadensberechnung bei Sparerschäden</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Ein Sparerschaden im Sinne des § 15 des Lastenausgleichsgesetzes ist auch dann anzuerkennen, wenn eine Sparanlage im Saarland <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">von Saarmark auf Franken im Verhältnis von einer Saarmark zu zwanzig Franken umgestellt worden ist oder</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">von Reichsmark auf Deutsche Mark umgestellt wird.</LA></DD> </DL> </P><P>(2) Bei der Anwendung des § 240 Abs. 1 des Lastenausgleichsgesetzes sind Sparerschäden im Sinne des Absatzes 1 Nr. 1 mit zwei Dritteln des Saarmarknennbetrages des durch die Umstellung betroffenen Anspruchs, Sparerschäden an Sparanlagen im Sinne des Absatzes 1 Nr. 2 mit dem vollen Reichsmarknennbetrag anzusetzen.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001700326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 10</enbez><titel format="parat">Frühere Feststellungen</titel></metadaten><textdaten><text format="XML"><Content><P>§ 42 des Feststellungsgesetzes findet auch auf die Feststellungen Anwendung, die auf Grund saarländischer Rechts- oder Verwaltungsvorschriften getroffen worden sind.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNG000300326"><metadaten><jurabk>LASaarEG</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Dritter Abschnitt</gliederungsbez><gliederungstitel>Ausgleichsleistungen</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNG000400326"><metadaten><jurabk>LASaarEG</jurabk><gliederungseinheit><gliederungskennzahl>030010</gliederungskennzahl><gliederungsbez>Erster Titel</gliederungsbez><gliederungstitel>Ergänzende Vorschriften zu den
+einzelnen Ausgleichsleistungen</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001800326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 11</enbez><titel format="parat">Kürzung des Grundbetrags der Hauptentschädigung</titel></metadaten><textdaten><text format="XML"><Content><P>Die Ermächtigung in § 249 Abs. 5 Nr. 1 des Lastenausgleichsgesetzes gilt auch für die Bestimmungen über die Berechnung des im Saarland belegenen Vermögens.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE001900326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 12</enbez><titel format="parat">Anrechnung saarländischer Vorauszahlungen
+auf die Hauptentschädigung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Auf den Anspruch auf Hauptentschädigung (§ 251 Abs. 1 des Lastenausgleichsgesetzes) sind die Vorauszahlungen anzurechnen, die auf Grund saarländischer Rechts- und Verwaltungsvorschriften für Schäden im Sinne des Feststellungsgesetzes gewährt worden sind oder werden. Das gilt nicht für Vorauszahlungen für Hausratverluste.</P><P>(2) Die Anrechnung von Vorauszahlungen auf den Anspruch auf Hauptentschädigung beim Zusammentreffen mit Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz, Kriegsschadenrente oder Darlehen im Sinne des § 13 oder Aufbaudarlehen nach dem Lastenausgleichsgesetz sowie in Erbfällen wird durch Rechtsverordnung geregelt; dabei gilt folgendes: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Sind Vorauszahlungen vor oder während der Gewährung von Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz gewährt worden, sind sie bei der Überleitung nach § 27 nach den Vorschriften über die Mindesterfüllungsbeträge (§ 278a Abs. 4 Satz 1 des Lastenausgleichsgesetzes) zu behandeln; für die Gewährung einer höheren Unterhaltshilfe nach dem Lastenausgleichsgesetz und von Entschädigungsrente neben Unterhaltshilfe sind § 278a Abs. 5 und § 283a Abs. 1 Nr. 4 des Lastenausgleichsgesetzes entsprechend anzuwenden. Ist Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz nicht gewährt worden, gelten Vorauszahlungen bei späterer Zuerkennung von Kriegsschadenrente nach dem Lastenausgleichsgesetz als teilweise Erfüllung des Anspruchs auf Hauptentschädigung.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Sind Vorauszahlungen nach einem Darlehen im Sinne des § 13 oder einem Aufbaudarlehen nach dem Lastenausgleichsgesetz gewährt worden, ist die Anrechnung des Darlehens so zu regeln, daß die volle Anrechnung der Vorauszahlungen gewährleistet ist.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">In Erbfällen kann der Grundsatz des § 18 Abs. 1 zweiter Halbsatz angewandt und bestimmt werden, daß Vorauszahlungen auch auf mehrere Hauptentschädigungsansprüche eines Berechtigten aus eigenen Schäden oder Schäden von Erblassern anzurechnen sind.</LA></DD> </DL></P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002000326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 13</enbez><titel format="parat">Verhältnis von saarländischen Aufbaudarlehen
+zur Hauptentschädigung</titel></metadaten><textdaten><text format="XML"><Content><P>Nach Maßgabe des § 258 des Lastenausgleichsgesetzes werden auf den Anspruch auf Hauptentschädigung auch Darlehen angerechnet, die nach den folgenden saarländischen Verwaltungsvorschriften einschließlich der dazu ergangenen ergänzenden Bestimmungen gewährt worden sind: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Erlaß über die Verwendung der im außerordentlichen Haushalt für das Rechnungsjahr 1949 ausgebrachten Haushaltsmittel zur Gewährung von Darlehen für die Instandsetzung und den Wiederaufbau von privaten Wohngebäuden und landwirtschaftlichen Anwesen vom 9. Februar 1949 (Amtsblatt des Saarlandes S. 338) mit den Änderungen vom 28. Mai 1956 (Amtsblatt des Saarlandes S. 1059) und vom 30. April 1958 (Amtsblatt des Saarlandes S. 503),</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Erlaß über die Gewährung von Darlehen für den Wiederaufbau von kriegszerstörten Wohngebäuden durch Aufbaugemeinschaften vom 5. Mai 1952 (Amtsblatt des Saarlandes S. 545) mit den Änderungen vom 24. November 1954 (Amtsblatt des Saarlandes S. 1544),</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Richtlinien über die Gewährung von staatlichen Mitteln an Saarländische Binnenschiffer vom 14. August 1957 (Amtsblatt des Saarlandes S. 1214).</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002100326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 14</enbez><titel format="parat">Berücksichtigung von Einkünften
+bei der Kriegsschadenrente</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit in § 267 Abs. 2 des Lastenausgleichsgesetzes auf das Bundesversorgungsgesetz Bezug genommen ist, umfaßt diese Bezugnahme auch die im Saarland geltenden entsprechenden Vorschriften. Bei der Anwendung des § 267 Abs. 2 Nr. 2 Buchstaben a und e des Lastenausgleichsgesetzes auf Renten nach saarländischem Recht ist von den Sätzen der Grundrente oder Elternrente auszugehen, die sich nach dem Bundesversorgungsgesetz ergeben würden.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002200326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 15</enbez><titel format="parat">Verhältnis der saarländischen Unterhaltshilfe
+zur Hauptentschädigung</titel></metadaten><textdaten><text format="XML"><Content><P>Bei Anwendung des § 278a des Lastenausgleichsgesetzes werden die nach dem saarländischen Unterhaltshilfe-Gesetz für Zeiträume bis zum Inkrafttreten dieses Gesetzes geleisteten Zahlungen ohne Mietbeihilfe mit 30 vom Hundert auf den Grundbetrag der Hauptentschädigung angerechnet.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002300326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 16</enbez><titel format="parat">Erstattung saarländischer Unterhaltshilfe</titel></metadaten><textdaten><text format="XML"><Content><P>§ 290 des Lastenausgleichsgesetzes ist auch auf Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz anzuwenden.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002400326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 17</enbez><titel format="parat">Verhältnis der Kriegsschadenrente
+zu saarländischen Aufbaudarlehen</titel></metadaten><textdaten><text format="XML"><Content><P>§ 291 des Lastenausgleichsgesetzes gilt auch für Darlehen im Sinne des § 13.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002500326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 18</enbez><titel format="parat">Hausratentschädigung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Bei der Anwendung des § 296 des Lastenausgleichsgesetzes sind auch die Vorauszahlungen zu berücksichtigen, die auf Grund saarländischer Rechts- oder Verwaltungsvorschriften gewährt worden sind; im Falle des § 7 Nr. 3 bleiben Vorauszahlungen an solche Erben außer Betracht, die nach saarländischen Rechts- oder Verwaltungsvorschriften zum Empfang von Vorauszahlungen für Hausratschäden berechtigt waren.</P><P>(2) Verluste an Hausrat, die nach § 7 nicht festgestellt werden, sind durch die nach saarländischen Rechts- oder Verwaltungsvorschriften für Hausratverluste gewährten Leistungen abgegolten.</P></Content> </text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002600326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 19</enbez><titel format="parat">Ausgleichsämter</titel></metadaten><textdaten><text format="XML"><Content><P>Abweichend von § 308 Abs. 1 des Lastenausgleichsgesetzes kann im Saarland für mehrere Landkreise oder Stadt- und Landkreise ein Ausgleichsamt eingerichtet werden. In diesem Falle gilt § 310 Abs. 3 Halbsatz 2 des Lastenausgleichsgesetzes entsprechend.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002700326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 20</enbez><titel format="parat">Sondervorschriften für die Verwendung
+von Mitteln</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die für die Gewährung von Aufbaudarlehen im Saarland bereitzustellenden Mittel bleiben bei den in § 323 Abs. 1 des Lastenausgleichsgesetzes bestimmten Höchstbeträgen außer Ansatz.</P><P>(2) Für Zwecke der Wohnraumhilfe im Saarland sind Mittel in Höhe von einem Fünfzigstel des Betrages bereitzustellen, der für das jeweilige Rechnungsjahr nach § 323 Abs. 2 des Lastenausgleichsgesetzes für die übrigen Länder bereitzustellen ist; die Mittel werden dem Saarland darlehnsweise zur Verfügung gestellt. Für die Zeit vom 1. Januar bis 31. März 1960 gilt Satz 1 mit der Maßgabe, daß nur ein Viertel des Betrages bereitzustellen ist. § 323 Abs. 2 Satz 5 des Lastenausgleichsgesetzes gilt entsprechend.</P><P>(3) Für die Gewährung von Arbeitsplatzdarlehen im Saarland können Mittel bis zum Ablauf des Rechnungsjahres 1965 bereitgestellt werden.</P></Content>  </text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002800326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 21</enbez><titel format="parat">Wiederaufnahme von Verfahren über Leistungen
+nach saarländischen Rechts- oder Verwaltungsvorschriften</titel></metadaten><textdaten><text format="XML"><Content><P>§§ 342 und 343 Abs. 4 des Lastenausgleichsgesetzes sind auch auf Verfahren über Leistungen anzuwenden, die nach saarländischen Rechts- oder Verwaltungsvorschriften gewährt worden und den Ausgleichsleistungen vergleichbar sind.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE002900326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 22</enbez><titel format="parat">Erstattung und Verrechnung von Leistungen nach
+saarländischen Rechts- oder Verwaltungsvorschriften</titel></metadaten><textdaten><text format="XML"><Content><P>§ 350a des Lastenausgleichsgesetzes ist auch auf die nach saarländischen Rechts- oder Verwaltungsvorschriften gewährten Leistungen anzuwenden, die den Ausgleichsleistungen vergleichbar sind.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003000326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 23</enbez><titel format="parat">Ausschließung von Ausgleichsleistungen</titel></metadaten><textdaten><text format="XML"><Content><P>Bei Anwendung des § 360 des Lastenausgleichsgesetzes gelten als Ausgleichsleistungen auch die nach saarländischen Rechts- oder Verwaltungsvorschriften gewährten vergleichbaren Leistungen.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003100326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 24</enbez><titel format="parat">Umrechnung von Franken in Deutsche Mark</titel></metadaten><textdaten><text format="XML"><Content><P>Bei der Anwendung der §§ 12, 15, 16, 18 Abs. 1 und des § 22 sind Zahlungen in Franken mit dem aus der Anlage ersichtlichen, am Tage der jeweiligen Zahlung geltenden Umrechnungssatz in Deutsche Mark umzurechnen. Bei Anrechnung von Darlehen im Sinne des § 13 auf die Hauptentschädigung sind Zahlungen in Franken im Verhältnis von 0,8507 Deutsche Mark für 100 Franken umzurechnen.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003200326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 25</enbez><titel format="parat">Ausschluß der Entschädigungsberechtigung
+nach dem Währungsausgleichsgesetz</titel></metadaten><textdaten><text format="XML"><Content><P>Bei Anwendung des § 1 Abs. 4 des Währungsausgleichsgesetzes wird Entschädigung auch aus solchen Spareinlagen nicht gewährt, die im Saarland auf Franken umgestellt worden sind oder umstellungsfähig waren.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003300326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 26</enbez></metadaten><textdaten><text format="XML"><Content><P>Die Vorschriften des Altsparergesetzes gelten im Saarland, soweit sie sich beziehen auf <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">nach dem Gesetz über die Umwandlung von Reichsmarkguthaben im Saarland vom 15. April 1961 (BGBl. I S. 441) in Deutsche Mark umgewandelte Spareinlagen im Sinne des § 2 Abs. 1 Nr. 1 des Altsparergesetzes und nach § 2a des Altsparergesetzes gleichgestellte Geldeinlagen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">ablösbare Kapitalansprüche im Sinne des § 2b Abs. 1 Nr. 1 des Altsparergesetzes, soweit Kreditinstitute im Saarland als Anmeldestellen im Sinne des § 42 Abs. 1 des Allgemeinen Kriegsfolgengesetzes tätig werden.</LA></DD> </DL>Im Falle des § 2b Abs. 2 Satz 2 des Altsparergesetzes gelten dessen Vorschriften im Saarland auch dann, wenn Kreditinstitute im Saarland die ablösbaren Kapitalansprüche am 20. Juni 1948 verwahrt oder verwaltet haben.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNG000500326"><metadaten><jurabk>LASaarEG</jurabk><gliederungseinheit><gliederungskennzahl>030020</gliederungskennzahl><gliederungsbez>Zweiter Titel</gliederungsbez><gliederungstitel>Übergangsvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003400326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 27</enbez><titel format="parat">Überleitung der saarländischen Unterhaltshilfe</titel></metadaten><textdaten><text format="XML"><Content><P>(1) An Personen, die über den Zeitpunkt des Inkrafttretens dieses Gesetzes hinaus Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz hätten beziehen können, wird Unterhaltshilfe auf Lebenszeit nach Maßgabe des Lastenausgleichsgesetzes gewährt, an Vollwaisen jedoch Unterhaltshilfe auf Zeit bis zur Vollendung des 18. oder, wenn sie noch in Ausbildung stehen, des 25. Lebensjahres. An Sowjetzonenflüchtlinge im Sinne des § 3 des Bundesvertriebenengesetzes und diesen nach § 4 des Bundesvertriebenengesetzes gleichgestellte Personen, deren Vermögensschäden in der sowjetischen Besatzungszone oder im sowjetisch besetzten Sektor von Berlin entstanden sind, wird an Stelle der bisherigen Unterhaltshilfe Beihilfe zum Lebensunterhalt nach den §§ 301, 301a des Lastenausgleichsgesetzes gewährt. Wurde Unterhaltshilfe wegen eines Vermögensschadens bezogen, der durch Maßnahmen der nationalsozialistischen Gewaltherrschaft entstanden ist, wird Unterhaltshilfe nach dem Lastenausgleichsgesetz nur so lange gewährt, als Entschädigungsleistungen auf Grund der Wiedergutmachungsgesetzgebung nicht gewährt werden können.</P><P>(2) In den in Absatz 1 bezeichneten Fällen wird die Unterhaltshilfe oder die Beihilfe zum Lebensunterhalt nach dem Lastenausgleichsgesetz vom 1. Januar 1960 ab gewährt, frühestens jedoch von dem Zeitpunkt ab, von dem ab Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz gewährt worden ist oder nach § 30 gewährt wird; die für den gleichen Zeitraum nach dem saarländischen Unterhaltshilfe-Gesetz bewirkten Leistungen einschließlich des Mietzuschlags sind anzurechnen. Solange der Berechtigte seinen ständigen Aufenthalt im Saarland hat und nicht erstmalig Kriegsschadenrente oder Beihilfe zum Lebensunterhalt nach dem Lastenausgleichsgesetz mit einem höheren Betrag zu zahlen ist, wird die Unterhaltshilfe oder die Beihilfe zum Lebensunterhalt in derjenigen Höhe, die sich bei Weitergeltung des saarländischen Rechts ohne Mietzuschlag ergeben würde, weitergewährt. Entsprechendes gilt, wenn nach saarländischem Recht an Stelle der Unterhaltshilfe der notwendige Lebensbedarf in einem Heim gewährt worden ist. In den Fällen des Satzes 2 werden diejenigen Beträge, welche die Unterhaltshilfe nach dem Lastenausgleichsgesetz übersteigen, nach den für die Entschädigungsrente geltenden Grundsätzen auf die Hauptentschädigung angerechnet.</P><P>(3) In den in Absatz 1 bezeichneten Fällen wird für Todesfälle nach dem Inkrafttreten dieses Gesetzes Sterbegeld nach § 277 des Lastenausgleichsgesetzes mit der Maßgabe gewährt, daß ein Beitrag zu den entstehenden Kosten nicht erhoben wird, solange die Unterhaltshilfe in der in Absatz 2 Satz 2 bezeichneten Höhe weiterzugewähren ist; tritt eine Beitragspflicht ein, kann der Berechtigte innerhalb eines Jahres nach Rechtskraft des Bescheides über die Änderung der Unterhaltshilfe erklären, daß er die Sterbevorsorge nicht aufrechterhalten will.</P></Content>  </text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003500326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 28</enbez><titel format="parat">Übergangsregelung bei der Kriegsschadenrente</titel></metadaten><textdaten><text format="XML"><Content><P>(1) An Personen, die erst auf Grund dieses Gesetzes Kriegsschadenrente beantragen können, wird bei Antragstellung bis zum 31. Dezember 1961 Kriegsschadenrente mit Wirkung vom 1. Januar 1960 ab gewährt, frühestens jedoch vom Ersten des Monats ab, in dem die Voraussetzungen für die Gewährung von Kriegsschadenrente eingetreten sind.</P><P>(2) Von Personen, die erst auf Grund dieses Gesetzes Kriegsschadenrente beantragen können, kann Antrag auf Kriegsschadenrente wegen Erwerbsunfähigkeit nach § 265 des Lastenausgleichsgesetzes bis zum 31. Dezember 1961 gestellt werden.</P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003600326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 29</enbez><titel format="parat">Überleitung der Behördenorganisation im Saarland</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Der saarländische Minister des Innern nimmt bis zur Bildung des Landesausgleichsamtes dessen Geschäfte wahr.</P><P>(2) Ausgleichsämter sind die bei den Stadt- und Landkreisen bestehenden Feststellungsbehörden. Bis zur Bildung von Ausgleichsausschüssen werden deren Geschäfte durch die bei den Stadt- und Landkreisen bestehenden Rechtsausschüsse wahrgenommen.</P><P>(3) Bis zur Bildung von Beschwerdeausschüssen werden deren Geschäfte durch den nach § 15 des saarländischen Unterhaltshilfe-Gesetzes gebildeten Beschwerdeausschuß wahrgenommen.</P><P>(4) Die Vertreter des Staatsinteresses nach Nummer 9 der Richtlinien für das Beweissicherungsverfahren im Saarland vom 28. August 1948 (Amtsblatt des Saarlandes 1949 S. 108) nehmen bis zur Bestellung der Vertreter der Interessen des Ausgleichsfonds deren Aufgaben wahr.</P></Content>   </text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003700326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 30</enbez><titel format="parat">Überleitung anhängiger Verfahren</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Für die bei Inkrafttreten dieses Gesetzes anhängigen Verfahren über Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz gilt folgendes: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Anträge auf Gewährung von Unterhaltshilfe werden, wenn noch kein Vorbescheid erteilt ist, nach den Verfahrensvorschriften des Lastenausgleichsgesetzes weiterbehandelt. Ist ein Vorbescheid bereits erteilt, so entscheidet über einen Einspruch, sofern durch das Ausgleichsamt nicht abgeholfen wird, der Ausgleichsausschuß.</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Die bei dem Beschwerdeausschuß anhängigen Verfahren werden auf die Beschwerdeausschüsse nach dem Lastenausgleichsgesetz übergeleitet; das gilt auch für Beschwerden, die nach dem Inkrafttreten dieses Gesetzes eingelegt werden, sofern der angefochtene Bescheid bereits vor diesem Zeitpunkt ergangen ist.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Die bei dem Oberverwaltungsgericht anhängigen Rechtsbeschwerden werden als Anfechtungsklagen nach dem Lastenausgleichsgesetz auf das Verwaltungsgericht übergeleitet. Dies gilt auch für Rechtsbeschwerden, die nach dem Inkrafttreten dieses Gesetzes eingelegt werden, sofern die angefochtene Entscheidung des Beschwerdeausschusses bereits vor diesem Zeitpunkt ergangen ist.</LA></DD> </DL>Für das weitere Verfahren gelten die Vorschriften des Lastenausgleichsgesetzes.</P><P>(2) Die bei Inkrafttreten dieses Gesetzes nach saarländischen Rechts- oder Verwaltungsvorschriften anhängigen oder nach diesem Zeitpunkt noch anhängig werdenden Beweissicherungsverfahren für Hausratverluste und Verfahren über die Gewährung von Vorauszahlungen für Hausratverluste werden nach den bis zum Inkrafttreten dieses Gesetzes geltenden saarländischen Rechts- oder Verwaltungsvorschriften durchgeführt; die Vertreter der Interessen des Ausgleichsfonds sind nach Maßgabe des § 322 des Lastenausgleichsgesetzes an den Verfahren beteiligt. Vom 1. Juni 1963 ab gilt Satz 1 erster Halbsatz nur noch für das Verfahren vor dem Ausgleichsamt; für das weitere Verfahren gelten die Vorschriften des Lastenausgleichsgesetzes. Am 1. Juni 1963 anhängige Vorverfahren werden auf die Beschwerdeausschüsse nach dem Lastenausgleichsgesetz übergeleitet; dies gilt auch für Rechtsbehelfe im Vorverfahren, die nach dem 1. Juni 1963 eingelegt werden, sofern der angefochtene Bescheid vor diesem Zeitpunkt ergangen ist.</P><P>(3) Die bei Inkrafttreten dieses Gesetzes nach saarländischen Rechts- oder Verwaltungsvorschriften bei den Feststellungsbehörden anhängigen Beweissicherungsverfahren und Verfahren über die Gewährung von Vorauszahlungen für Verluste an anderen Wirtschaftsgütern als Hausrat werden nach entsprechender Antragstellung als Verfahren über Schadensfeststellung und Zuerkennung der Hauptentschädigung weitergeführt. Die bei den Verwaltungsgerichten anhängigen Verfahren im Sinne des Satzes 1 werden eingestellt; Gerichtskosten werden nicht erhoben, außergerichtliche Kosten gegeneinander aufgehoben.</P><P>(4) Die bei Inkrafttreten dieses Gesetzes anhängigen Verfahren über Darlehen im Sinne des § 13 werden nach entsprechender Antragstellung als Verfahren über Aufbaudarlehen weitergeführt.</P></Content>   </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003800326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 31</enbez><titel format="parat">Überleitung saarländischer Mittel auf den
+Ausgleichsfonds</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Soweit die Mittel, die dem Saarland aus der Gemeinschaftshilfeabgabe zufließen, bis zum 31. Dezember 1959 noch nicht für Zwecke der Kriegsschädenregelung ausgegeben waren, sind sie dem Ausgleichsfonds zuzuführen; dies gilt auch für die Beträge, die aus der Gemeinschaftshilfeabgabe nach diesem Zeitpunkt aufgekommen sind oder aufkommen.</P><P>(2) Die Ansprüche aus den nach saarländischen Rechts- oder Verwaltungsvorschriften gewährten Darlehen im Sinne des § 13 sowie Rückforderungsansprüche aus Leistungen, die aus Mitteln der Gemeinschaftshilfeabgabe gewährt worden sind, gehen mit Wirkung vom 1. Januar 1960 ab auf den Ausgleichsfonds über.</P></Content> </text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE003900326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 32</enbez><titel format="parat">Überleitung nach saarländischem Recht begründeter
+Verpflichtungen auf den Ausgleichsfonds</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Ansprüche auf Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz werden vom 1. Januar 1960 ab aus dem Ausgleichsfonds erfüllt.</P><P>(2) Die nach § 30 Abs. 2 abzuwickelnden Leistungen für Hausratverluste werden vom 1. Januar 1960 ab aus dem Ausgleichsfonds insoweit erfüllt, als sie auf saarländischen Rechts- oder Verwaltungsvorschriften beruhen, die vor dem 5. Juli 1959 ergangen sind. Das gleiche gilt für <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">bis zum 31. Dezember 1959 durch Bescheid begründete Ansprüche auf Darlehen im Sinne des § 13,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">bis zum Inkrafttreten dieses Gesetzes durch Bescheid begründete Ansprüche auf andere Leistungen aus Mitteln der Gemeinschaftshilfeabgabe; bei Bescheiden, die nach dem 31. Dezember 1959 ergangen sind, gilt dies jedoch nur insoweit, als sie den Leistungen des Lastenausgleichsgesetzes entsprechen.</LA></DD> </DL>Die Abwicklung der hiernach nicht vom Ausgleichsfonds zu übernehmenden Leistungen bestimmt das Landesrecht.</P><P>(3)</P></Content>  </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE004000326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 33</enbez><titel format="parat">Verwaltungskosten</titel></metadaten><textdaten><text format="XML"><Content><P>§ 351 <I>Abs. 3 Satz 1</I> des Lastenausgleichsgesetzes ist auch auf Reisekostenvergütungen und auf Kosten für die Beschaffung von Schulungsmaterial anzuwenden, die vor dem Inkrafttreten dieses Gesetzes im Saarland durch die vorbereitende Schulung der künftigen Bediensteten der Ausgleichsbehörden entstanden sind.</P></Content></text><fussnoten><Content><P>§ 33 Kursivdruck: § 351 LAG jetzt idF d. Art. 2 Abs. 2 G v. 30.8.1971 I 1426</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNG000600326"><metadaten><jurabk>LASaarEG</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>Vierter Abschnitt</gliederungsbez><gliederungstitel>Sonstige und Schlußvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE004100326"><metadaten><jurabk>LASaarEG</jurabk><enbez>(XXXX) §§ 34 bis 36</enbez></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE004200326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 37</enbez><titel format="parat">Erlaß von Rechtsverordnungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die in diesem Gesetz vorgesehenen Rechtsverordnungen erläßt die Bundesregierung mit Zustimmung des Bundesrates.</P><P>(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach Absatz 1 die auf Grund des Lastenausgleichsgesetzes, des Feststellungsgesetzes, des Gesetzes über einen Währungsausgleich für Sparguthaben Vertriebener sowie des Altsparergesetzes erlassenen Rechtsverordnungen auf das Saarland zu erstrecken; sie hat hierbei die durch dieses Gesetz bedingten Abweichungen zu berücksichtigen. Der Präsident des Bundesausgleichsamtes wird ermächtigt, die von ihm erlassenen Rechtsverordnungen auf das Saarland zu erstrecken.</P><P>(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach Absatz 1 eine Ausschlußfrist für die Einreichung von Anträgen auf Feststellung von Kriegssachschäden an Hausrat nach den Richtlinien für das Beweissicherungsverfahren im Saarland vom 28. August 1948 (Amtsblatt des Saarlandes 1949 S. 108) und von Anträgen auf Gewährung von Leistungen für Hausratverluste nach saarländischen Rechts- oder Verwaltungsvorschriften (§ 18 Abs. 2, § 30 Abs. 2) zu setzen.</P></Content>  </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE004300326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 38</enbez><titel format="parat">Aufhebung von Rechts- und Verwaltungsvorschriften</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit sich aus diesem Gesetz nichts anderes ergibt, treten mit dem Inkrafttreten dieses Gesetzes jeweils mit den dazu ergangenen Änderungen und Durchführungsvorschriften außer Kraft <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Kriegssachschädenverordnung vom 30. November 1940 (Reichsgesetzbl. I S. 1547),</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die Richtlinien für das Beweissicherungsverfahren im Saarland vom 28. August 1948 (Amtsblatt des Saarlandes 1949 S. 108),</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">das Gesetz über die Gewährung einer Unterhaltshilfe an Vermögensgeschädigte (Unterhaltshilfe-Gesetz) vom 18. Juni 1952 (Amtsblatt des Saarlandes S. 666),</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">das Gesetz Nr. 473 betreffend Zahlung von Entschädigungsbeträgen für Kriegssachschäden, die Ehegatten an Hausrat entstanden sind, vom 19. Juli 1955 (Amtsblatt des Saarlandes S. 1226),</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">§ 14 des Achten Gesetzes zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndGLAG) vom 26. Juli 1957 (BGBl. I S. 809),</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">die Richtlinien für die Gewährung von Vorauszahlungen an Kriegssachgeschädigte, Vertriebene und Flüchtlinge vom 19. Mai 1959 (Amtsblatt des Saarlandes S. 878),</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">§ 107 Abs. 1 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiet der Steuern, Zölle und Finanzmonopole im Saarland vom 30. Juni 1959 (BGBl. I S. 339).</LA></DD> </DL></P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE004400326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 39</enbez><titel format="parat">Anwendung in Berlin</titel></metadaten><textdaten><text format="XML"><Content><P>Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE004500326"><metadaten><jurabk>LASaarEG</jurabk><enbez>§ 40</enbez><titel format="parat">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</P></Content></text></textdaten></norm>
+<norm builddate="20130405125059" doknr="BJNR006370960BJNE004600326"><metadaten><jurabk>LASaarEG</jurabk><enbez>Anlage</enbez><titel format="parat">(zu § 24)</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle"> Fundstelle des Originaltextes: BGBl. I 1960, 646 </kommentar> <BR/><table frame="top" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="2" colsep="1" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="60*"/>
+		<colspec colname="col2" colnum="2" colwidth="40*"/>
+		<thead valign="bottom">
+			<row rowsep="1">
+				<entry VJ="1" align="center" colsep="1" valign="top">Zahlungszeitraum</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Umrechnungssatz für 100 Franken</entry>
+			</row>
+		</thead>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">21. Juni 1948 bis 31. Dezember 1948</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,27 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1. Januar 1949 bis 18. September 1949</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,23 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">19. September 1949 bis 31. Dezember 1952</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,20 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1. Januar 1953 bis 31. Dezember 1953</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,1965 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1. Januar 1954 bis 31. Dezember 1954</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,1956 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1. Januar 1955 bis 31. Dezember 1955</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,2003 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1. Januar 1956 bis 31. Dezember 1956</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,1913 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1. Januar 1957 bis 11. August 1957</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">1,1911 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">12. August 1957 bis 31. Dezember 1957</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">0,9971 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1. Januar 1958 bis 24. Dezember 1958</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">0,9949 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">25. Dezember 1958 bis 31. Dezember 1958</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">0,8522 Deutsche Mark</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">ab 1. Januar 1959</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">0,8526 Deutsche Mark</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text></textdaten></norm>
+</dokumente>

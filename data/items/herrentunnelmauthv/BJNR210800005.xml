@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20130405132117" doknr="BJNR210800005"><norm builddate="20130405132117" doknr="BJNR210800005"><metadaten><jurabk>HerrentunnelMautHV</jurabk><amtabk>HerrentunnelMautHV</amtabk><ausfertigung-datum manuell="ja">2005-07-06</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>2005, 2108</zitstelle></fundstelle><kurzue>Herrentunnel-Mauthöheverordnung</kurzue><langue>Verordnung über die Höhe der Maut für die Benutzung des Herrentunnels</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 14. 7.2005 +++)<BR/><BR/></pre></P></Content></fussnoten></textdaten></norm>
+<norm builddate="20130405132117" doknr="BJNR210800005BJNE000100000"><metadaten><jurabk>HerrentunnelMautHV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 3a Abs. 2 Satz 1 in Verbindung mit § 3 Abs. 2 bis 5 des Fernstraßenbauprivatfinanzierungsgesetzes in der Fassung der Bekanntmachung vom 20. Januar 2003 (BGBl. I S. 98) verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen nach Anhörung des Ministeriums für Wissenschaft, Wirtschaft und Verkehr des Landes Schleswig-Holstein:</P></Content></text></textdaten></norm>
+<norm builddate="20130405132117" doknr="BJNR210800005BJNE000200000"><metadaten><jurabk>HerrentunnelMautHV</jurabk><enbez>§ 1</enbez><titel format="parat">Mauthöhe</titel></metadaten><textdaten><text format="XML"><Content><P>Für jede einfache Benutzung des Abschnitts der Bundesstraße 104 zwischen Straßenkilometer 6 + 034,11 westlich der Trave und Straßenkilometer 8 + 051,08 östlich der Trave (Herrentunnel im Stadtgebiet der Hansestadt Lübeck) wird von der Herrentunnel Lübeck GmbH &amp; Co. KG, Lübeck, die vom Ministerium für Wissenschaft, Wirtschaft und Verkehr des Landes Schleswig-Holstein durch § 1 der Landesverordnung über die Beleihung zur Erhebung von Mautgebühren für den Herrentunnel in Lübeck und zur Übertragung der Ermächtigung zur Beleihung vom 22. August 2003 (GVOBl. Schl-H. S. 437), die zuletzt durch die Landesverordnung vom 27. Juni 2005 (GVOBl. Schl-H. S. 265) geändert worden ist, beliehen worden ist, eine Maut nach dem Mautverzeichnis in der Anlage erhoben.</P></Content></text></textdaten></norm>
+<norm builddate="20130405132117" doknr="BJNR210800005BJNE000300000"><metadaten><jurabk>HerrentunnelMautHV</jurabk><enbez>§ 2</enbez><titel format="parat">Beginn der Mauterhebung</titel></metadaten><textdaten><text format="XML"><Content><P>Die Mauterhebung beginnt mit dem Tag der Freigabe der in § 1 genannten Strecke für den öffentlichen Verkehr. Der in Satz 1 genannte Tag wird vom Bundesministerium für Verkehr, Bau- und Wohnungswesen im Bundesanzeiger bekannt gegeben.</P></Content></text></textdaten></norm>
+<norm builddate="20130405132117" doknr="BJNR210800005BJNE000400000"><metadaten><jurabk>HerrentunnelMautHV</jurabk><enbez>§ 3</enbez><titel format="parat">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</P></Content></text></textdaten></norm>
+<norm builddate="20130405132117" doknr="BJNR210800005BJNE000500000"><metadaten><jurabk>HerrentunnelMautHV</jurabk><enbez>Anlage</enbez><titel format="XML">(zu § 1)
+<BR/>
+Mautverzeichnis</titel></metadaten><textdaten><text format="XML"><Content><P> <table frame="bottom" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="6" colsep="1" rowsep="1">
+		<colspec colname="col1" colnum="1" colwidth="20*"/>
+		<colspec colname="col2" colnum="2" colwidth="20*"/>
+		<colspec colname="col3" colnum="3" colwidth="15*"/>
+		<colspec colname="col4" colnum="4" colwidth="20*"/>
+		<colspec colname="col5" colnum="5" colwidth="15*"/>
+		<colspec colname="col6" colnum="6" colwidth="20*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col6" namest="col1" valign="top"><kommentar typ="Fundstelle">(Fundstelle des Originaltextes: BGBl. I 2005, 2109)</kommentar></entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" morerows="1" valign="top">Fahrzeugklasse</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="1" valign="top">Höhe über der
+Vorderachse</entry>
+				<entry VJ="1" align="left" colsep="0" morerows="1" valign="top">Anzahl der Achsen</entry>
+				<entry VJ="1" align="center" colsep="0" morerows="1" valign="top">Fahrzeugart (Beispiele)</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col6" namest="col5" valign="top">Mauthöhe in Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">AGE *)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">MGE ++)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" valign="top">A</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">&lt;= 1,30 m</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Pkw, Motorrad</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">0,75</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">0,90</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" valign="top">B1</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">&lt;= 1,30 m</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">&gt; 2</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Pkw mit Anhänger</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">1,73</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">2,00</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" valign="top">B2</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">&gt; 1,30 m</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bus, Caravan, Transporter, Lkw</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">1,73</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">2,00</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" valign="top">C</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">&gt; 1,30 m</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">3</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Fahrzeuge der Klasse B2 mit Anhänger einachsig, Lkw, Bus</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">4,50</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">5,30</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" valign="top">D</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">&gt; 1,30 m</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">&gt;= 4</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Fahrzeuge der Klasse B2 mit Anhänger mehrachsig, Fahrzeuge der Klasse C mit Anhänger, Lkw</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">7,50</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">8,80</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> <BR/> <BR/>----- <DL Font="normal" Type="arabic"><DT>*)</DT><DD Font="normal"><LA Size="normal">AGE: Automatische Gebührenerhebung (Zahlung mittels Transponder)</LA></DD> <DT>++)</DT><DD Font="normal"><LA Size="normal">MGE: Manuelle Gebührenerhebung (Zahlung mittels Smart Card, Münzautomat oder bar bei Kassierern)</LA></DD> </DL></P></Content>
+</text></textdaten></norm>
+</dokumente>

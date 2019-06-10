@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20151026215048" doknr="BJNR019600971"><norm builddate="20151026215048" doknr="BJNR019600971"><metadaten><jurabk>TierSeuchErEinfV</jurabk><ausfertigung-datum manuell="ja">1971-12-07</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1971, 1960</zitstelle></fundstelle><kurzue>Tierseuchenerreger-Einfuhrverordnung</kurzue><langue>Verordnung über das innergemeinschaftliche Verbringen und die Einfuhr von Tierseuchenerregern</langue><standangabe checked="ja"><standtyp>Neuf</standtyp><standkommentar>Neugefasst durch Bek. v. 13.12.1982 I 1728;</standkommentar></standangabe><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>zuletzt geändert durch Art. 383 V v. 31.8.2015 I 1474</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis Geltung ab: 18.12.1988 +++)<BR/><BR/></pre>Überschrift: IdF d. Art. 1 Nr. 1 V v. 28.12.1992 I 2467; 1993 I 63 mWv 1.1.1993</P><P><BR/> Die Verordnung wurde auf Grund des § 6 Abs. 2 Satz 2 des Viehseuchengesetzes idF d. Bek. v. 27.2.1969 BGBl. I S. 158 u. des Art. 3 des Gesetzes v. 22.1.1969 BGBl. I S. 77 vom Bundesminister für Ernährung, Landwirtschaft u. Forsten mit Zustimmung des Bundesrates erlassen</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNG000100328"><metadaten><jurabk>TierSeuchErEinfV</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>I.</gliederungsbez><gliederungstitel>Allgemeine Vorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE000601308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>Im Sinne dieser Verordnung sind <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Tierseuchenerreger, Erreger:</LA><LA Size="normal">vermehrungsfähige Erreger, die bei Tieren übertragbare Krankheiten hervorrufen können, sowie vermehrungsfähige, hinsichtlich der Virulenz modifizierte Stämme, die von solchen Erregern abstammen;</LA></DD>  <DT>2.</DT><DD Font="normal"><LA Size="normal">wissenschaftlich geleitete Einrichtungen:</LA><LA Size="normal">Einrichtungen, in denen die baulichen und technischen Voraussetzungen für das Arbeiten mit Tierseuchenerregern gegeben sind und deren Leiter oder für die Durchführung dieser Arbeiten verantwortlicher Vertreter<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">approbierter Tierarzt, Arzt, Zahnarzt oder Apotheker ist oder ein Hochschulstudium der Biologie oder der Chemie abgeschlossen hat und</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">mindestens drei Jahre auf dem Gebiet der veterinärmedizinischen oder medizinischen Mikrobiologie und Serologie tätig gewesen ist;</LA></DD> </DL></LA></DD>  <DT>3.</DT><DD Font="normal"><LA Size="normal">wissenschaftlich geleitete Betriebe:</LA><LA Size="normal">Betriebe, in denen Sera, Impfstoffe oder diagnostische Mittel hergestellt oder Forschungen unter Verwendung von Tierseuchenerregern durchgeführt werden, sofern die baulichen und technischen Voraussetzungen für das Arbeiten mit Tierseuchenerregern gegeben sind und der Leiter oder der für diese Arbeiten verantwortliche Betriebsangehörige die Voraussetzungen der Nummer 2 Buchstabe a und b erfüllt.</LA></DD>  </DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001700308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 1a</enbez></metadaten><textdaten><text format="XML"><Content><P>Das innergemeinschaftliche Verbringen aus anderen Mitgliedstaaten (Verbringen) und die Einfuhr von Tierseuchenerregern sind verboten.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNG000202308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>II.</gliederungsbez><gliederungstitel>Innergemeinschaftliches Verbringen und Einfuhr
+von Tierseuchenerregern</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE000708301"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft das Verbringen und die Einfuhr von Erregern <BR/>der Afrikanischen Pferdepest, <BR/>der Amerikanischen Pferdeencephalitis (Typ Ost, Typ West und Typ Venezuela), <BR/>der Japanischen B-Encephalitis, <BR/>der Rinderpest, <BR/>der Lungenseuche der Rinder, <BR/>der Afrikanischen Schweinepest, <BR/>der Blauzungenkrankheit der Schafe und Rinder, <BR/>der Springkrankheit der Schafe sowie <BR/>der für Europa fremdartigen Typen der Maul- und Klauenseuche <BR/>genehmigen, soweit dies infolge der Entwicklung der Tierseuchenlage im Ausland oder infolge eines Auftretens einer dieser Tierseuchen im Inland zum Schutz der einheimischen Nutztierbestände für vorbereitende Untersuchungen oder für die Herstellung von Sera, Impfstoffen oder diagnostischen Mitteln erforderlich ist.</P><P>(2) Die Genehmigung darf außer dem Friedrich-Loeffler-Institut, Bundesforschungsinstitut für Tiergesundheit, und dem Paul-Ehrlich-Institut nur wissenschaftlich geleiteten Einrichtungen erteilt werden, die von der zuständigen obersten Landesbehörde beauftragt sind, Forschungen oder bestimmte Untersuchungen durchzuführen. Soweit es zur Vorbereitung der Herstellung oder zur Herstellung von Sera, Impfstoffen oder diagnostischen Mitteln erforderlich ist, kann die Genehmigung auch einem oder ausnahmsweise mehreren wissenschaftlich geleiteten Betrieben erteilt werden. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen. In diesen sind insbesondere vorzusehen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Beschränkung der Verwendung für bestimmte Arbeiten und Versuche sowie Verbot oder Beschränkung des Vorrätighaltens und der Abgabe,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">Verbot oder Beschränkung von Tierversuchen,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">besondere Schutz- und Sicherheitsmaßnahmen zur Verhütung einer Verschleppung der eingeführten Tierseuchenerreger, einschließlich der Verschleppung durch Versuchstiere und</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">Desinfektion oder unschädliche Beseitigung des Verpackungsmaterials sowie aller Gegenstände, die Träger des Ansteckungsstoffes sind oder sein können.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE000802308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 3</enbez></metadaten><textdaten><text format="XML"><Content><P>Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Einrichtungen und Betrieben für Forschungen oder zur Herstellung von Sera, Impfstoffen oder diagnostischen Mitteln das Verbringen und die Einfuhr der in Anlage 1 aufgeführten Tierseuchenerreger genehmigen, soweit hierfür ein Bedürfnis besteht und Belange der Seuchenbekämpfung nicht entgegenstehen. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen, insbesondere können folgende Auflagen angeordnet werden: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Beschränkung der Verwendung sowie Beschränkung oder Verbot der Abgabe,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die in § 2 Abs. 2 Satz 3 Nr. 2 bis 4 genannten Auflagen.</LA></DD> </DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE000902308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 4</enbez></metadaten><textdaten><text format="XML"><Content><P>Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Einrichtungen und Betrieben das Verbringen und die Einfuhr von Tierseuchenerregern, die nicht Erreger der in § 2 oder Anlage 1 aufgeführten Tierseuchen sind, genehmigen, soweit dafür ein Bedürfnis besteht. Die Genehmigung ist mit der Auflage zu verbinden, daß die Tierseuchenerreger nur an andere wissenschaftlich geleitete Einrichtungen oder Betriebe abgegeben werden dürfen, sofern es sich nicht um die gewerbliche Abgabe des daraus hergestellten Impfstoffes oder diagnostischen Mittels für serologische Zwecke handelt. Soweit es zum Schutz gegen Seuchenverschleppungen erforderlich ist, ist zusätzlich die Verwendung der Tierseuchenerreger zu beschränken.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNG000302308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>III.</gliederungsbez><gliederungstitel>Verbringen und Einfuhr von Impfstoffen und
+Antigenpräparationen, die Tierseuchenerreger enthalten</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001801308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 4a</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Das Verbringen und die Einfuhr von Impfstoffen und Antigenpräparationen, die Tierseuchenerreger enthalten, sind verboten.</P><P>(2) Absatz 1 gilt nicht für Impfstoffe und Antigenpräparationen, die der zuständigen Bundesoberbehörde zum Zwecke der Zulassung oder der Chargenprüfung übersandt werden.</P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001005301"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 5</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft das Verbringen und die Einfuhr von Impfstoffen und Antigenpräparationen, die Erreger der in § 2 Abs. 1 aufgeführten Tierseuchen oder serologisch mit diesen verwandte Tierseuchenerreger enthalten, für Zwecke der staatlichen Tierseuchenbekämpfung im Einzelfall genehmigen, sofern infolge der Entwicklung der Tierseuchenlage im Ausland oder des Auftretens einer in § 2 Abs. 1 genannten Tierseuche im Inland zum Schutz der einheimischen Nutztierbestände eine Bevorratung mit derartigen Impfstoffen und Antigenpräparationen oder eine Anwendung derartiger Impfstoffe oder Antigenpräparationen erforderlich ist. Dies gilt nicht, soweit Impfstoffe oder Antigenpräparationen mit ausreichender Wirksamkeit, die keine Tierseuchenerreger enthalten, zur Verfügung stehen. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen. In diesen sind insbesondere vorzusehen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Anforderungen an Art und Eigenschaften des zur Herstellung des Impfstoffes oder der Antigenpräparation verwendeten Erregerstammes,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">Sicherheits- und Überwachungsmaßnahmen für die Aufbewahrung und Lagerung des Impfstoffes oder der Antigenpräparation,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">Verbot oder Beschränkung der Abgabe des Impfstoffes oder der Antigenpräparation,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">Verbot oder Beschränkung der Anwendung, insbesondere hinsichtlich Art, Umfang, Ort und Zeit der Anwendung des Impfstoffes oder der Antigenpräparation.</LA></DD></DL></P><P>(2) Die Erteilung der Genehmigung kann abhängig gemacht werden von <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">dem Nachweis, daß der Hersteller nach den gesetzlichen Bestimmungen des Herstellerlandes berechtigt ist, Impfstoffe der betreffenden Art herzustellen,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">der Vorlage ausreichender Unterlagen für die Beurteilung der baulichen und technischen Einrichtungen des Betriebs des Herstellers sowie des Arbeitsablaufs bei der Herstellung des Impfstoffes,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">einer genauen, für die Beurteilung des Impfstoffes ausreichenden Beschreibung des Herstellungsverfahrens, der Zusammensetzung und der Art des Prüfungsverfahrens,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">dem Nachweis der Reinheit, Verträglichkeit, Unschädlichkeit einschließlich Stammreinheit und des Freiseins von Fremderregern sowie der Wirksamkeit des Impfstoffes durch Vorlage der amtlichen oder amtlich beglaubigten Prüfungsniederschriften oder -zeugnisse und</LA></DD><DT>5.</DT><DD Font="normal"><LA Size="normal">dem Ergebnis einer vorherigen Prüfung des zur Herstellung des Impfstoffes verwendeten Erregerstammes und des Impfstoffes in einem von der Genehmigungsbehörde bestimmten Institut.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001102308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die zuständigen obersten Landesbehörden können für Schutzimpfungen gegen die in Anlage 2 aufgeführten Tierseuchen das Verbringen und die Einfuhr von Impfstoffen, die Tierseuchenerreger enthalten, genehmigen, sofern nach Art und Zusammensetzung des Impfstoffes seiner Verwendung im Inland Belange der Seuchenbekämpfung nicht entgegenstehen. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen, insbesondere hinsichtlich Art und Eigenschaft des zur Herstellung des Impfstoffes verwendeten Erregerstammes.</P><P>(2) Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Einrichtungen und Betrieben das Verbringen und die Einfuhr von Antigenpräparationen genehmigen, die <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Erreger der in Anlage 1 aufgeführten Tierseuchen enthalten, wenn gleichartige diagnostische Mittel im Inland nicht zur Verfügung stehen oder diagnostische Untersuchungen die Verwendung von Antigenen bestimmter Spezifität erfordern, und</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Tierseuchenerreger enthalten, die nicht Erreger der in § 2 oder Anlage 1 aufgeführten Tierseuchen sind.</LA></DD> </DL>Die Genehmigungen sind mit der Auflage zu versehen, daß die Antigenpräparation nur an andere wissenschaftlich geleitete Einrichtungen oder Betriebe abgegeben werden darf.</P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001205301"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 7</enbez></metadaten><textdaten><text format="XML"><Content><P>Die zuständigen obersten Landesbehörden können im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft abweichend von den §§ 5 und 6 das Verbringen und die Einfuhr von Impfstoffen, die Tierseuchenerreger enthalten, im Einzelfall genehmigen <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">für Zwecke der staatlichen Tierseuchenbekämpfung,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">zur Durchführung wissenschaftlich geleiteter Versuche, sofern ein Bedürfnis für diese Versuche zur Tierseuchenbekämpfung im Inland besteht,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">zur Anwendung an Tieren, die nach anderen Mitgliedstaaten verbracht oder ausgeführt werden, wenn das Bestimmungsland die Anwendung bestimmter Impfstoffe fordert, oder</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">zur Durchführung wissenschaftlicher Qualitätsprüfungen bei und</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">zum Zubereiten, Umfüllen einschließlich Abfüllen, Abpacken oder Kennzeichnen von</LA></DD></DL></LA><LA Size="normal">im Ausland hergestellten Impfstoffen, für die ein späterer Einsatz in der Bundesrepublik Deutschland nicht vorgesehen ist.</LA></DD></DL>Die Genehmigung kann mit Nebenbestimmungen versehen werden; § 5 Abs. 1 Satz 3 und 4 und Abs. 2 gilt entsprechend.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNG000400328"><metadaten><jurabk>TierSeuchErEinfV</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>IV.</gliederungsbez><gliederungstitel>Ordnungswidrigkeiten</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001304301"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 8</enbez></metadaten><textdaten><text format="XML"><Content><P>Nach § 31 Absatz 1 Nummer 2, Absatz 3 bis 5 des Tiergesundheitsgesetzes wird bestraft, wer vorsätzlich oder fahrlässig <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA>entgegen § 1a oder § 4a Absatz 1 einen Tierseuchenerreger, einen Impfstoff oder eine Antigenpräparation verbringt oder einführt oder</LA></DD><DT>2.</DT><DD Font="normal"><LA>einer vollziehbaren Auflage nach § 2 Absatz 2 Satz 3, § 3 Satz 2, § 4 Satz 2, § 5 Absatz 1 Satz 3, § 6 Absatz 1 Satz 2 oder Absatz 2 Satz 2 oder § 7 Satz 2 erster Halbsatz zuwiderhandelt.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNG000500328"><metadaten><jurabk>TierSeuchErEinfV</jurabk><gliederungseinheit><gliederungskennzahl>050</gliederungskennzahl><gliederungsbez>V.</gliederungsbez><gliederungstitel>Schlußvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001401308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>§ 9</enbez></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001502308"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>Anlage 1</enbez><titel format="parat">(zu den §§ 3 und 4)</titel></metadaten><textdaten><text format="XML"><Content><P> <table frame="top" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="5*"/>
+		<colspec colname="col2" colnum="2" colwidth="50*"/>
+		<colspec colname="col3" colnum="3" colwidth="50*"/>
+		<thead valign="bottom">
+			<row rowsep="1">
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Tierseuchenerreger</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">Tierseuche</entry>
+			</row>
+		</thead>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="center" colsep="0" nameend="col3" namest="col1" valign="top">A. Bakterien</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Pasteurella multocida</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Wild- und Rinderseuche</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Pasteurella multocida</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Geflügelcholera</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Francisella tularensis</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Tularämie</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Malleomyces mallei</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rotz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Brucella (abortus, suis, melitensis)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Brucellose</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Listeria monocytogenes</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Listeriose</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bacillus anthracis</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Milzbrand</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Clostridium feseri</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rauschbrand</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Clostridium tetani</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Starrkrampf</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Clostridium botulinum</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Botulismus</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leptospira grippotyphosa</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ansteckende Gelbsucht der Rinder</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">12.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leptospira pomona</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Schweineleptospirose</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leptospira canicola</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Stuttgarter Hundeseuche</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Leptospira icterohaemorrhagiae</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Weilsche Krankheit</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">15.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Coxiella burnetti</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Q-Fieber</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">16.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Cowdria ruminantium</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Herzwasserkrankheit (Heartwater Disease)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">17.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Chlamydia psittaci</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Papageienkrankheit (Psittakose, Ornithose)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">18.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Chlamydia ovis</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Enzootischer Abort der Schafe</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">19.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Mycoplasma mycoides subsp. capri</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Lungenseuche der Ziegen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">20.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Mycoplasma agalactiae</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Agalaktie der Ziegen und Schafe</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" nameend="col3" namest="col1" valign="top">B. Pilze</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Zymonema farciminosus</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ansteckende Lymphgefäßentzündung der Einhufer (Lymphangitis epizootica)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Coccidioides immitis</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Coccidioidomykose</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Pilze der Gattung Microsporum</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Microsporie</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Pilze der Gattung Trichophyton</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Trichophytie</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" nameend="col3" namest="col1" valign="top">C. Viren</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Teschenvirus syn. Talfanvirus (Picorna-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ansteckende Schweinelähmung</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">MKS-Virus (soweit nicht zu § 2 Abs. 1 der Verordnung gehörend) (Picorna-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Maul- und Klauenseuche</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">SVD-Virus (Picorna-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bläschenkrankheit der Schweine</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Vesiculäres Exanthem-Virus (Picorna-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bläschenexanthem der Schweine</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aviäre Encephalomyelitis-Virus (Picorna-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aviäre Encephalomyelitis (AE)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">6.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Entenhepatitisvirus (Picorna-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Hepatitis der Enten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">7.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Schweinepestvirus (Toga-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Klassische Schweinepest</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">BVD-Virus (Toga-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Virusdiarrhoe der Rinder (Mucosal Disease)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Arteriitisvirus (Toga-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Arteriitis der Pferde</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Equine Influenza-Virus (Myxo-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Influenza der Pferde (Hoppegartener Husten)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Porcine Influenza Viruses (Myxo-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Influenza der Schweine</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">12.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Geflügelpestvirus (Myco-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Klassische Geflügelpest</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Newcastle Disease-Virus (Paramyxo-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Newcastle-Krankheit (Atypische Geflügelpest)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Bronchitis-Virus (Corona-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Bronchitis der Hühner (IB)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">15.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">TGE-Virus (Corona-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Transmissible Gastroenteritis der Schweine (TGE)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">16.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rabiesvirus (Rhabdo-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Tollwut</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">17.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Stomatitisvirus (Rhabdo-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Stomatitis vesicularis</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">18.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Pseudorabiesvirus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Aujeszkysche Krankheit (Pseudowut)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">19.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Equine Rhinopneumonitis-Virus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rhinopneumonitis der Pferde (Virusabort der Stuten)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">20.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Laryngotracheitis-Virus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Laryngotracheitis des Geflügels (ILT)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">21.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">IBR-IPV-Virus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bläschenausschlag der Rinder (Exanthema coitale, IPV -Infectious Pustular vaginitis) und Infektiöse bovine Rhinotracheitis (IBR)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">22.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Entenpestvirus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Entenpest</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">23.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Marekvirus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Mareksche Geflügellähmung</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">24.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bovines Mammillitis-Virus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bovine Mammillitis</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">25.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Katarrhalfiebervirus (Herpes-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bösartiges Katarrhalfieber der Rinder</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">26.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kuhpockenvirus (Pocken-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Kuhpocken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">27.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Schafpockenvirus (Pocken-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Schafpocken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">28.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ziegenpockenvirus (Pocken-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ziegenpocken</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">29.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Myxomvirus (Pocken-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Myxomatose der Kaninchen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">30.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">LSD-Virus (Pocken-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Lumpy Skin Disease der Rinder</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">31.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Stomatitis papulosa-Virus (Pocken-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Stomatitis papulosa der Rinder</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">32.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Ecthymavirus (Pocken-Gruppe)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Dermatitis pustulosa der Schafe</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">33.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rift Valley Fever-Virus</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rifttalfieber</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">34.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Bursitis-Virus</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Gumboro-Krankheit</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">35.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bornavirus</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Seuchenhafte GehirnRückenmarkentzündung der Pferde (Bornasche Krankheit)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">36.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Virus der infektiösen Anämie</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Infektiöse Anämie der Pferde</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">37.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Maedi-Visna-Virus</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Maedi und Visna der Schafe</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">38.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nairobi Sheep Disease-Virus</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nairobi Schafkrankheit</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">39.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Lungenadenomatosevirus</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Lungenadenomatose der Rinder</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">40.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Scrapieerreger</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Scrapie (Traberkrankheit der Schafe, Gnubberkrankheit)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">41.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Erreger der Reproduktiven und respiratorischen Erkrankung der Schweine</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Reproduktive und respiratorische Erkrankung der Schweine</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="center" colsep="0" nameend="col3" namest="col1" valign="top">D. Protozoen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Trypanosoma (Trypanozoon) equiperdum, Trypanosoma cruzi (Schyzotrypanum) und die Trypanosomen der Vivax-, Congolense- und Brucei-/Evansisgruppe</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Trypanosomosen der Einhufer, Wiederkäuer und Schweine (z.B. Beschälseuche, Mal de Caderas, Surra, Nagana, Chagaskrankheit)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Parasiten der Gattung Babesia</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Babesiosen der Pferde, Wiederkäuer, Schweine, Hunde und Katzen (z.B. Texasfieber, seuchenhafte Hämoglobinurie)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Parasiten der Gattung Theileria</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Theileriosen der Wiederkäuer (z.B. Ostküstenfieber, Mittelmeertheileriose u.a.)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Parasiten der Gattung Anaplasma</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Anaplasmose der Wiederkäuer</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">5.</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Besnoitia besnoiti</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Besnoitose</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20151026215048" doknr="BJNR019600971BJNE001604377"><metadaten><jurabk>TierSeuchErEinfV</jurabk><enbez>Anlage 2</enbez><titel format="parat">(zu § 6)</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle">Fundstelle des Originaltextes: BGBl. I 1988, 2227;<BR/>bzgl. der einzelnen Änderungen vgl. Fußnote</kommentar></P><P> <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Aujeszkysche Krankheit</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Aviäre Encephalomyelitis</LA></DD> <DT>2a.</DT><DD Font="normal"><LA Size="normal">Aviäre Rhinotracheitis</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Enzootische Bronchopneumonie der Rinder</LA></DD> <DT>3a.</DT><DD Font="normal"><LA Size="normal">Feline Bronchopneumonie</LA></DD> <DT>3b.</DT><DD Font="normal"><LA Size="normal">Feline Peritonitis und Pleuritis</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Geflügelpocken</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Gumboro-Krankheit</LA></DD> <DT>5a.</DT><DD Font="normal"><LA Size="normal">Hämorrhagische Enteritis der Puten</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Hepatitis contagiosa canis (Rubarthsche Krankheit)</LA></DD> <DT>6a.</DT><DD Font="normal"><LA Size="normal">Ileitis der Schweine</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Infektiöse Bovine Rhinotracheitis (IBR)</LA><LA Size="normal">und Infektiöse Pustulöse Vulvovaginitis (IPV)</LA></DD>  <DT>8.</DT><DD Font="normal"><LA Size="normal">Infektiöse Bronchitis der Hühner</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Infektiöse Hepatitis der Enten</LA></DD> <DT>10.</DT><DD Font="normal"><LA Size="normal">Infektiöse Laryngotracheitis des Geflügels (ILT)</LA></DD> <DT>10a.</DT><DD Font="normal"><LA Size="normal">(weggefallen)</LA></DD> <DT>11.</DT><DD Font="normal"><LA Size="normal">Katzenschnupfen</LA></DD> <DT>12.</DT><DD Font="normal"><LA Size="normal">Katzenseuche</LA></DD> <DT>13.</DT><DD Font="normal"><LA Size="normal">Klassische Schweinepest</LA></DD> <DT>13a.</DT><DD Font="normal"><LA Size="normal">Kokzidiose des Geflügels</LA></DD> <DT>14.</DT><DD Font="normal"><LA Size="normal">Lungenwurmseuche</LA></DD> <DT>15.</DT><DD Font="normal"><LA Size="normal">Mareksche Geflügellähmung</LA></DD> <DT>15a.</DT><DD Font="normal"><LA Size="normal">Microsporie</LA></DD> <DT>16.</DT><DD Font="normal"><LA Size="normal">Milzbrand</LA></DD> <DT>17.</DT><DD Font="normal"><LA Size="normal">Myxomatose der Kaninchen</LA></DD> <DT>18.</DT><DD Font="normal"><LA Size="normal">Newcastle-Krankheit (Atypische Geflügelpest)</LA></DD> <DT>19.</DT><DD Font="normal"><LA Size="normal">Parainfluenza-2-Infektion der Hunde</LA></DD> <DT>20.</DT><DD Font="normal"><LA Size="normal">Parainfluenza-3-Infektion</LA></DD> <DT>21.</DT><DD Font="normal"><LA Size="normal">Parvovirose der Hunde</LA></DD> <DT>21a.</DT><DD Font="normal"><LA Size="normal">Reovirus-Infektion des Geflügels</LA></DD> <DT>21b.</DT><DD Font="normal"><LA Size="normal">Reproduktive und respiratorische Erkrankung der Schweine (PRRS)</LA></DD> <DT>22.</DT><DD Font="normal"><LA Size="normal">Rota-Corona-Infektion der Kälber</LA></DD> <DT>23.</DT><DD Font="normal"><LA Size="normal">Staupe der Hunde</LA></DD> <DT>24.</DT><DD Font="normal"><LA Size="normal">Transmissible Gastroenteritis der Schweine</LA></DD> <DT>25.</DT><DD Font="normal"><LA Size="normal">Trichophytie</LA></DD> <DT>26.</DT><DD Font="normal"><LA Size="normal">Tollwut</LA></DD> <DT>27.</DT><DD Font="normal"><LA Size="normal">Virusdiarrhoe des Rindes (Mucosal Disease)</LA></DD> <DT>28.</DT><DD Font="normal"><LA Size="normal">Virusenteritis der Nerze</LA></DD> <DT>29.</DT><DD Font="normal"><LA Size="normal">Virushepatitis der Gänse und der Moschusenten</LA></DD> </DL></P></Content> </text><fussnoten/></textdaten></norm>
+</dokumente>

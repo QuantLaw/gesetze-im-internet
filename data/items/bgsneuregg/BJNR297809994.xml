@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20120625155001" doknr="BJNR297809994"><norm builddate="20120625155001" doknr="BJNR297809994"><metadaten><jurabk>BGSNeuRegG</jurabk><amtabk>BGSNeuRegG</amtabk><ausfertigung-datum manuell="ja">1994-10-19</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1994, 2978</zitstelle></fundstelle><kurzue>Bundesgrenzschutzneuregelungsgesetz</kurzue><langue>Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab:  1.11.1994 +++)</P><P>Art. 1: BGSG 1994 (13-7-2) <BR/>Art. 2 § 1 bis 12: Änderungsvorschriften</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20120625155001" doknr="BJNR297809994BJNE000400305"><metadaten><jurabk>BGSNeuRegG</jurabk><gliederungseinheit><gliederungskennzahl>000</gliederungskennzahl><gliederungsbez>-</gliederungsbez></gliederungseinheit><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Der Bundestag hat das folgende Gesetz beschlossen:</P></Content></text></textdaten></norm>
+<norm builddate="20120625155001" doknr="BJNR297809994BJNE000500305"><metadaten><jurabk>BGSNeuRegG</jurabk><gliederungseinheit><gliederungskennzahl>000</gliederungskennzahl><gliederungsbez>-</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>Inhaltsübersicht</enbez></metadaten><textdaten><text format="XML"><Content><P> <table frame="none" pgwide="1" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="5*"/>
+		<colspec colname="col2" colnum="2" colwidth="15*"/>
+		<colspec colname="col3" colnum="3" colwidth="80*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">
+					<B>Artikel 1</B>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">
+					<B>Gesetz über den Bundesgrenzschutz (Bundesgrenzschutzgesetz - BGSG)</B>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">
+					<B>Artikel 2</B>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">
+					<B>Folgeänderungen</B>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 1</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">BGS-Zoll-Verordnung</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 2</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">BAföG-Einkommensverordnung</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 3</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bundespersonalvertretungsgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 4</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Betäubungsmittelgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 5</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bundeskriminalamtgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 6</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Wohngeldgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 7</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Wehrpflichtgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 8</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Waffengesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 9</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Sprengstoffgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 10</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Bundesversorgungsgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 11</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Fahrzeugregisterverordnung</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 12</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Luftverkehrsgesetz</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">§ 13</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Rückkehr zum einheitlichen Verordnungsrang</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">
+					<B>Artikel 3</B>
+				</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">
+					<B>Inkrafttretens-, Außerkrafttretens- und Anwendungsbestimmungen</B>
+				</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content></text></textdaten></norm>
+<norm builddate="20120625155001" doknr="BJNR297809994BJNG000100305"><metadaten><jurabk>BGSNeuRegG</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>Art 1</gliederungsbez></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20120625155001" doknr="BJNR297809994BJNG000200305"><metadaten><jurabk>BGSNeuRegG</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Art 2</gliederungsbez><gliederungstitel/></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
+<norm builddate="20120625155001" doknr="BJNR297809994BJNE000600305"><metadaten><jurabk>BGSNeuRegG</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Art 2</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>(XXXX) §§ 1 bis 12</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20120625155001" doknr="BJNR297809994BJNE000700305"><metadaten><jurabk>BGSNeuRegG</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Art 2</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>§ 13</enbez><titel format="parat">Rückkehr zum einheitlichen Verordnungsrang</titel></metadaten><textdaten><text format="XML"><Content><P>Die auf Artikel 2 beruhenden Teile der dort geänderten Rechtsverordnungen können auf Grund der jeweils einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.</P></Content></text></textdaten></norm>
+<norm builddate="20120625155001" doknr="BJNR297809994BJNG000300305"><metadaten><jurabk>BGSNeuRegG</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Art 3</gliederungsbez><gliederungstitel>Inkrafttretens-, Außerkrafttretens- und
+Anwendungsbestimmungen</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P>(1) Dieses Gesetz tritt am 1. November 1994 in Kraft.</P><P>(2) Die §§ 48 bis 61 des Gesetzes über den Bundesgrenzschutz in der in Absatz 1 bezeichneten Fassung sind nur anwendbar, wenn der Deutsche Bundestag zuvor durch Beschluß zugestimmt hat.</P></Content> </text><fussnoten/></textdaten></norm>
+</dokumente>

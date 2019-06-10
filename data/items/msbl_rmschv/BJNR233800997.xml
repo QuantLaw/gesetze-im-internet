@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20131008093856" doknr="BJNR233800997"><norm builddate="20131008093856" doknr="BJNR233800997"><metadaten><jurabk>MsbLärmSchV</jurabk><ausfertigung-datum manuell="ja">1997-09-23</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1997, 2329, 2338</zitstelle></fundstelle><langue>Magnetschwebebahn-Lärmschutzverordnung</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab:  1.10.1997 +++)</P><P><BR/> Diese Verordnung ist als Artikel 2 d. V v. 23.9.1997 I 2329 (MsbV) von der Bundesregierung nach Anhörung der beteiligten Kreise und vom Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie und dem Bundesministerium für Arbeit und Sozialordnung mit Zustimmung des Bundesrates erlassen worden. Sie tritt gem. Art. 4 dieser V am 1.10.1997 in Kraft.</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20131008093856" doknr="BJNR233800997BJNE000100305"><metadaten><jurabk>MsbLärmSchV</jurabk><enbez>§ 1</enbez><titel format="parat">Anwendungsbereich</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Verordnung gilt für den Bau oder die wesentliche Änderung von Verkehrswegen der Magnetschwebebahnen.</P><P>(2) Die Änderung ist wesentlich, wenn <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">ein Verkehrsweg der Magnetschwebebahnen um eine oder mehrere durchgehende Fahrbahnen baulich erweitert wird oder</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">durch einen erheblichen baulichen Eingriff der Beurteilungspegel des von dem zu ändernden Verkehrsweg der Magnetschwebebahnen ausgehenden Verkehrslärms um mindestens 3 Dezibel (A) oder auf mindestens 70 Dezibel (A) am Tage oder mindestens 60 Dezibel (A) in der Nacht erhöht wird.</LA></DD> </DL>Eine Änderung ist auch wesentlich, wenn der Beurteilungspegel des von dem zu ändernden Verkehrsweg der Magnetschwebebahnen ausgehenden Verkehrslärms von mindestens 70 Dezibel (A) am Tage oder 60 Dezibel (A) in der Nacht durch einen erheblichen baulichen Eingriff erhöht wird; dies gilt nicht in Gewerbegebieten.</P></Content> </text></textdaten></norm>
+<norm builddate="20131008093856" doknr="BJNR233800997BJNE000200305"><metadaten><jurabk>MsbLärmSchV</jurabk><enbez>§ 2</enbez><titel format="parat">Immissionsgrenzwerte</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Zum Schutz der Nachbarschaft vor schädlichen Umwelteinwirkungen durch Verkehrsgeräusche von Magnetschwebebahnen ist bei dem Bau oder der wesentlichen Änderung von Verkehrswegen der Magnetschwebebahnen sicherzustellen, daß der Beurteilungspegel dieser Verkehrsgeräusche einen der folgenden Immissionsgrenzwerte nicht überschreitet: <BR/><table frame="none" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="5*"/>
+		<colspec colname="col2" colnum="2" colwidth="40*"/>
+		<colspec colname="col3" colnum="3" colwidth="40*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Tag</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">Nacht</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">an Krankenhäusern, Schulen, Kurheimen und Altenheimen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">57 Dezibel (A)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">47 Dezibel (A)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">in reinen und allgemeinen Wohngebieten und Kleinsiedlungsgebieten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">59 Dezibel (A)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">49 Dezibel (A)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">in Kerngebieten, Dorfgebieten und Mischgebieten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">64 Dezibel (A)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">54 Dezibel (A)</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">4.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">in Gewerbegebieten</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">69 Dezibel (A)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">59 Dezibel (A)</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P><P>(2) Die Art der in Absatz 1 bezeichneten Anlagen und Gebiete ergibt sich aus den Festsetzungen in den Bebauungsplänen. Sonstige in Bebauungsplänen festgesetzte Flächen für Anlagen und Gebiete sowie Anlagen und Gebiete, für die keine Festsetzungen bestehen, sind nach Absatz 1, bauliche Anlagen im Außenbereich nach Absatz 1 Nr. 1, 3 und 4 entsprechend der Schutzbedürftigkeit zu beurteilen.</P><P>(3) Wird die zu schützende Nutzung nur am Tage oder nur in der Nacht ausgeübt, so ist der Immissionsgrenzwert für diesen Zeitraum anzuwenden.</P></Content>  </text></textdaten></norm>
+<norm builddate="20131008093856" doknr="BJNR233800997BJNE000300305"><metadaten><jurabk>MsbLärmSchV</jurabk><enbez>§ 3</enbez><titel format="parat">Berechnung des Beurteilungspegels</titel></metadaten><textdaten><text format="XML"><Content><P>Der Beurteilungspegel ist nach der Anlage zu berechnen. Die dort unter Nummer 2.1 genannten Angaben hat der Betreiber der Magnetschwebebahn beizubringen.</P></Content></text></textdaten></norm>
+<norm builddate="20131008093856" doknr="BJNR233800997BJNE000400305"><metadaten><jurabk>MsbLärmSchV</jurabk><enbez>Anlage</enbez><titel format="parat">Berechnung des Beurteilungspegels</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="E"/><kommentar typ="Fundstelle">(Inhalt: nicht darstellbare Anlage; <BR/>Fundstelle: BGBl. I 1997, 2338 - 2344)</kommentar></P></Content>
+</text></textdaten></norm>
+</dokumente>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20130405130023" doknr="BJNR021050965"><norm builddate="20130405130023" doknr="BJNR021050965"><metadaten><jurabk>UrhRollV</jurabk><amtabk>WerkeRegV</amtabk><ausfertigung-datum manuell="ja">1965-12-18</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1965, 2105</zitstelle></fundstelle><langue>Verordnung über das Register anonymer und pseudonymer Werke</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 26 G v. 13.12.2001 I 3656</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis Geltung ab: 1.7.1970 +++)<BR/><BR/></pre>Überschrift: Bezeichnung idF d. Art. 26 Nr. 1 G v. 13.12.2001 I 3656 mWv 1.1.2002; Buchstabenabkürzung eingef. durch Art. 26 Nr. 1 G v. 13.12.2001 I 3656 mWv 1.1.2002</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000101377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1273) wird verordnet:</P></Content></text></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000201377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>§ 1</enbez><titel format="parat">Form des Antrags</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist schriftlich beim Patentamt einzureichen.</P><P>(2) In dem Antrag sind anzugeben <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">der Name des Urhebers, der Tag und der Ort seiner Geburt und, wenn der Urheber verstorben ist, das Sterbejahr; ist das Werk unter einem Decknamen veröffentlicht, so ist auch der Deckname anzugeben;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">der Titel, unter dem das Werk veröffentlicht ist, oder, wenn das Werk ohne Titel veröffentlicht ist, eine sonstige Bezeichnung des Werkes; ist das Werk erschienen, so ist auch der Verlag anzugeben;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">der Zeitpunkt und die Form der ersten Veröffentlichung des Werkes.</LA></DD> </DL></P></Content> </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000301377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>§ 2</enbez><titel format="parat">Inhalt der Eintragung</titel></metadaten><textdaten><text format="XML"><Content><P>In das Register anonymer und pseudonymer Werke sind die laufende Nummer der Eintragung, der Tag, an dem der Antrag beim Patentamt eingegangen ist, sowie die in § 1 Abs. 2 bezeichneten Angaben einzutragen.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000401377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>§ 3</enbez><titel format="parat">Alphabetisches Register</titel></metadaten><textdaten><text format="XML"><Content><P>Zum Register anonymer und pseudonymer Werke wird je ein alphabetisches Register der eingetragenen Urhebernamen einschließlich der Decknamen sowie der eingetragenen Titel oder sonstigen Bezeichnungen der Werke geführt.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000501377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>§ 4</enbez><titel format="parat">Eintragungsschein</titel></metadaten><textdaten><text format="XML"><Content><P>Dem Antragsteller ist auf Verlangen eine Bescheinigung über die Eintragung auszustellen.</P></Content></text></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000602377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>§ 5</enbez><titel format="parat">Kosten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Für das Verfahren zur Eintragung eines anonym oder unter Pseudonym veröffentlichten Werkes in das Register werden folgende Gebühren erhoben: <BR/><table frame="none" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="4" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="5*"/>
+		<colspec colname="col2" colnum="2" colwidth="5*"/>
+		<colspec colname="col3" colnum="3" colwidth="35*"/>
+		<colspec colname="col4" colnum="4" colwidth="10*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">bei einem Werk</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">12 Euro;</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col3" namest="col2" valign="top">bei mehreren Werken, deren Eintragung gleichzeitig beantragt wird,</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">für das erste Werk</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">12 Euro;</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">für das zweite bis zehnte Werk je</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5 Euro;</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">ab dem elften Werk je</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">2 Euro.</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P><P>(2) Für das Verfahren bei der Erhebung der Gebühren nach Absatz 1 ist die Verordnung über die Verwaltungskosten beim Deutschen Patent- und Markenamt entsprechend anzuwenden.</P><P>(3) (weggefallen)</P></Content>  </text><fussnoten/></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000702377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>In Angelegenheiten, die bei Inkrafttreten von Änderungen dieser Verordnung anhängig sind, bestimmen sich die Kosten weiterhin nach den bisherigen Vorschriften.</P></Content></text><fussnoten/></textdaten></norm>
+<norm builddate="20130405130023" doknr="BJNR021050965BJNE000801377"><metadaten><jurabk>UrhRollV</jurabk><jurabk>WerkeRegV</jurabk><enbez>§ 7</enbez><titel format="parat">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt am 1. Januar 1966 in Kraft.</P></Content></text></textdaten></norm>
+</dokumente>

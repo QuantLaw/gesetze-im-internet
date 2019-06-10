@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20130405132458" doknr="BJNR254410999"><norm builddate="20130405132458" doknr="BJNR254410999"><metadaten><jurabk>BSG 2000</jurabk><amtabk>BSG 2000</amtabk><ausfertigung-datum manuell="ja">1999-12-22</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1999, 2534, 2544</zitstelle></fundstelle><kurzue>Beitragssatzgesetz 2000</kurzue><langue>Gesetz zur Bestimmung der Beitragssätze und zur Bestimmung der
+Umrechnungsfaktoren für den Versorgungsausgleich in der
+gesetzlichen Rentenversicherung für 2000</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab:  1. 1.2000 +++)</P><P><BR/> Das G wurde als Artikel 26 G v. 22.12.1999 I 2534 vom Bundestag beschlossen. Es ist gem. Art. 27 Abs. 1 dieses G mWv 1.1.2000 in Kraft getreten.</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20130405132458" doknr="BJNR254410999BJNE000100310"><metadaten><jurabk>BSG 2000</jurabk><enbez>§ 1</enbez><titel format="parat">Beitragssätze in der Rentenversicherung</titel></metadaten><textdaten><text format="XML"><Content><P>Der Beitragssatz für das Jahr 2000 beträgt in der Rentenversicherung der Arbeiter und der Angestellten 19,3 vom Hundert und in der knappschaftlichen Rentenversicherung 25,6 vom Hundert.</P></Content></text></textdaten></norm>
+<norm builddate="20130405132458" doknr="BJNR254410999BJNE000200310"><metadaten><jurabk>BSG 2000</jurabk><enbez>§ 2</enbez><titel format="parat">Umrechnungsfaktoren für den Versorgungsausgleich in der
+Rentenversicherung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 2000 berechneten Faktoren betragen im Jahre 2000 <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung</LA></DD>  </DL><BR/><table frame="none" tocentry="%yes;">
+		<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+			<colspec colname="col1" colnum="1" colwidth="5*"/>
+			<colspec colname="col2" colnum="2" colwidth="65*"/>
+			<colspec colname="col3" colnum="3" colwidth="20*"/>
+			<tbody valign="top">
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten in Beiträge</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">10.521,0090,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten (Ost) in Beiträge</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">8.652,1456,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">0,0000950479,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Beiträgen in Entgeltpunkte (Ost)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">0,0001155783,</entry>
+				</row>
+			</tbody>
+		</tgroup>
+	</table> <DL Font="normal" Type="arabic"><DT>2.</DT><DD Font="normal"><LA Size="normal">in der knappschaftlichen Rentenversicherung für die Umrechnung</LA></DD>  </DL><BR/><table frame="none" tocentry="%yes;">
+		<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+			<colspec colname="col1" colnum="1" colwidth="5*"/>
+			<colspec colname="col2" colnum="2" colwidth="65*"/>
+			<colspec colname="col3" colnum="3" colwidth="20*"/>
+			<tbody valign="top">
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten in Beiträge</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">13.955,3280,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten (Ost) in Beiträge</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">11.476,4211,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Beiträgen in Entgeltpunkte</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">0,0000716572,</entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top">von Beiträgen in Entgeltpunkte (Ost)</entry>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				</row>
+				<row>
+					<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+					<entry VJ="1" align="right" colsep="0" valign="top">0,0000871352.</entry>
+				</row>
+			</tbody>
+		</tgroup>
+	</table> </P><P>(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.</P><P>(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden. Die Umrechnung kann auch durch eine Division der Beiträge durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.</P><P>(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen werden in Entgeltpunkte umgerechnet, indem sie mit dem Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die Umrechnung kann auch durch eine Division der Barwerte, Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.</P></Content>   </text></textdaten></norm>
+</dokumente>

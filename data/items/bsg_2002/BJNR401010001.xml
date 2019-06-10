@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20120625150918" doknr="BJNR401010001"><norm builddate="20120625150918" doknr="BJNR401010001"><metadaten><jurabk>BSG 2002</jurabk><amtabk>BSG 2002</amtabk><ausfertigung-datum manuell="ja">2001-12-20</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>2001, 4010</zitstelle></fundstelle><kurzue>Beitragssatzgesetz 2002</kurzue><langue>Gesetz zur Bestimmung der Beitragssätze, der Beitragszahlung des
+Bundes für Kindererziehungszeiten und zur Bestimmung der Umrechnungsfaktoren
+für den Versorgungsausgleich in der gesetzlichen Rentenversicherung
+für 2002</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab:  1. 1.2002 +++)<BR/><BR/></pre>Das G wurde als Artikel 2 G v. 20.12.2001 I 4010 vom Bundestag beschlossen. Es ist gem. Art. 4 dieses G am 1.1.2002 in Kraft getreten.</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20120625150918" doknr="BJNR401010001BJNE000100305"><metadaten><jurabk>BSG 2002</jurabk><enbez>§ 1</enbez><titel format="parat">Beitragssätze in der Rentenversicherung</titel></metadaten><textdaten><text format="XML"><Content><P>Der Beitragssatz für das Jahr 2002 beträgt in der Rentenversicherung der Arbeiter und der Angestellten 19,1 Prozent und in der knappschaftlichen Rentenversicherung 25,4 Prozent.</P></Content></text></textdaten></norm>
+<norm builddate="20120625150918" doknr="BJNR401010001BJNE000200305"><metadaten><jurabk>BSG 2002</jurabk><enbez>§ 2</enbez><titel format="parat">Umrechnungsfaktoren für den Versorgungsausgleich
+in der Rentenversicherung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die auf Grund des vorläufigen Durchschnittsentgelts und der Beitragssätze für das Jahr 2002 berechneten Faktoren betragen im Jahr 2002 <BR/><table frame="none" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="4" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="10*"/>
+		<colspec colname="col2" colnum="2" colwidth="10*"/>
+		<colspec colname="col3" colnum="3" colwidth="60*"/>
+		<colspec align="char" char="," colname="col4" colnum="4" colwidth="30*"/>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" morerows="4" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten in Beiträge</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">5446,9380,</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten (Ost) in Beiträge</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">4545,5545,</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">in Entgeltpunkte</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">0,0001835894,</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">von Beiträgen in Entgeltpunkte (Ost)</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">0,0002199952,</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+				<entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">in der knappschaftlichen Rentenversicherung für die Umrechnung</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" morerows="3" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten in Beiträge</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">7243,5720,</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">von Entgeltpunkten (Ost) in Beiträge</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">6044,8736,</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">von Beiträgen in Entgeltpunkte</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">0,0001380534,</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top"> </entry>
+				<entry VJ="1" align="left" colsep="0" valign="top">von Beiträgen in Entgeltpunkte (Ost)</entry>
+				<entry VJ="1" align="right" colsep="0" valign="top">0,0001654294.</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P><P>(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.</P><P>(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden. Die Umrechnung kann auch durch eine Division der Beiträge durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.</P><P>(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen werden in Entgeltpunkte umgerechnet, indem sie mit dem Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die Umrechnung kann auch durch eine Division der Barwerte, Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.</P></Content>   </text></textdaten></norm>
+<norm builddate="20120625150918" doknr="BJNR401010001BJNE000300305"><metadaten><jurabk>BSG 2002</jurabk><enbez>§ 3</enbez><titel format="parat">Zahlungen für Kindererziehungszeiten</titel></metadaten><textdaten><text format="XML"><Content><P>Zur pauschalen Abgeltung für die Beitragszahlung für Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der Arbeiter und der Angestellten für das Jahr 2002 einen Betrag in Höhe von 11.614.934.173 Euro.</P></Content></text></textdaten></norm>
+</dokumente>

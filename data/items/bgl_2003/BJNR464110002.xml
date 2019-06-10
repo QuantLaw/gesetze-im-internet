@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
+<dokumente builddate="20120625154408" doknr="BJNR464110002"><norm builddate="20120625154408" doknr="BJNR464110002"><metadaten><jurabk>BGL 2003</jurabk><amtabk>BGL 2003</amtabk><ausfertigung-datum manuell="ja">2002-12-23</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>2002, 4637, 4641</zitstelle></fundstelle><kurzue>Beitragsgesetz-Landwirtschaft 2003</kurzue><langue>Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse
+in der Alterssicherung der Landwirte für 2003</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab: 1.1.2003 +++)</P><P><BR/> Das G wurde als Art. 9 d. G 860-5/10 v. 23.12.2002 I 4637 vom Bundestag beschlossen. Es ist gem. Art. 13 Abs. 3 dieses G mWv 1.1.2003 in Kraft getreten.</P></Content></fussnoten></textdaten></norm>
+<norm builddate="20120625154408" doknr="BJNR464110002BJNE000100000"><metadaten><jurabk>BGL 2003</jurabk><enbez>§ 1</enbez><titel format="parat">Beitrag in der Alterssicherung der Landwirte</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2003 monatlich 198 Euro.</P><P>(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 2003 monatlich 166 Euro.</P></Content> </text></textdaten></norm>
+<norm builddate="20120625154408" doknr="BJNR464110002BJNE000200000"><metadaten><jurabk>BGL 2003</jurabk><enbez>§ 2</enbez><titel format="parat">Beitragszuschuss in der Alterssicherung der Landwirte</titel></metadaten><textdaten><text format="XML"><Content><P>(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Kalenderjahr 2003 wie folgt festgesetzt: <BR/><table frame="none" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="55*"/>
+		<colspec colname="col2" colnum="2" colwidth="40*"/>
+		<thead valign="bottom">
+			<row>
+				<entry VJ="1" align="center" colsep="0" valign="top">Einkommensklasse</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">monatlicher Zuschussbetrag</entry>
+			</row>
+		</thead>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">Bis 8.220 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">119 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.221 - 8.740 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">111 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.741 - 9.260 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">103 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.261 - 9.780 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">95 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.781 - 10.300 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">87 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.301 - 10.820 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">79 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.821 - 11.340 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">71 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.341 - 11.860 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">63 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.861 - 12.380 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">55 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">12.381 - 12.900 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">48 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">12.901 - 13.420 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">40 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.421 - 13.940 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">32 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.941 - 14.460 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">24 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.461 - 14.980 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">16 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.981 - 15.500 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">8 Euro.</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P><P>(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2003 wie folgt festgesetzt: <BR/><table frame="none" tocentry="%yes;">
+	<tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
+		<colspec colname="col1" colnum="1" colwidth="50*"/>
+		<colspec colname="col2" colnum="2" colwidth="50*"/>
+		<thead valign="bottom">
+			<row>
+				<entry VJ="1" align="left" colsep="0" valign="top">Einkommensklasse</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">monatlicher Zuschussbetrag (Ost)</entry>
+			</row>
+		</thead>
+		<tbody valign="top">
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">Bis 8.220 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">100 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.221 - 8.740 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">93 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">8.741 - 9.260 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">86 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.261 - 9.780 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">80 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">9.781 - 10.300 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">73 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.301 - 10.820 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">66 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">10.821 - 11.340 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">60 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.341 - 11.860 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">53 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">11.861 - 12.380 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">46 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">12.381 - 12.900 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">40 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">12.901 - 13.420 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">33 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.421 - 13.940 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">27 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">13.941 - 14.460 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">20 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.461 - 14.980 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">13 Euro</entry>
+			</row>
+			<row>
+				<entry VJ="1" align="right" colsep="0" valign="top">14.981 - 15.500 Euro</entry>
+				<entry VJ="1" align="center" colsep="0" valign="top">7 Euro.</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table> </P></Content> </text></textdaten></norm>
+</dokumente>
