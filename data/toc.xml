@@ -6371,6 +6371,10 @@
 <link>http://www.gesetze-im-internet.de/dhmg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über das Deutsche Hämophilieregister</title>
+<link>http://www.gesetze-im-internet.de/dhrv/xml.zip</link>
+</item>
+<item>
 <title>Ausbildungs- und Prüfungsverordnung für Diätassistentinnen und Diätassistenten</title>
 <link>http://www.gesetze-im-internet.de/di_tass-aprv/xml.zip</link>
 </item>
@@ -7201,10 +7205,6 @@
 <item>
 <title>Bergverordnung über Einwirkungsbereiche</title>
 <link>http://www.gesetze-im-internet.de/einwirkungsbergv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Berufsausbildung zur Fachkraft für Speiseeis</title>
-<link>http://www.gesetze-im-internet.de/eisausbv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Umsetzung des Beschlusses (2002/187/JI) des Rates vom 28. Februar 2002 über die Errichtung von Eurojust zur Verstärkung der Bekämpfung der schweren Kriminalität</title>
@@ -9667,8 +9667,8 @@
 <link>http://www.gesetze-im-internet.de/stgebo_2011/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Berufsausbildung zum Gebäudereiniger/zur Gebäudereinigerin</title>
-<link>http://www.gesetze-im-internet.de/gebreinigausbv_1999/xml.zip</link>
+<title>Verordnung über die Berufsausbildung zum Gebäudereiniger und zur Gebäudereinigerin</title>
+<link>http://www.gesetze-im-internet.de/gebreinausbvo/xml.zip</link>
 </item>
 <item>
 <title>Gebrauchsmustergesetz</title>
@@ -16883,8 +16883,8 @@
 <link>http://www.gesetze-im-internet.de/ordenserl7neufgenerl/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Berufsausbildung zum Orgel- und Harmoniumbauer/zur Orgel- und Harmoniumbauerin</title>
-<link>http://www.gesetze-im-internet.de/orgausbv/xml.zip</link>
+<title>Verordnung über die Berufsausbildung zum Orgelbauer und zur Orgelbauerin</title>
+<link>http://www.gesetze-im-internet.de/orgbausbv/xml.zip</link>
 </item>
 <item>
 <title>Organisationserlass des Bundeskanzlers</title>
@@ -22165,10 +22165,6 @@
 <item>
 <title>Verordnung über die Qualität von Wasser für den menschlichen Gebrauch ,</title>
 <link>http://www.gesetze-im-internet.de/trinkwv_2001/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über besondere Anforderungen an Saatgut von Triticale im Rahmen der Saatgutanerkennung 2019</title>
-<link>http://www.gesetze-im-internet.de/triticalev_2019/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften</title>
