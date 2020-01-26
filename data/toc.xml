@@ -6603,6 +6603,10 @@
 <link>http://www.gesetze-im-internet.de/drittelbg/xml.zip</link>
 </item>
 <item>
+<title>Gesetz zur Regelung des Datenschutzes für den Suchdienst des Deutschen Roten Kreuzes</title>
+<link>http://www.gesetze-im-internet.de/sddsg/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über das Deutsche Rote Kreuz und andere freiwillige Hilfsgesellschaften im Sinne der Genfer Rotkreuz-Abkommen</title>
 <link>http://www.gesetze-im-internet.de/drkg_2008/xml.zip</link>
 </item>
@@ -19611,10 +19615,6 @@
 <link>http://www.gesetze-im-internet.de/schzuszzust_bk/xml.zip</link>
 </item>
 <item>
-<title>Suchdienstedatenschutzgesetz</title>
-<link>http://www.gesetze-im-internet.de/sddsg/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zu Systemdienstleistungen durch Windenergieanlagen</title>
 <link>http://www.gesetze-im-internet.de/sdlwindv/xml.zip</link>
 </item>
@@ -22249,10 +22249,6 @@
 <item>
 <title>Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister</title>
 <link>http://www.gesetze-im-internet.de/trgebv_2020/xml.zip</link>
-</item>
-<item>
-<title>Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister</title>
-<link>http://www.gesetze-im-internet.de/trgebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Gebühren und Auslagen für individuell zurechenbare Leistungen des Umweltbundesamtes nach der Trinkwasserverordnung</title>
