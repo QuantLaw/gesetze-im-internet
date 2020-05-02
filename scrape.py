@@ -43,7 +43,7 @@ def scrape():
     soup = BeautifulSoup(toc.text, "lxml-xml")
     errors = []
 
-    for item in list(soup.find_all("item"))[:11]:
+    for item in list(soup.find_all("item")):
         link = item.link.get_text()
         print("Loading", link)
 
