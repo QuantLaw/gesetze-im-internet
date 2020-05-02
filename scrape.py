@@ -66,7 +66,7 @@ def scrape():
             else:
                 raise
         os.remove(zip_path)
-        time.sleep(1)
+        time.sleep(0.2)
 
     with open(NOT_FOUND_PATH, "w") as f:
         for e in errors:
