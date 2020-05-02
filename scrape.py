@@ -68,7 +68,7 @@ def scrape():
         os.remove(zip_path)
         time.sleep(1)
 
-    with open("data/not_found.txt", "w") as f:
+    with open(NOT_FOUND_PATH, "w") as f:
         for e in errors:
             f.write(e + "\n")
 
