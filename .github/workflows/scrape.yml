@@ -27,10 +27,14 @@ jobs:
           SCRAPE_DATE=$(date +'%Y-%m-%d')
           python scrape.py data_branch $SCRAPE_DATETIME
           cd data_branch
+      - name: Push changes
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          echo $REPO
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "scrape $SCRAPE_DATETIME" --date $SCRAPE_DATETIME
           git tag $SCRAPE_DATE
-          git push
-          git push origin $SCRAPE_DATE -f
+          git push "${REPO}"
+          git push "${REPO}" $SCRAPE_DATE -f
