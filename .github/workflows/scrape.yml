@@ -32,7 +32,6 @@ jobs:
           SCRAPE_DATETIME=$(date +'%Y-%m-%dT%T')
           SCRAPE_DATE=$(date +'%Y-%m-%d')
           python scrape.py ../data_branch $SCRAPE_DATETIME
-          cd data_branch
       - name: Push changes
         run: |
           cd data_branch
