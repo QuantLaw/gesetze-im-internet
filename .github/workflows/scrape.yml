@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v2
+        with:
+          ref: 'master'
+          path: 'master_branch/'
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Checkout data
@@ -23,12 +26,14 @@ jobs:
           path: 'data_branch/'
       - name: Scrape
         run: |
+          cd master_branch
           SCRAPE_DATETIME=$(date +'%Y-%m-%dT%T')
           SCRAPE_DATE=$(date +'%Y-%m-%d')
-          python scrape.py data_branch $SCRAPE_DATETIME
+          python scrape.py ../data_branch $SCRAPE_DATETIME
           cd data_branch
       - name: Push changes
         run: |
+          cd ../data_branch
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           echo $REPO
           git config --local user.email "action@github.com"
