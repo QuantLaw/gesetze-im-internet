@@ -19,7 +19,7 @@ jobs:
           echo -e "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
           chmod og-rwx ~/.ssh/id_rsa
           ssh-keyscan -H github.com >> ~/.ssh/known_hosts
-          ssh -T git@github.com
+          ssh -T git@github.com/${GITHUB_REPOSITORY}.git
           REPO="git@github.com/${GITHUB_REPOSITORY}.git"
           git clone $REPO --dry-run
 
