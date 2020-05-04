@@ -13,13 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     container: python:3.7
     steps:
+      - uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_KEY }}
       - name: Authenticate
         run: |
-          mkdir -p ~/.ssh
-          echo -e "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
-          chmod og-rwx ~/.ssh/id_rsa
-          ssh-keyscan -H github.com >> ~/.ssh/known_hosts
-          ssh -T git@github.com/${GITHUB_REPOSITORY}.git
+          ssh -T git@github.com
           REPO="git@github.com/${GITHUB_REPOSITORY}.git"
           git clone $REPO --dry-run
 
