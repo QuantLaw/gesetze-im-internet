@@ -3,9 +3,9 @@ name: cronarchiver
 on:
   schedule:
     - cron: '15 17 * * *'
-#  push:
-#    branches:
-#      - master
+  push:
+    branches:
+      - master
 
 
 jobs:
@@ -13,6 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     container: python:3.7
     steps:
+      - name: Authenticate
+        run: |
+          mkdir -p ~/.ssh
+          echo -e "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod og-rwx ~/.ssh/id_rsa
+          ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+          ssh -T git@github.com
+          REPO="git@github.com/${GITHUB_REPOSITORY}.git"
+          git close $REPO --dry-run
+
       - name: Checkout master
         uses: actions/checkout@v2
         with:
@@ -40,7 +50,7 @@ jobs:
           SCRAPE_DATETIME=$(cat SCRAPE_DATETIME.txt)
           SCRAPE_DATE=$(cat SCRAPE_DATE.txt)
           cd data_branch
-          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          REPO="git@github.com/${GITHUB_REPOSITORY}.git"
           echo $REPO
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
