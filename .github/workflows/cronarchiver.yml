@@ -13,15 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     container: python:3.7
     steps:
-      - uses: webfactory/ssh-agent@v0.2.0
-        with:
-          ssh-private-key: ${{ secrets.SSH_KEY }}
-      - name: Authenticate
-        run: |
-          ssh -T git@github.com
-          REPO="git@github.com/${GITHUB_REPOSITORY}.git"
-          git clone $REPO --dry-run
-
       - name: Checkout master
         uses: actions/checkout@v2
         with:
@@ -49,7 +40,7 @@ jobs:
           SCRAPE_DATETIME=$(cat SCRAPE_DATETIME.txt)
           SCRAPE_DATE=$(cat SCRAPE_DATE.txt)
           cd data_branch
-          REPO="git@github.com/${GITHUB_REPOSITORY}.git"
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           echo $REPO
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
