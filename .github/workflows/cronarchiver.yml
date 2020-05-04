@@ -2,10 +2,10 @@ name: cronarchiver
 
 on:
   schedule:
-    - cron: '15 17 * * *'
-  push:
-    branches:
-      - master
+    - cron: '18 10 * * *'
+#  push:
+#    branches:
+#      - master
 
 
 jobs:
