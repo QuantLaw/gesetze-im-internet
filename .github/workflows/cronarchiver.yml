@@ -21,7 +21,7 @@ jobs:
           ssh-keyscan -H github.com >> ~/.ssh/known_hosts
           ssh -T git@github.com
           REPO="git@github.com/${GITHUB_REPOSITORY}.git"
-          git close $REPO --dry-run
+          git clone $REPO --dry-run
 
       - name: Checkout master
         uses: actions/checkout@v2
