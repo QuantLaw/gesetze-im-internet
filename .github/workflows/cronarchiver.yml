@@ -2,7 +2,7 @@ name: cronarchiver
 
 on:
   schedule:
-    - cron: '45 15 * * *'
+    - cron: '15 17 * * *'
 #  push:
 #    branches:
 #      - master
