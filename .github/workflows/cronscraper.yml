@@ -2,7 +2,7 @@ name: cronscraper
 
 on:
   schedule:
-    - cron: '00 08 * * *'
+    - cron: '00 03 * * *'
 
 
 jobs:
