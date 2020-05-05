@@ -31,20 +31,20 @@ Das Archiv reicht bis zum 10. Juni 2019 zurück. Für diesen Zeitraum wurde die 
 
 ### Archivierungsprozess
 
-Die Archivierung basiert auf Inhaltsverzeichnis von gesetze-im-internet.de, dass als XML-Datei bereitgestellt wird. 
-(Siehe https://www.gesetze-im-internet.de/hinweise.html für nähere Informationen)
+Die Archivierung basiert auf dem Inhaltsverzeichnis von gesetze-im-internet.de, dass als XML-Datei bereitgestellt wird. 
+(Siehe https://www.gesetze-im-internet.de/hinweise.html für nähere Informationen.)
 Es werden alle genannten Gesetze heruntergeladen und entpackt. Sofern sich ihr Inhalt geändert hat, 
 wird die neue Version zum Repository hinzugefügt.
 
 In seltenen Fällen ist eine im Inhaltsverzeichnis aufgeführte Datei auf dem Server nicht verfügbar. 
-In diesem Fall wird die Datei ausgelassen und unter `data/not_found.txt` im jeweiligen Commit dokumentiert. 
-Typischerweise ist die Datei leer, da ein solcher Fehler bei der betreffenden Archivierung nicht aufgetreten ist.
+Solche eine Datei wird ausgelassen und unter `data/not_found.txt` im jeweiligen Commit dokumentiert. 
+Typischerweise ist die Datei leer, da dieser Fehler bei der betreffenden Archivierung nicht aufgetreten ist.
 
 Finden die Betreiber von gesetze-im-internet.de Fehler in ihren Daten (beispielsweise einen Tippfehler), 
 werden diese auf der Webseite nachträglich korrigiert.
 Entsprechend wird bei der nächsten Archivierung die Fehlerkorrektur als neue Gesetzesversion in das Archiv übernommen.
-Im Archiv wird der Fehler jedoch nicht bereits archivierten Versionen nachträglich korrigiert. 
-Damit kann von einer neuen Dateiversion nicht zwingend auf eine Änderung der Rechtslage geschlossen werden,
-da hierfür eine genauere Analyse der Änderung erforderlich ist. 
+Im Archiv wird der Fehler jedoch nicht in bereits archivierten Versionen nachträglich korrigiert. 
+Damit kann von einer neuen Dateiversion nicht zwingend auf eine Änderung der Rechtslage geschlossen werden. 
+Hierfür ist eine genauere Analyse der Änderung erforderlich. 
 (Neben einer Fehlerkorrektur wird eine neue Version häufig durch eine Aktualisierung des `builddate` 
-(ein Attribut in der XML Datei) verursacht.)
+\[ein Attribut in der XML Datei\] verursacht.)
