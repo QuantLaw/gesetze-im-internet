@@ -1,4 +1,4 @@
-# Gesetze im Internet (Archiv)
+# Gesetze im Internet
 
 Es werden die auf https://www.gesetze-im-internet.de veröffentlichten Gesetze etc. täglich archiviert. 
 Das Archiv beschränkt sich auf XML-Dateien nebst ihren Anhänge.
