@@ -1,15 +1,13 @@
 import argparse
 import os
 import shutil
-import time
-from datetime import datetime
+from multiprocessing.pool import Pool
 from zipfile import ZipFile, BadZipFile
-
-from requests.adapters import HTTPAdapter
-from requests.packages.urllib3.util.retry import Retry
 
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 
 
 def requests_retry_session(
@@ -35,37 +33,44 @@ def ensure_exists(path):
     return path
 
 
+def handle_links(link):
+    error = None
+    print("Loading", link)
+
+    link_parts = link.split("/")
+    assert link_parts[-1] == "xml.zip"
+    item_id = link_parts[-2]
+
+    r = requests_retry_session().get(link)
+    zip_path = TEMP_PATH + item_id + ".zip"
+    with open(zip_path, "wb") as f:
+        f.write(r.content)
+    try:
+        with ZipFile(zip_path) as f:
+            f.extractall(ITEMS_PATH + item_id)
+    except BadZipFile:
+        with open(zip_path, "rb") as f:
+            contents = f.read()
+        if b"<title>404 Not Found</title>" in contents:
+            error = item_id
+        else:
+            raise
+    os.remove(zip_path)
+    return error
+
+
 def scrape():
     toc = requests_retry_session().get("https://www.gesetze-im-internet.de/gii-toc.xml")
     with open(TOC_PATH, "wb") as f:
         f.write(toc.content)
 
     soup = BeautifulSoup(toc.text, "lxml-xml")
-    errors = []
 
-    for item in list(soup.find_all("item")):
-        link = item.link.get_text()
-        print("Loading", link)
+    links = [item.link.get_text() for item in list(soup.find_all("item"))]
 
-        link_parts = link.split("/")
-        assert link_parts[-1] == "xml.zip"
-        item_id = link_parts[-2]
-
-        r = requests_retry_session().get(link)
-        zip_path = TEMP_PATH + "temp.zip"
-        with open(zip_path, "wb") as f:
-            f.write(r.content)
-        try:
-            with ZipFile(zip_path) as f:
-                f.extractall(ITEMS_PATH + item_id)
-        except BadZipFile:
-            with open(zip_path, "rb") as f:
-                contents = f.read()
-            if b"<title>404 Not Found</title>" in contents:
-                errors.append(item_id)
-            else:
-                raise
-        os.remove(zip_path)
+    with Pool(2) as p:
+        errors = p.map(handle_links, links)
+    errors = [e for e in errors if e is not None]
 
     with open(NOT_FOUND_PATH, "w") as f:
         for e in errors:
