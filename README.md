@@ -1,4 +1,4 @@
-![cronscraper](https://github.com/legal-networks/gesetze-im-internet/workflows/cronscraper/badge.svg?event=schedule)
+[![cronscraper](https://github.com/legal-networks/gesetze-im-internet/workflows/cronscraper/badge.svg?event=schedule)](https://github.com/legal-networks/gesetze-im-internet/actions)
 
 # Gesetze im Internet
 
