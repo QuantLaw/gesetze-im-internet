@@ -1,3 +1,5 @@
+![cronscraper](https://github.com/legal-networks/gesetze-im-internet/workflows/cronscraper/badge.svg?event=schedule)
+
 # Gesetze im Internet
 
 Es werden die auf https://www.gesetze-im-internet.de veröffentlichten Gesetze etc. täglich archiviert. 
