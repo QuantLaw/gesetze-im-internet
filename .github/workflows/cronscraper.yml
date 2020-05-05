@@ -37,7 +37,7 @@ jobs:
           SCRAPE_DATETIME=$(cat SCRAPE_DATETIME.txt)
           SCRAPE_DATE=$(cat SCRAPE_DATE.txt)
           cd data_branch
-          REPO="https://${GITHUB_ACTOR}:${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           echo $REPO
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
