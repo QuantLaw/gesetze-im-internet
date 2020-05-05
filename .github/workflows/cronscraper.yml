@@ -2,7 +2,7 @@ name: cronscraper
 
 on:
   schedule:
-    - cron: '45 21 * * *'
+    - cron: '*/5 * * * *'
 
 
 jobs:
