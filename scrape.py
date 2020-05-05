@@ -43,7 +43,7 @@ def scrape():
     soup = BeautifulSoup(toc.text, "lxml-xml")
     errors = []
 
-    for item in list(soup.find_all("item"))[:10]:
+    for item in list(soup.find_all("item")):
         link = item.link.get_text()
         print("Loading", link)
 
@@ -66,7 +66,6 @@ def scrape():
             else:
                 raise
         os.remove(zip_path)
-        time.sleep(0.2)
 
     with open(NOT_FOUND_PATH, "w") as f:
         for e in errors:
