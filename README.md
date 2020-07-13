@@ -49,4 +49,4 @@ Im Archiv wird der Fehler jedoch nicht in bereits archivierten Versionen nachtr�
 Daher kann von einer neuen Dateiversion nicht zwingend auf eine Änderung der Rechtslage geschlossen werden,
 ohne die Änderung inhaltlich zu untersuchen.
 Neben einer Fehlerkorrektur wird eine neue Version häufig durch eine Aktualisierung des `builddate` 
-(ein Attribut in der XML Datei) verursacht.
+(ein Attribut in der XML-Datei) verursacht.
