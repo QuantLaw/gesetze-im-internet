@@ -5775,6 +5775,10 @@
 <link>http://www.gesetze-im-internet.de/bzblgdv_1/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über Erhebungen zum Zustand des Waldbodens</title>
+<link>http://www.gesetze-im-internet.de/bzev/xml.zip</link>
+</item>
+<item>
 <title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten der Bundeszentrale für gesundheitliche Aufklärung in Angelegenheiten nach dem Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung</title>
 <link>http://www.gesetze-im-internet.de/bzgazustano/xml.zip</link>
 </item>
@@ -7721,10 +7725,6 @@
 <item>
 <title>Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2020</title>
 <link>http://www.gesetze-im-internet.de/erpwiplang_2020/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Errichtung von Truppendienstgerichten</title>
-<link>http://www.gesetze-im-internet.de/errv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen</title>
@@ -22427,8 +22427,8 @@
 <link>http://www.gesetze-im-internet.de/transprlg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Regelung der Dienstbereiche der Truppendienstgerichte und zur Bildung von Truppendienstkammern</title>
-<link>http://www.gesetze-im-internet.de/trdgv/xml.zip</link>
+<title>Truppendienstgerichte-Verordnung</title>
+<link>http://www.gesetze-im-internet.de/trdgv_2020/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Datenübermittlung durch Mitteilungsverpflichtete und durch den Betreiber des Unternehmensregisters an das Transparenzregister</title>
