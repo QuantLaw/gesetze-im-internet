@@ -12823,10 +12823,6 @@
 <link>http://www.gesetze-im-internet.de/kjhg/xml.zip</link>
 </item>
 <item>
-<title>Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten</title>
-<link>http://www.gesetze-im-internet.de/kjpsychth-aprv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Krankenkassen und ihre Verbände</title>
 <link>http://www.gesetze-im-internet.de/kk-altr_ckv/xml.zip</link>
 </item>
@@ -13833,6 +13829,10 @@
 <item>
 <title>Gesetz über den Beruf des Logopäden</title>
 <link>http://www.gesetze-im-internet.de/logopg/xml.zip</link>
+</item>
+<item>
+<title>Vierte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung</title>
+<link>http://www.gesetze-im-internet.de/lohnuga_v_4/xml.zip</link>
 </item>
 <item>
 <title>Erlass über die Stiftung des Silbernen Lorbeerblattes</title>
@@ -16911,10 +16911,6 @@
 <link>http://www.gesetze-im-internet.de/nutzzg/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zur Errichtung eines Nationalen Waffenregisters</title>
-<link>http://www.gesetze-im-internet.de/nwrg/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Durchführung des Nationalen-Waffenregister-Gesetzes</title>
 <link>http://www.gesetze-im-internet.de/nwrg-dv/xml.zip</link>
 </item>
@@ -18327,12 +18323,12 @@
 <link>http://www.gesetze-im-internet.de/psychpbg/xml.zip</link>
 </item>
 <item>
-<title>Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten</title>
-<link>http://www.gesetze-im-internet.de/psychth-aprv/xml.zip</link>
+<title>Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten</title>
+<link>http://www.gesetze-im-internet.de/psychthappro/xml.zip</link>
 </item>
 <item>
-<title>Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten</title>
-<link>http://www.gesetze-im-internet.de/psychthg/xml.zip</link>
+<title>Gesetz über den Beruf der Psychotherapeutin und des Psychotherapeuten</title>
+<link>http://www.gesetze-im-internet.de/psychthg_2020/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten, zur Änderung des Fünften Buches Sozialgesetzbuch und anderer Gesetze</title>
@@ -24115,6 +24111,10 @@
 <link>http://www.gesetze-im-internet.de/waffghzaowiv/xml.zip</link>
 </item>
 <item>
+<title>Gesetz über das Nationale Waffenregister</title>
+<link>http://www.gesetze-im-internet.de/waffrg/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Anpassung der festen Beträge im Rahmen der Wahlkostenerstattung durch den Bund</title>
 <link>http://www.gesetze-im-internet.de/wahlkostenv/xml.zip</link>
 </item>
@@ -24321,6 +24321,10 @@
 <item>
 <title>Wehrdisziplinarordnung</title>
 <link>http://www.gesetze-im-internet.de/wdo_2002/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Bestimmung der Bezüge im Sinne der Wehrdisziplinarordnung</title>
+<link>http://www.gesetze-im-internet.de/wdobezv_2020/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Bestimmung der Bezüge im Sinne der Wehrdisziplinarordnung</title>
