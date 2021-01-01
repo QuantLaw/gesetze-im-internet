@@ -123,10 +123,6 @@
 <link>http://www.gesetze-im-internet.de/lag_ndg_11/xml.zip</link>
 </item>
 <item>
-<title>Elfte Verordnung über zwingende Arbeitsbedingungen im Baugewerbe</title>
-<link>http://www.gesetze-im-internet.de/bauarbbv_11/xml.zip</link>
-</item>
-<item>
 <title>Elfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Emissionserklärungen)</title>
 <link>http://www.gesetze-im-internet.de/bimschv_11_2004/xml.zip</link>
 </item>
@@ -277,6 +273,10 @@
 <item>
 <title>Zweites Gesetz zur Verbesserung der Haushaltsstruktur</title>
 <link>http://www.gesetze-im-internet.de/hstruktg_2/xml.zip</link>
+</item>
+<item>
+<title>Zweite Verordnung über die Bezugsdauer für das Kurzarbeitergeld</title>
+<link>http://www.gesetze-im-internet.de/kugbev_2/xml.zip</link>
 </item>
 <item>
 <title>Zweite Verordnung zur Durchführung des Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland</title>
@@ -871,6 +871,10 @@
 <link>http://www.gesetze-im-internet.de/aelv_2020/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2021</title>
+<link>http://www.gesetze-im-internet.de/aelv_2021/xml.zip</link>
+</item>
+<item>
 <title>Verordnung über die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin</title>
 <link>http://www.gesetze-im-internet.de/_ndschnausbv/xml.zip</link>
 </item>
@@ -1043,6 +1047,10 @@
 <link>http://www.gesetze-im-internet.de/agrarzahlverpflv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Erhebung agrarstatistischer Daten für die Emissionsberichterstattung</title>
+<link>http://www.gesetze-im-internet.de/agrstatebv_2021/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über Agrarstatistiken</title>
 <link>http://www.gesetze-im-internet.de/agrstatg/xml.zip</link>
 </item>
@@ -1053,10 +1061,6 @@
 <item>
 <title>Gesetz zur Änderung des Gesetzes über die Gemeinschaftsaufgabe &quot;Verbesserung der Agrarstruktur und des Küstenschutzes&quot;</title>
 <link>http://www.gesetze-im-internet.de/agrstruktg_ndg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung (EU) Nr. 651/2014 der Kommission zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union</title>
-<link>http://www.gesetze-im-internet.de/euv_651_2014/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zum Altschuldenhilfe-Gesetz</title>
@@ -1459,8 +1463,8 @@
 <link>http://www.gesetze-im-internet.de/antidopg/xml.zip</link>
 </item>
 <item>
-<title>Preisverordnung für SARS-CoV-2 Antigen-Tests zur patientennahen Anwendung</title>
-<link>http://www.gesetze-im-internet.de/antigenpreisv/xml.zip</link>
+<title>Verordnung zur Aufhebung der Preisverordnung für SARS-CoV-2 Antigen-Tests zur patientennahen Anwendung</title>
+<link>http://www.gesetze-im-internet.de/antigenpreisvaufhv/xml.zip</link>
 </item>
 <item>
 <title>Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz vom 22. September 1994</title>
@@ -2505,10 +2509,6 @@
 <item>
 <title>Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren</title>
 <link>http://www.gesetze-im-internet.de/battg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Durchführung des Batteriegesetzes</title>
-<link>http://www.gesetze-im-internet.de/battgdv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes</title>
@@ -5511,8 +5511,8 @@
 <link>http://www.gesetze-im-internet.de/b_romkfausbverprv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Bürsten- und Pinselmacher-Handwerk</title>
-<link>http://www.gesetze-im-internet.de/b_rstpimstrv/xml.zip</link>
+<title>Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe</title>
+<link>http://www.gesetze-im-internet.de/b_rstpimstrv_2021/xml.zip</link>
 </item>
 <item>
 <title>Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet</title>
@@ -6343,6 +6343,10 @@
 <link>http://www.gesetze-im-internet.de/dbbankabkg_gbr/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Bewilligung von Altersteilzeit und die Gewährung eines Altersteilzeitzuschlags für die Beamtinnen und Beamten der Deutschen Bank AG</title>
+<link>http://www.gesetze-im-internet.de/dbbatzv/xml.zip</link>
+</item>
+<item>
 <title>Allgemeine Anordnung über die Übertragung von Befugnissen und die Regelung von Zuständigkeiten auf dem Gebiet des Beamtenrechts im Bereich der Deutschen Bundesbahn</title>
 <link>http://www.gesetze-im-internet.de/dbbeamtrano_1976/xml.zip</link>
 </item>
@@ -6649,10 +6653,6 @@
 <item>
 <title>Ausführungsgesetz zum deutsch-österreichischen Konkursvertrag</title>
 <link>http://www.gesetze-im-internet.de/d_kvag/xml.zip</link>
-</item>
-<item>
-<title>Zweites Gesetz über eine finanzielle Hilfe für Dopingopfer der DDR</title>
-<link>http://www.gesetze-im-internet.de/dohg_2/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Standards für die Erstellung elektronischer Dokumente und für deren Übermittlung zwischen Strafverfolgungsbehörden und Gerichten</title>
@@ -7319,8 +7319,8 @@
 <link>http://www.gesetze-im-internet.de/einglmindv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Leistungen zur Eingliederung in Arbeit und der Verwaltungskosten der Grundsicherung für Arbeitsuchende im Jahr 2020</title>
-<link>http://www.gesetze-im-internet.de/einglmv_2020/xml.zip</link>
+<title>Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Leistungen zur Eingliederung in Arbeit und der Verwaltungskosten der Grundsicherung für Arbeitsuchende im Jahr 2021</title>
+<link>http://www.gesetze-im-internet.de/einglmv_2021/xml.zip</link>
 </item>
 <item>
 <title>Einheitliche Europäische Akte</title>
@@ -7787,8 +7787,8 @@
 <link>http://www.gesetze-im-internet.de/erpwiplang_1969/xml.zip</link>
 </item>
 <item>
-<title>Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2020</title>
-<link>http://www.gesetze-im-internet.de/erpwiplang_2020/xml.zip</link>
+<title>Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2021</title>
+<link>http://www.gesetze-im-internet.de/erpwiplang_2021/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen</title>
@@ -7887,8 +7887,8 @@
 <link>http://www.gesetze-im-internet.de/estrmstrv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2018, 2019 und 2020</title>
-<link>http://www.gesetze-im-internet.de/estschlev/xml.zip</link>
+<title>Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2021, 2022 und 2023</title>
+<link>http://www.gesetze-im-internet.de/estschlev_2021/xml.zip</link>
 </item>
 <item>
 <title>Einkommensteuer-Zuständigkeitsverordnung</title>
@@ -8141,10 +8141,6 @@
 <item>
 <title>Verordnung über die Vorrechte und Immunitäten der Europäischen Organisation für die Nutzung von meteorologischen Satelliten (EUMETSAT)</title>
 <link>http://www.gesetze-im-internet.de/eumetsatv/xml.zip</link>
-</item>
-<item>
-<title>Mitteilung der Kommission Befristeter Rahmen für staatliche Beihilfen zur Stützung der Wirtschaft angesichts des derzeitigen Ausbruchs von COVID-19</title>
-<link>http://www.gesetze-im-internet.de/eumitt_2020_1863/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Durchführung von EU-Sondermaßnahmen im Sektor Obst und Gemüse</title>
@@ -8411,10 +8407,6 @@
 <link>http://www.gesetze-im-internet.de/euv_1230_2012/xml.zip</link>
 </item>
 <item>
-<title>Verordnung (EU) Nr. 1407/2013 der Kommission über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen</title>
-<link>http://www.gesetze-im-internet.de/euv_1407_2013/xml.zip</link>
-</item>
-<item>
 <title>Bekanntmachung über die zuständige Behörde nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 347/2013</title>
 <link>http://www.gesetze-im-internet.de/euv347_2013zustbek/xml.zip</link>
 </item>
@@ -8579,6 +8571,10 @@
 <link>http://www.gesetze-im-internet.de/ezulv_1976/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachagrarwirt Baumpflege – Bachelor Professional Baumpflege oder Geprüfte Fachagrarwirtin Baumpflege – Bachelor Professional Baumpflege</title>
+<link>http://www.gesetze-im-internet.de/fabaumpflprv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz zu dem Vertrag vom 2. Dezember 2010 über die Errichtung des Funktionalen Luftraumblocks &quot;Europe Central&quot; zwischen der Bundesrepublik Deutschland, dem Königreich Belgien, der Französischen Republik, dem Großherzogtum Luxemburg, dem Königreich der Niederlande und der Schweizerischen Eidgenossenschaft (FABEC-Vertrag)</title>
 <link>http://www.gesetze-im-internet.de/fabecvtrg/xml.zip</link>
 </item>
@@ -8609,10 +8605,6 @@
 <item>
 <title>Gesetz über den Finanzausgleich zwischen Bund und Ländern</title>
 <link>http://www.gesetze-im-internet.de/finausglg_2005/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Fachagrarwirt/Geprüfte Fachagrarwirtin - Baumpflege und Baumsanierung</title>
-<link>http://www.gesetze-im-internet.de/fagrprv/xml.zip</link>
 </item>
 <item>
 <title>Fahrlehrer-Ausbildungsverordnung</title>
@@ -9875,10 +9867,6 @@
 <link>http://www.gesetze-im-internet.de/gdtwahlvdvtrg/xml.zip</link>
 </item>
 <item>
-<title>Siebte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung</title>
-<link>http://www.gesetze-im-internet.de/geb_udearbbv7/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Erhebung von Gebühren durch die Bundesprüfstelle für jugendgefährdende Medien</title>
 <link>http://www.gesetze-im-internet.de/bpjmgebo/xml.zip</link>
 </item>
@@ -9899,8 +9887,8 @@
 <link>http://www.gesetze-im-internet.de/gebrmg_6abs2bek/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Gebäudereiniger-Handwerk</title>
-<link>http://www.gesetze-im-internet.de/gebrmstrv/xml.zip</link>
+<title>Verordnung über die Meisterprüfung in den Teilen I und II im Gebäudereiniger-Handwerk</title>
+<link>http://www.gesetze-im-internet.de/gebrmstrv_2021/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Ausführung des Gebrauchsmustergesetzes</title>
@@ -9961,10 +9949,6 @@
 <item>
 <title>Geschäftsordnung für den Gemeinsamen Ausschuß</title>
 <link>http://www.gesetze-im-internet.de/gemausgo/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zu den gemeinsamen Ausschreibungen für Windenergieanlagen an Land und Solaranlagen</title>
-<link>http://www.gesetze-im-internet.de/gemav/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Neuordnung der Gemeindefinanzen</title>
@@ -11267,6 +11251,10 @@
 <link>http://www.gesetze-im-internet.de/hg_2020/xml.zip</link>
 </item>
 <item>
+<title>Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2021</title>
+<link>http://www.gesetze-im-internet.de/hg_2021/xml.zip</link>
+</item>
+<item>
 <title>Handelsgesetzbuch</title>
 <link>http://www.gesetze-im-internet.de/hgb/xml.zip</link>
 </item>
@@ -11584,7 +11572,7 @@
 </item>
 <item>
 <title>Verordnung zur Übertragung von Zuständigkeiten auf Hauptzollämter für den Bereich mehrerer Hauptzollämter</title>
-<link>http://www.gesetze-im-internet.de/hzazustv_2020/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/hzazustv_2021/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Handzuginstrumentenmacher/zur Handzuginstrumentenmacherin</title>
@@ -11885,6 +11873,10 @@
 <item>
 <title>Gesetz zur Errichtung einer Infrastrukturgesellschaft für Autobahnen und andere Bundesfernstraßen</title>
 <link>http://www.gesetze-im-internet.de/infrgg/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Beleihung der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes</title>
+<link>http://www.gesetze-im-internet.de/infrggbv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des Versicherungsaufsichtsgesetzes</title>
@@ -12321,6 +12313,10 @@
 <item>
 <title>Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management</title>
 <link>http://www.gesetze-im-internet.de/itsmankflausbv/xml.zip</link>
+</item>
+<item>
+<title>Gesetz über die Umwandlung des Informationstechnikzentrums Bund in eine nichtrechtsfähige Anstalt des öffentlichen Rechts</title>
+<link>http://www.gesetze-im-internet.de/itzbundg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Union für die Erhaltung der Natur und der natürlichen Hilfsquellen</title>
@@ -13379,12 +13375,12 @@
 <link>http://www.gesetze-im-internet.de/krwg/xml.zip</link>
 </item>
 <item>
-<title>Künstlersozialabgabe-Verordnung 2019</title>
-<link>http://www.gesetze-im-internet.de/ksabg2019v/xml.zip</link>
-</item>
-<item>
 <title>Künstlersozialabgabe-Verordnung 2020</title>
 <link>http://www.gesetze-im-internet.de/ksabg2020v/xml.zip</link>
+</item>
+<item>
+<title>Künstlersozialabgabe-Verordnung 2021</title>
+<link>http://www.gesetze-im-internet.de/ksabg2021v/xml.zip</link>
 </item>
 <item>
 <title>Kündigungsschutzgesetz</title>
@@ -13477,10 +13473,6 @@
 <item>
 <title>Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres</title>
 <link>http://www.gesetze-im-internet.de/k_stmprokbek/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Bezugsdauer für das Kurzarbeitergeld</title>
-<link>http://www.gesetze-im-internet.de/kugbev/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Erleichterungen der Kurzarbeit</title>
@@ -14567,6 +14559,10 @@
 <link>http://www.gesetze-im-internet.de/luftvstabsenkv_2020_2/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Absenkung der Steuersätze im Jahr 2021 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes</title>
+<link>http://www.gesetze-im-internet.de/luftvstabsenkv_2021/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Durchführung des Luftverkehrsteuergesetzes</title>
 <link>http://www.gesetze-im-internet.de/luftvstdv/xml.zip</link>
 </item>
@@ -15151,8 +15147,8 @@
 <link>http://www.gesetze-im-internet.de/milomeldv/xml.zip</link>
 </item>
 <item>
-<title>Zweite Verordnung zur Anpassung der Höhe des Mindestlohns</title>
-<link>http://www.gesetze-im-internet.de/milov2/xml.zip</link>
+<title>Dritte Verordnung zur Anpassung der Höhe des Mindestlohns</title>
+<link>http://www.gesetze-im-internet.de/milov3/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Militärseelsorge</title>
@@ -18691,8 +18687,8 @@
 <link>http://www.gesetze-im-internet.de/bdlr/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch</title>
-<link>http://www.gesetze-im-internet.de/rbeg_2017/xml.zip</link>
+<title>Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch ab dem Jahr 2021</title>
+<link>http://www.gesetze-im-internet.de/rbeg_2021/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Aktenführung beim Bundesamt für Justiz im Anwendungsbereich des Rahmenbeschlusses 2005/214/JI des Rates vom 24. Februar 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbußen</title>
@@ -18709,10 +18705,6 @@
 <item>
 <title>Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung von ständigen Vertretern</title>
 <link>http://www.gesetze-im-internet.de/rbkpr_serl/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Bestimmung des für die Fortschreibung der Regelbedarfsstufen nach § 28a des Zwölften Buches Sozialgesetzbuch maßgeblichen Prozentsatzes sowie zur Ergänzung der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch für das Jahr 2020</title>
-<link>http://www.gesetze-im-internet.de/rbsfv_2020/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder</title>
@@ -19509,10 +19501,6 @@
 <item>
 <title>Verordnung über Abweichungen von den Vorschriften des Fünften Buches Sozialgesetzbuch, des Apothekengesetzes, der Apothekenbetriebsordnung, der Arzneimittelpreisverordnung, des Betäubungsmittelgesetzes und der Betäubungsmittel-Verschreibungsverordnung infolge der SARS-CoV-2-Epidemie</title>
 <link>http://www.gesetze-im-internet.de/sarscov2amvv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Abgrenzung der Steuerpflicht nach dem Kraftfahrzeugsteuergesetz infolge der SARS-CoV-2-Pandemie</title>
-<link>http://www.gesetze-im-internet.de/sarscov2kraftstv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten</title>
@@ -20415,10 +20403,6 @@
 <link>http://www.gesetze-im-internet.de/sgb3entgruhv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die pauschalierten Nettoentgelte für das Kurzarbeitergeld für das Jahr 2020</title>
-<link>http://www.gesetze-im-internet.de/sgb3entgv_2020/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zur Einordnung der Vorschriften über die Meldepflichten des Arbeitgebers in der Kranken- und Rentenversicherung sowie im Arbeitsförderungsrecht und über den Einzug des Gesamtsozialversicherungsbeitrags in das Vierte Buch Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung -</title>
 <link>http://www.gesetze-im-internet.de/sgb4ergg/xml.zip</link>
 </item>
@@ -20437,6 +20421,10 @@
 <item>
 <title>Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch</title>
 <link>http://www.gesetze-im-internet.de/sgb7_178abs1v/xml.zip</link>
+</item>
+<item>
+<title>Zweite Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch</title>
+<link>http://www.gesetze-im-internet.de/sgb7_178abs1v_2/xml.zip</link>
 </item>
 <item>
 <title>Erstes Gesetz zur Änderung des Achten Buches Sozialgesetzbuch</title>
@@ -20681,6 +20669,10 @@
 <item>
 <title>Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2020</title>
 <link>http://www.gesetze-im-internet.de/svbezgrv_2020/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2021</title>
+<link>http://www.gesetze-im-internet.de/svbezgrv_2021/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Ausbildungsförderung für soziale Pflegeberufe</title>
@@ -21321,6 +21313,10 @@
 <item>
 <title>Verordnung über die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin</title>
 <link>http://www.gesetze-im-internet.de/stanz_umfmechausbv/xml.zip</link>
+</item>
+<item>
+<title>Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen</title>
+<link>http://www.gesetze-im-internet.de/starug/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über den Aufbau und die Führung eines Statistikregisters</title>
@@ -22203,10 +22199,6 @@
 <link>http://www.gesetze-im-internet.de/tehg_2011/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2020</title>
-<link>http://www.gesetze-im-internet.de/telefinv_2020/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2021</title>
 <link>http://www.gesetze-im-internet.de/telefinv_2021/xml.zip</link>
 </item>
@@ -22747,10 +22739,6 @@
 <link>http://www.gesetze-im-internet.de/tvgdv/xml.zip</link>
 </item>
 <item>
-<title>Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 17. Januar 2020</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohn_2020/xml.zip</link>
-</item>
-<item>
 <title>Rechtsnormen des Mindestlohntarifvertrags für die Branche Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011, 6. März 2012, 15. Oktober 2012, 24. Juni 2014, 19. Mai 2015 und 29. Mai 2019</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_abfall_8/xml.zip</link>
 </item>
@@ -22767,20 +22755,12 @@
 <link>http://www.gesetze-im-internet.de/tvmindestlohndachd_10/xml.zip</link>
 </item>
 <item>
-<title>Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 10. November 2017</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2017/xml.zip</link>
-</item>
-<item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohnp_da_5/xml.zip</link>
 </item>
 <item>
 <title>Tarifvertrag für den öffentlichen Dienst</title>
 <link>http://www.gesetze-im-internet.de/tv_d/xml.zip</link>
-</item>
-<item>
-<title>Gesetz zur Überführung der Testamentsverzeichnisse und der Hauptkartei beim Amtsgericht Schöneberg in Berlin in das Zentrale Testamentsregister der Bundesnotarkammer</title>
-<link>http://www.gesetze-im-internet.de/tv_g/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin</title>
@@ -23041,6 +23021,10 @@
 <item>
 <title>Umwandlungssteuergesetz</title>
 <link>http://www.gesetze-im-internet.de/umwstg_2006/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zu § 27 Absatz 15 des Umwandlungssteuergesetzes</title>
+<link>http://www.gesetze-im-internet.de/umwstg2006_27abs15v/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über das Verfahren bei der Erteilung von Unbedenklichkeitsbescheinigungen für andere Spiele im Sinne des § 33d Abs. 1 der Gewerbeordnung</title>
@@ -23312,7 +23296,7 @@
 </item>
 <item>
 <title>Verordnung über die Festsetzung der Länderschlüsselzahlen und die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils am Aufkommen der Umsatzsteuer nach § 5a des Gemeindefinanzreformgesetzes</title>
-<link>http://www.gesetze-im-internet.de/ustschlfestv/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/ustschlfestv_2021/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die örtliche Zuständigkeit für die Umsatzsteuer im Ausland ansässiger Unternehmer</title>
@@ -24123,6 +24107,10 @@
 <link>http://www.gesetze-im-internet.de/vsorglastvteilstvtrg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur elektronischen Übermittlung von Daten für die Verbrauchsteuern und die Luftverkehrsteuer</title>
+<link>http://www.gesetze-im-internet.de/vstd_v/xml.zip</link>
+</item>
+<item>
 <title>Vermögensteuergesetz</title>
 <link>http://www.gesetze-im-internet.de/vstg_1974/xml.zip</link>
 </item>
@@ -24245,10 +24233,6 @@
 <item>
 <title>Verordnung zur Übertragung der Zuständigkeiten der Oberfinanzpräsidenten der Oberfinanzdirektionen in den neuen Ländern nach dem Vermögenszuordnungsgesetz auf das Bundesamt zur Regelung offener Vermögensfragen</title>
 <link>http://www.gesetze-im-internet.de/vzoz_v/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Verlängerung des Zeitraums für das vereinfachte Verfahren für den Zugang zu den Grundsicherungssystemen und für Bedarfe für Mittagsverpflegung aus Anlass der COVID-19-Pandemie</title>
-<link>http://www.gesetze-im-internet.de/vzvv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Wasserbauer/zur Wasserbauerin</title>
