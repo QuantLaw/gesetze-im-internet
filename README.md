@@ -3,7 +3,7 @@
 # Gesetze im Internet
 
 Es werden die auf https://www.gesetze-im-internet.de veröffentlichten Gesetze, Rechtsverordnungen, etc. täglich archiviert. 
-Das Archiv beschränkt sich auf XML-Dateien nebst Anhänge. (Die inhaltsgleichen PDF-, EPUB- und HTML-Dateien werden nicht geischert.)
+Das Archiv beschränkt sich auf XML-Dateien nebst Anhänge. (Die inhaltsgleichen PDF-, EPUB- und HTML-Dateien werden nicht gesichert.)
 
 Die Daten sind im [Branch 'Data' dieses Repositories](https://github.com/QuantLaw/gesetze-im-internet/tree/data) 
 abrufbar.
