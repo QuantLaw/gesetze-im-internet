@@ -1463,10 +1463,6 @@
 <link>http://www.gesetze-im-internet.de/antidopg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Aufhebung der Preisverordnung für SARS-CoV-2 Antigen-Tests zur patientennahen Anwendung</title>
-<link>http://www.gesetze-im-internet.de/antigenpreisvaufhv/xml.zip</link>
-</item>
-<item>
 <title>Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz vom 22. September 1994</title>
 <link>http://www.gesetze-im-internet.de/antkostv/xml.zip</link>
 </item>
@@ -4207,6 +4203,10 @@
 <link>http://www.gesetze-im-internet.de/bkrfqv_2020/xml.zip</link>
 </item>
 <item>
+<title>Berichtigung der Verordnung zur Ablösung der Berufskraftfahrer-Qualifikations-Verordnung und zur Änderung anderer straßenverkehrsrechtlicher Vorschriften</title>
+<link>http://www.gesetze-im-internet.de/bkrfqvablua_ndvber/xml.zip</link>
+</item>
+<item>
 <title>Bundeskrebsregisterdatengesetz</title>
 <link>http://www.gesetze-im-internet.de/bkrg/xml.zip</link>
 </item>
@@ -5959,12 +5959,16 @@
 <link>http://www.gesetze-im-internet.de/contstifg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag</title>
+<link>http://www.gesetze-im-internet.de/coronaeinreisev/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2</title>
 <link>http://www.gesetze-im-internet.de/coronaimpfv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf neuartige Mutationen des Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag</title>
-<link>http://www.gesetze-im-internet.de/coronaschv/xml.zip</link>
+<title>Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2</title>
+<link>http://www.gesetze-im-internet.de/corsurv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie</title>
@@ -11245,10 +11249,6 @@
 <item>
 <title>Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer</title>
 <link>http://www.gesetze-im-internet.de/hfzhvzvstg/xml.zip</link>
-</item>
-<item>
-<title>Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2020</title>
-<link>http://www.gesetze-im-internet.de/hg_2020/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2021</title>
@@ -17575,11 +17575,11 @@
 <link>http://www.gesetze-im-internet.de/pauswg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Gebühren für Personalausweise und den elektronischen Identitätsnachweis</title>
+<title>Verordnung über Gebühren für Personalausweise und eID-Karten für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums</title>
 <link>http://www.gesetze-im-internet.de/pauswgebv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Personalausweise und den elektronischen Identitätsnachweis</title>
+<title>Verordnung über Personalausweise, eID-Karten für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums und den elektronischen Identitätsnachweis</title>
 <link>http://www.gesetze-im-internet.de/pauswv/xml.zip</link>
 </item>
 <item>
@@ -18877,10 +18877,6 @@
 <item>
 <title>Verordnung über den kollektiven Teil der Rückstellung für Beitragsrückerstattung</title>
 <link>http://www.gesetze-im-internet.de/rfbv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Testpflicht von Einreisenden aus Risikogebieten</title>
-<link>http://www.gesetze-im-internet.de/rgebeinrtestpflv_2020-11/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Haftung des Reichs für seine Beamten</title>
@@ -21317,6 +21313,10 @@
 <item>
 <title>Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen</title>
 <link>http://www.gesetze-im-internet.de/starug/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Aussetzung der gesetzlichen Pflicht zur Erhebung, Übermittlung und Veröffentlichung von indikatorenbezogenen Daten in vollstationären Pflegeeinrichtungen</title>
+<link>http://www.gesetze-im-internet.de/statpflegedatene_vaussv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über den Aufbau und die Führung eines Statistikregisters</title>
