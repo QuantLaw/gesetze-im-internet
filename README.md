@@ -1,5 +1,3 @@
-[![cronscraper](https://github.com/QuantLaw/gesetze-im-internet/workflows/cronscraper/badge.svg?event=schedule)](https://github.com/QuantLaw/gesetze-im-internet/actions)
-
 # Gesetze im Internet
 
 Es werden die auf https://www.gesetze-im-internet.de veröffentlichten Gesetze, Rechtsverordnungen, etc. täglich archiviert. 
