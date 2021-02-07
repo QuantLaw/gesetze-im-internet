@@ -26,10 +26,10 @@ Das [Log](https://github.com/QuantLaw/gesetze-im-internet/blob/data/data/log.md)
 enthält eine Liste aller archivierten Versionen.
 Ebenfalls können die Commit-Messages im Branch 'Data' genutzt werden.
 
-Ab Mai 2020 geschieht die Archivierung täglich und transparent mittels 
-[Github Actions](https://github.com/QuantLaw/gesetze-im-internet/actions).
-Das Archiv reicht bis zum 10. Juni 2019 zurück. Für diesen Zeitraum stehen wöchentliche Versionen bereit.
-
+Ab Mai 2020 geschieht die Archivierung grundsätzlich täglich.
+Das Archiv reicht bis zum 10. Juni 2019 zurück. 
+Für diesen Zeitraum stehen wöchentliche Versionen bereit.
+Die Archivierung geschieht transparent mittels Docker. Das genutzte Skript ist in diesem Repository im Master-Branch enthalten.
 
 ### Archivierungsprozess
 
