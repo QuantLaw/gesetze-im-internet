@@ -1,0 +1,1 @@
+00 04 * * * root /scrape.sh >> /var/log/cron.log 2>&1

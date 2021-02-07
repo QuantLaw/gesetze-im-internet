@@ -11,7 +11,7 @@ from requests.packages.urllib3.util.retry import Retry
 
 
 def requests_retry_session(
-    retries=3, backoff_factor=10, status_forcelist=(500, 502, 504), session=None,
+    retries=5, backoff_factor=10, status_forcelist=(500, 502, 504), session=None,
 ):
     session = session or requests.Session()
     retry = Retry(
@@ -33,9 +33,9 @@ def ensure_exists(path):
     return path
 
 
-def handle_links(link):
+def handle_links(link, TEMP_PATH, ITEMS_PATH):
     error = None
-    print("Loading", link)
+    # print("Loading", link)
 
     link_parts = link.split("/")
     assert link_parts[-1] == "xml.zip"
@@ -59,7 +59,7 @@ def handle_links(link):
     return error
 
 
-def scrape():
+def scrape(TEMP_PATH, ITEMS_PATH, TOC_PATH, NOT_FOUND_PATH):
     toc = requests_retry_session().get("https://www.gesetze-im-internet.de/gii-toc.xml")
     with open(TOC_PATH, "wb") as f:
         f.write(toc.content)
@@ -69,7 +69,10 @@ def scrape():
     links = [item.link.get_text() for item in list(soup.find_all("item"))]
 
     with Pool(2) as p:
-        errors = p.map(handle_links, links)
+        errors = p.starmap(
+            handle_links,
+            [(l, TEMP_PATH, ITEMS_PATH) for l in links]
+        )
     errors = [e for e in errors if e is not None]
 
     with open(NOT_FOUND_PATH, "w") as f:
@@ -102,8 +105,8 @@ if __name__ == "__main__":
     ensure_exists(BASE_PATH)
     ensure_exists(ITEMS_PATH)
     ensure_exists(TEMP_PATH)
-    scrape()
+    scrape(TEMP_PATH, ITEMS_PATH, TOC_PATH, NOT_FOUND_PATH)
 
     with open(LOG_PATH, "a+") as file:
         file.writelines(f"- {args.datetime}\n")
-    print("done")
+    print("DONE", args.datetime)

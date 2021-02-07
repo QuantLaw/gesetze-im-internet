@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  scraper:
+    image: scraper
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 512M
+      restart_policy:
+        condition: on-failure
+    secrets:
+      - gii_scraper_github_key
+
+secrets:
+  gii_scraper_github_key:
+    external: true
