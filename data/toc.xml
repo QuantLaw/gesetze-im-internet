@@ -5975,6 +5975,14 @@
 <link>http://www.gesetze-im-internet.de/corona-arbschv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag</title>
+<link>http://www.gesetze-im-internet.de/coronaeinreisev/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2</title>
+<link>http://www.gesetze-im-internet.de/coronaimpfv_2021-04/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf neuartige Mutationen des Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag</title>
 <link>http://www.gesetze-im-internet.de/coronaschv_2021/xml.zip</link>
 </item>
@@ -5997,6 +6005,10 @@
 <item>
 <title>Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie</title>
 <link>http://www.gesetze-im-internet.de/cov19wahlbewaufstv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zum Ausgleich COVID-19 bedingter finanzieller Belastungen der Zahnärztinnen und Zahnärzte, der Heilmittelerbringer und der Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen</title>
+<link>http://www.gesetze-im-internet.de/covid-19-vst-schutzv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz</title>
@@ -6617,6 +6629,10 @@
 <item>
 <title>Verordnung zur Durchführung der Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik</title>
 <link>http://www.gesetze-im-internet.de/direktzahldurchfv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Aufrechterhaltung und Sicherung intensivmedizinischer Krankenhauskapazitäten</title>
+<link>http://www.gesetze-im-internet.de/diviintregv/xml.zip</link>
 </item>
 <item>
 <title>Anordnung über die Errichtung der &quot;Stiftung Demokratische Jugend&quot;</title>
@@ -12283,6 +12299,10 @@
 <link>http://www.gesetze-im-internet.de/itfg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Erhöhung der Bevorratung mit Arzneimitteln zur intensivmedizinischen Versorgung</title>
+<link>http://www.gesetze-im-internet.de/itsabv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung über die Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin</title>
 <link>http://www.gesetze-im-internet.de/itseausbv/xml.zip</link>
 </item>
@@ -14901,6 +14921,10 @@
 <item>
 <title>Verordnung über die Herstellung und den Vertrieb von Medaillen und Münzstücken zum Schutz deutscher Euro-Gedenkmünzen</title>
 <link>http://www.gesetze-im-internet.de/medaillenv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie</title>
+<link>http://www.gesetze-im-internet.de/medbvsv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten</title>
@@ -19477,6 +19501,10 @@
 <item>
 <title>Gesetz zur Errichtung eines Samenspenderregisters und zur Regelung der Auskunftserteilung über den Spender nach heterologer Verwendung von Samen</title>
 <link>http://www.gesetze-im-internet.de/saregg/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über Abweichungen von den Vorschriften des Fünften Buches Sozialgesetzbuch, des Apothekengesetzes, der Apothekenbetriebsordnung, der Arzneimittelpreisverordnung, des Betäubungsmittelgesetzes und der Betäubungsmittel-Verschreibungsverordnung infolge der SARS-CoV-2-Epidemie</title>
+<link>http://www.gesetze-im-internet.de/sarscov2amvv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten</title>
@@ -25884,7 +25912,7 @@
 </item>
 <item>
 <title>Gesetz über das Zollkriminalamt und die Zollfahndungsämter</title>
-<link>http://www.gesetze-im-internet.de/zfdg/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/zfdg_2021/xml.zip</link>
 </item>
 <item>
 <title>Vierzehntes Gesetz zur Änderung des Zollgesetzes</title>
