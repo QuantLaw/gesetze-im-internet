@@ -111,6 +111,10 @@
 <link>http://www.gesetze-im-internet.de/dachdarbbv_10/xml.zip</link>
 </item>
 <item>
+<title>Zehnte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk</title>
+<link>http://www.gesetze-im-internet.de/malerarbbv_10/xml.zip</link>
+</item>
+<item>
 <title>Zehnte Verordnung zum Produktsicherheitsgesetz</title>
 <link>http://www.gesetze-im-internet.de/prodsg2011v_10/xml.zip</link>
 </item>
@@ -137,6 +141,10 @@
 <item>
 <title>Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996</title>
 <link>http://www.gesetze-im-internet.de/rav_11/xml.zip</link>
+</item>
+<item>
+<title>Zwölfte Verordnung über zwingende Arbeitsbedingungen im Baugewerbe</title>
+<link>http://www.gesetze-im-internet.de/bauarbbv_12/xml.zip</link>
 </item>
 <item>
 <title>Zwölfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
@@ -415,10 +423,6 @@
 <link>http://www.gesetze-im-internet.de/sprengv_3/xml.zip</link>
 </item>
 <item>
-<title>Dritte Verordnung über zwingende Arbeitsbedingungen im Steinmetz- und Steinbildhauerhandwerk</title>
-<link>http://www.gesetze-im-internet.de/steinmetzarbbv_3/xml.zip</link>
-</item>
-<item>
 <title>Dritte Wahlordnung zum Mitbestimmungsgesetz</title>
 <link>http://www.gesetze-im-internet.de/mitbestgwo_3_2002/xml.zip</link>
 </item>
@@ -597,10 +601,6 @@
 <item>
 <title>Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bimschv_9/xml.zip</link>
-</item>
-<item>
-<title>Neunte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk</title>
-<link>http://www.gesetze-im-internet.de/malerarbbv_9/xml.zip</link>
 </item>
 <item>
 <title>Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)</title>
@@ -22779,6 +22779,10 @@
 <link>http://www.gesetze-im-internet.de/tvgdv/xml.zip</link>
 </item>
 <item>
+<title>Rechtsnormendes Tarifvertrags zur Regelung der Mindestlöhneim Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohn_2021/xml.zip</link>
+</item>
+<item>
 <title>Rechtsnormen des Mindestlohntarifvertrags für die Branche Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011, 6. März 2012, 15. Oktober 2012, 24. Juni 2014, 19. Mai 2015 und 29. Mai 2019</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_abfall_8/xml.zip</link>
 </item>
@@ -22787,12 +22791,8 @@
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_ger_stb_6/xml.zip</link>
 </item>
 <item>
-<title>Rechtsnormen des Tarifvertrags vom 9. Dezember 2016 zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackierhandwerk (TV Mindestlohn)</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohn_maler_9/xml.zip</link>
-</item>
-<item>
-<title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Steinmetz- und Steinbildhauerhandwerk vom 25. Februar 2019 (TV Mindestlohn)</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohn_steinmetz_3/xml.zip</link>
+<title>Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmerim Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohn_maler_10/xml.zip</link>
 </item>
 <item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)</title>
