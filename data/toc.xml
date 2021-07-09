@@ -1035,12 +1035,12 @@
 <link>http://www.gesetze-im-internet.de/agrarausbv/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich</title>
-<link>http://www.gesetze-im-internet.de/agrarmsg/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Weiterentwicklung der Marktstruktur im Agrarbereich</title>
 <link>http://www.gesetze-im-internet.de/agrarmsv/xml.zip</link>
+</item>
+<item>
+<title>Gesetz zur Stärkung der Organisationen und Lieferketten im Agrarbereich</title>
+<link>http://www.gesetze-im-internet.de/agrarmsg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin</title>
@@ -2507,6 +2507,10 @@
 <link>http://www.gesetze-im-internet.de/basl_bkg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Ermächtigung zum Erlass von Prüfungsordnungen durch das Bundesamt für Soziale Sicherung</title>
+<link>http://www.gesetze-im-internet.de/baspoermv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz</title>
 <link>http://www.gesetze-im-internet.de/bastrlschg/xml.zip</link>
 </item>
@@ -3473,6 +3477,10 @@
 <item>
 <title>Gesetz zur Änderung des Bewertungsgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bewg_ndg/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Neufassung der Anlagen 27 bis 33 des Bewertungsgesetzes</title>
+<link>http://www.gesetze-im-internet.de/bewganl27bis33neufv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Durchführung des § 122 Abs. 3 des Bewertungsgesetzes</title>
@@ -19287,6 +19295,10 @@
 <link>http://www.gesetze-im-internet.de/rsav/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Geschäftsorganisation des Reisesicherungsfonds und die Voraussetzungen der Erteilung der Erlaubnis</title>
+<link>http://www.gesetze-im-internet.de/rsfv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds</title>
 <link>http://www.gesetze-im-internet.de/rsg/xml.zip</link>
 </item>
@@ -25163,20 +25175,12 @@
 <link>http://www.gesetze-im-internet.de/wp_ganwendv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Zusammensetzung, die Bestellung der Mitglieder und das Verfahren des Beirats bei der Bundesanstalt für Finanzdienstleistungsaufsicht</title>
-<link>http://www.gesetze-im-internet.de/wp_gbeirv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über den Zeitpunkt sowie den Inhalt und die Form der Mitteilung und der Veröffentlichung der Entscheidung einer Zielgesellschaft nach § 1 Abs. 5 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes</title>
 <link>http://www.gesetze-im-internet.de/wp_gbmv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz</title>
 <link>http://www.gesetze-im-internet.de/wp_ggebv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Zusammensetzung und das Verfahren des Widerspruchsausschusses bei der Bundesanstalt für Finanzdienstleistungsaufsicht</title>
-<link>http://www.gesetze-im-internet.de/wp_gwidv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Durchsetzung von Kostenforderungen aus dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks</title>
