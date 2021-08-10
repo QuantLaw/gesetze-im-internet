@@ -27,14 +27,15 @@ Ebenfalls können die Commit-Messages im Branch 'Data' genutzt werden.
 Ab Mai 2020 geschieht die Archivierung grundsätzlich täglich.
 Das Archiv reicht bis zum 10. Juni 2019 zurück. 
 Für diesen Zeitraum stehen wöchentliche Versionen bereit.
-Die Archivierung geschieht transparent mittels Docker. Das genutzte Skript ist in diesem Repository im Master-Branch enthalten.
+Die Archivierung geschieht transparent mittels Docker. 
+Das genutzte Skript ist in diesem Repository im Master-Branch enthalten.
 
 ### Archivierungsprozess
 
-Die Archivierung basiert auf dem Inhaltsverzeichnis von Gesetze im Internet, dass als XML-Datei bereitgestellt wird. 
+Die Archivierung basiert auf dem Inhaltsverzeichnis von Gesetze im Internet, das als XML-Datei bereitgestellt wird. 
 (Siehe https://www.gesetze-im-internet.de/hinweise.html für nähere Informationen.)
-Es werden alle genannten Gesetze heruntergeladen und entpackt. Sofern sich ihr Inhalt geändert hat, 
-wird die neue Version zum Repository hinzugefügt.
+Es werden alle genannten Gesetze heruntergeladen und entpackt. 
+Sofern sich ihr Inhalt geändert hat, wird die neue Version zum Repository hinzugefügt.
 
 In seltenen Fällen ist eine im Inhaltsverzeichnis aufgeführte Datei auf dem Server nicht verfügbar. 
 Solche eine Datei wird ausgelassen und unter `data/not_found.txt` im jeweiligen Commit dokumentiert. 
