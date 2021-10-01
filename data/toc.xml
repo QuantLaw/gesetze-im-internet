@@ -551,10 +551,6 @@
 <link>http://www.gesetze-im-internet.de/begdv_6/xml.zip</link>
 </item>
 <item>
-<title>Sechste Verordnung über zwingende Arbeitsbedingungen im Gerüstbauer-Handwerk</title>
-<link>http://www.gesetze-im-internet.de/ger_stbarbbv_6/xml.zip</link>
-</item>
-<item>
 <title>Sechste Verordnung zum Produktsicherheitsgesetz 1</title>
 <link>http://www.gesetze-im-internet.de/prodsg2011v_6/xml.zip</link>
 </item>
@@ -569,6 +565,10 @@
 <item>
 <title>Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bimschv_7/xml.zip</link>
+</item>
+<item>
+<title>Siebte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauer-Handwerk</title>
+<link>http://www.gesetze-im-internet.de/ger_stbarbbv_7/xml.zip</link>
 </item>
 <item>
 <title>Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung</title>
@@ -621,6 +621,10 @@
 <item>
 <title>Gesetz zur Begrenzung der Arzneimittelausgaben der gesetzlichen Krankenversicherung</title>
 <link>http://www.gesetze-im-internet.de/aabg/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung des Auswärtigen Amts für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich</title>
+<link>http://www.gesetze-im-internet.de/aabgebv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung</title>
@@ -685,10 +689,6 @@
 <item>
 <title>Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen 1) und des Basler Übereinkommens vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung 2)</title>
 <link>http://www.gesetze-im-internet.de/abfverbrg_2007/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Erhebung von Gebühren bei notifizierungsbedürftigen Verbringungen von Abfällen durch die Bundesrepublik Deutschland</title>
-<link>http://www.gesetze-im-internet.de/abfverbrgebv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages</title>
@@ -1127,14 +1127,6 @@
 <link>http://www.gesetze-im-internet.de/aknv/xml.zip</link>
 </item>
 <item>
-<title>Auslandskostengesetz</title>
-<link>http://www.gesetze-im-internet.de/akostg/xml.zip</link>
-</item>
-<item>
-<title>Auslandskostenverordnung</title>
-<link>http://www.gesetze-im-internet.de/akostv_2002/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zu dem Vierten AKP-EWG-Abkommen von Lome vom 15. Dezember 1989 sowie zu den mit diesem Abkommen in Zusammenhang stehenden Abkommen</title>
 <link>http://www.gesetze-im-internet.de/akp_ewgabk4g/xml.zip</link>
 </item>
@@ -1327,10 +1319,6 @@
 <link>http://www.gesetze-im-internet.de/amgblauzausnv/xml.zip</link>
 </item>
 <item>
-<title>Kostenverordnung für die Zulassung und Registrierung von Arzneimitteln durch das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit</title>
-<link>http://www.gesetze-im-internet.de/amgkostv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei sowie der Bereitschaftspolizeien der Länder</title>
 <link>http://www.gesetze-im-internet.de/amg1976zsausnv/xml.zip</link>
 </item>
@@ -1477,10 +1465,6 @@
 <item>
 <title>Gesetz gegen Doping im Sport</title>
 <link>http://www.gesetze-im-internet.de/antidopg/xml.zip</link>
-</item>
-<item>
-<title>Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz vom 22. September 1994</title>
-<link>http://www.gesetze-im-internet.de/antkostv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes</title>
@@ -1813,10 +1797,6 @@
 <item>
 <title>Verordnung zur Bestimmung der zuständigen Behörde nach § 17b Absatz 4 des Arbeitnehmerüberlassungsgesetzes</title>
 <link>http://www.gesetze-im-internet.de/a_gmeldstellv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Kosten der Erlaubnis zur Arbeitnehmerüberlassung</title>
-<link>http://www.gesetze-im-internet.de/a_kostv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes</title>
@@ -2375,6 +2355,10 @@
 <link>http://www.gesetze-im-internet.de/b_oua_ndg_2004/xml.zip</link>
 </item>
 <item>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen des Bundesamts für Wirtschaft und Ausfuhrkontrolle</title>
+<link>http://www.gesetze-im-internet.de/bafabgebv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Errichtung des Bundesaufsichtsamtes für Flugsicherung</title>
 <link>http://www.gesetze-im-internet.de/bafg/xml.zip</link>
 </item>
@@ -2421,10 +2405,6 @@
 <item>
 <title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesarbeitsgerichts in Angelegenheiten nach der Bundesbeihilfeverordnung</title>
 <link>http://www.gesetze-im-internet.de/bagbeihzustano/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Gebühren und Auslagen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle im Zusammenhang mit der Begrenzung der EEG-Umlage</title>
-<link>http://www.gesetze-im-internet.de/bagebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Güterverkehr</title>
@@ -2493,10 +2473,6 @@
 <item>
 <title>Gesetz über die Nutzung und Sicherung von Archivgut des Bundes</title>
 <link>http://www.gesetze-im-internet.de/barchg_2017/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Kosten beim Bundesarchiv</title>
-<link>http://www.gesetze-im-internet.de/barchkostv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Prüfung von Bargeld</title>
@@ -3603,10 +3579,6 @@
 <link>http://www.gesetze-im-internet.de/bfnatschg/xml.zip</link>
 </item>
 <item>
-<title>Kostenverordnung für Amtshandlungen des Bundesamtes für Naturschutz</title>
-<link>http://www.gesetze-im-internet.de/bnatschgkostv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten</title>
 <link>http://www.gesetze-im-internet.de/bf_v/xml.zip</link>
 </item>
@@ -3649,10 +3621,6 @@
 <item>
 <title>Gesetz über Gebühren und Auslagen des Bundes</title>
 <link>http://www.gesetze-im-internet.de/bgebg/xml.zip</link>
-</item>
-<item>
-<title>Bundeskostenverordnung zum Gentechnikgesetz</title>
-<link>http://www.gesetze-im-internet.de/bgentgkostv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die geodätischen Referenzsysteme, -netze und geotopographischen Referenzdaten des Bundes</title>
@@ -3743,20 +3711,12 @@
 <link>http://www.gesetze-im-internet.de/bgsvvermg/xml.zip</link>
 </item>
 <item>
-<title>Gebührenverordnung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation</title>
-<link>http://www.gesetze-im-internet.de/bgvgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Durchführung übertragener Aufgaben durch die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation</title>
 <link>http://www.gesetze-im-internet.de/bgvpltaufgdv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation</title>
 <link>http://www.gesetze-im-internet.de/bgvplterg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Abgaben in den bundeseigenen Häfen im Geltungsbereich der Seeschifffahrtsstraßen-Ordnung</title>
-<link>http://www.gesetze-im-internet.de/bhfabgv/xml.zip</link>
 </item>
 <item>
 <title>Bundeshaushaltsordnung</title>
@@ -3915,10 +3875,6 @@
 <link>http://www.gesetze-im-internet.de/binschgerg/xml.zip</link>
 </item>
 <item>
-<title>Kostenverordnung der Wasserstraßen- und Schifffahrtsverwaltung auf dem Gebiet der Binnenschifffahrt</title>
-<link>http://www.gesetze-im-internet.de/binschkostv_2002/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen</title>
 <link>http://www.gesetze-im-internet.de/binschlotsvergv_2012/xml.zip</link>
 </item>
@@ -3935,16 +3891,16 @@
 <link>http://www.gesetze-im-internet.de/binschpatentv_1998/xml.zip</link>
 </item>
 <item>
-<title>Dritte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung</title>
-<link>http://www.gesetze-im-internet.de/binschpatentv1998abwv_3/xml.zip</link>
-</item>
-<item>
 <title>Vierte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung</title>
 <link>http://www.gesetze-im-internet.de/binschpatentv1998abwv_4/xml.zip</link>
 </item>
 <item>
 <title>Fünfte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung</title>
 <link>http://www.gesetze-im-internet.de/binschpatentv1998abwv_5/xml.zip</link>
+</item>
+<item>
+<title>Sechste Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung</title>
+<link>http://www.gesetze-im-internet.de/binschpatentv1998abwv_6/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Sicherstellung des Binnenschiffsverkehrs</title>
@@ -4039,10 +3995,6 @@
 <link>http://www.gesetze-im-internet.de/biomathintv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach der Biomassestrom-Nachhaltigkeitsverordnung und der Biokraftstoff-Nachhaltigkeitsverordnung</title>
-<link>http://www.gesetze-im-internet.de/bionachgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger Biomasse zur Stromerzeugung*)</title>
 <link>http://www.gesetze-im-internet.de/biost-nachv/xml.zip</link>
 </item>
@@ -4091,10 +4043,6 @@
 <link>http://www.gesetze-im-internet.de/bkatv_2013/xml.zip</link>
 </item>
 <item>
-<title>Besondere Gebührenverordnung der Beschlusskammern Post und Telekommunikation der Bundesnetzagentur</title>
-<link>http://www.gesetze-im-internet.de/bkgebv/xml.zip</link>
-</item>
-<item>
 <title>Bundeskindergeldgesetz</title>
 <link>http://www.gesetze-im-internet.de/bkgg_1996/xml.zip</link>
 </item>
@@ -4113,6 +4061,10 @@
 <item>
 <title>Bekanntmachung der Bezeichnung der Beauftragten der Bundesregierung für Kultur und Medien</title>
 <link>http://www.gesetze-im-internet.de/bkmbek/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung der Beauftragten der Bundesregierung für Kultur und Medien</title>
+<link>http://www.gesetze-im-internet.de/bkmbgebv/xml.zip</link>
 </item>
 <item>
 <title>Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien</title>
@@ -4303,10 +4255,6 @@
 <link>http://www.gesetze-im-internet.de/bleg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Kosten für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Abs. 2 des Öko-Landbaugesetzes</title>
-<link>http://www.gesetze-im-internet.de/ble_lgkostv/xml.zip</link>
-</item>
-<item>
 <title>Satzung der Bundesanstalt für Landwirtschaft und Ernährung</title>
 <link>http://www.gesetze-im-internet.de/bles/xml.zip</link>
 </item>
@@ -4343,6 +4291,10 @@
 <link>http://www.gesetze-im-internet.de/blv_2009/xml.zip</link>
 </item>
 <item>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Arbeit und Soziales für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich</title>
+<link>http://www.gesetze-im-internet.de/bmasbgebv/xml.zip</link>
+</item>
+<item>
 <title>Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales</title>
 <link>http://www.gesetze-im-internet.de/bmasernano/xml.zip</link>
 </item>
@@ -4353,6 +4305,10 @@
 <item>
 <title>Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*</title>
 <link>http://www.gesetze-im-internet.de/bmausv/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich</title>
+<link>http://www.gesetze-im-internet.de/bmelbgebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder</title>
@@ -4393,6 +4349,10 @@
 <item>
 <title>Bundesmeldegesetz</title>
 <link>http://www.gesetze-im-internet.de/bmg/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Gesundheit für die individuell zurechenbaren Leistungen in seinem Zuständigkeitsbereich</title>
+<link>http://www.gesetze-im-internet.de/bmgbgebv/xml.zip</link>
 </item>
 <item>
 <title>Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung</title>
@@ -4603,6 +4563,10 @@
 <link>http://www.gesetze-im-internet.de/tierseuchschbmv/xml.zip</link>
 </item>
 <item>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich</title>
+<link>http://www.gesetze-im-internet.de/bmubgebv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur</title>
 <link>http://www.gesetze-im-internet.de/bmvbsbnichtrschgzustv/xml.zip</link>
 </item>
@@ -4681,6 +4645,14 @@
 <item>
 <title>Gesetz über den Bundesnachrichtendienst</title>
 <link>http://www.gesetze-im-internet.de/bndg/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen für Frequenzzuteilungen</title>
+<link>http://www.gesetze-im-internet.de/bnetzafreqzutbgebv/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur</title>
+<link>http://www.gesetze-im-internet.de/bnetzabgebv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Einführung eines Rauchverbotes in Einrichtungen des Bundes und öffentlichen Verkehrsmitteln</title>
@@ -5523,10 +5495,6 @@
 <link>http://www.gesetze-im-internet.de/btmg_1981/xml.zip</link>
 </item>
 <item>
-<title>Betäubungsmittel-Kostenverordnung</title>
-<link>http://www.gesetze-im-internet.de/btmkostv_2009/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von Betäubungsmitteln</title>
 <link>http://www.gesetze-im-internet.de/btmvv_1998/xml.zip</link>
 </item>
@@ -5979,10 +5947,6 @@
 <link>http://www.gesetze-im-internet.de/chemklimaschutzv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Kosten für Amtshandlungen der Bundesbehörden nach dem Chemikaliengesetz</title>
-<link>http://www.gesetze-im-internet.de/chemkostv_1994/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über Stoffe, die die Ozonschicht schädigen</title>
 <link>http://www.gesetze-im-internet.de/chemozonschichtv/xml.zip</link>
 </item>
@@ -6051,8 +6015,8 @@
 <link>http://www.gesetze-im-internet.de/coronameldepflerwv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie</title>
-<link>http://www.gesetze-im-internet.de/coronapflegevverlv/xml.zip</link>
+<title>Zweite Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgungwährend der durch das Coronavirus SARS-CoV-2verursachten Pandemie</title>
+<link>http://www.gesetze-im-internet.de/coronapflegevverlv_2/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2</title>
@@ -6553,10 +6517,6 @@
 <item>
 <title>Verordnung über die Berufsausbildung zum Destillateur/zur Destillateurin</title>
 <link>http://www.gesetze-im-internet.de/destausbv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Kosten für Amtshandlungen des Umweltbundesamtes nach der Verordnung (EG) Nr. 648/2004 vom 31. März 2004 über Detergenzien</title>
-<link>http://www.gesetze-im-internet.de/detergkostv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung</title>
@@ -7167,10 +7127,6 @@
 <link>http://www.gesetze-im-internet.de/eeg_2014/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Gebühren und Auslagen der Bundesnetzagentur im Zusammenhang mit ihren Aufgaben nach dem Erneuerbare-Energien-Gesetz und Ausschreibungen nach dem Kraft-Wärme-Kopplungsgesetz</title>
-<link>http://www.gesetze-im-internet.de/ffagebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz</title>
 <link>http://www.gesetze-im-internet.de/eemd-zv/xml.zip</link>
 </item>
@@ -7611,20 +7567,12 @@
 <link>http://www.gesetze-im-internet.de/emsschoabkergabkv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Gebühren und Auslagen für Amtshandlungen nach dem Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln und nach dem Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen</title>
-<link>http://www.gesetze-im-internet.de/emv-ftekostv_2013/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über Beiträge nach dem Gesetz über die elektromagnetische Verträglichkeit von Geräten für die Jahre 1999, 2000, 2001 und 2002</title>
 <link>http://www.gesetze-im-internet.de/emvbeitrv_2002/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln*</title>
 <link>http://www.gesetze-im-internet.de/emvg_2016/xml.zip</link>
-</item>
-<item>
-<title>Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Bereich des Elektromagnetische-Verträglichkeit-Gesetzes und des Funkanlagengesetzes</title>
-<link>http://www.gesetze-im-internet.de/emvg-fuag-bgebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle</title>
@@ -7677,10 +7625,6 @@
 <item>
 <title>Gesetz zur Förderung der Entgelttransparenz zwischen Frauen und Männern</title>
 <link>http://www.gesetze-im-internet.de/entgtranspg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entschädigungseinrichtung an die Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH</title>
-<link>http://www.gesetze-im-internet.de/entschbv_ffbankv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entschädigungseinrichtung an die Entschädigungseinrichtung deutscher Banken GmbH</title>
@@ -8033,10 +7977,6 @@
 <item>
 <title>EU-Fahrgastrechte-Schifffahrt-Gesetz</title>
 <link>http://www.gesetze-im-internet.de/eu-fahrgrschg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Gebühren und Auslagen für Amtshandlungen zur Durchsetzung der EU-Fahrgastrechte-Schifffahrt</title>
-<link>http://www.gesetze-im-internet.de/eu-fahrgrschgebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union in der Schifffahrt</title>
@@ -8927,10 +8867,6 @@
 <link>http://www.gesetze-im-internet.de/ffgv_1993/xml.zip</link>
 </item>
 <item>
-<title>Frequenzgebührenverordnung</title>
-<link>http://www.gesetze-im-internet.de/fgebv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit</title>
 <link>http://www.gesetze-im-internet.de/fgg-rg/xml.zip</link>
 </item>
@@ -9053,6 +8989,10 @@
 <item>
 <title>Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht</title>
 <link>http://www.gesetze-im-internet.de/findag/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung des Bundesministeriums der Finanzen zur Finanzdienstleistungsaufsicht</title>
+<link>http://www.gesetze-im-internet.de/findagebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz *)</title>
@@ -9221,10 +9161,6 @@
 <item>
 <title>Fleischgesetz*)</title>
 <link>http://www.gesetze-im-internet.de/flg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach dem Fleischgesetz</title>
-<link>http://www.gesetze-im-internet.de/flggebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin *</title>
@@ -9839,6 +9775,10 @@
 <link>http://www.gesetze-im-internet.de/gapkondg/xml.zip</link>
 </item>
 <item>
+<title>Gesetz über die Statistiken zu Gesundheitsausgaben und ihrer Finanzierung, zu Krankheitskosten sowie zum Personal im Gesundheitswesen</title>
+<link>http://www.gesetze-im-internet.de/gapstatg/xml.zip</link>
+</item>
+<item>
 <title>Anordnung über den Bau und Betrieb von Garagen</title>
 <link>http://www.gesetze-im-internet.de/garbbano/xml.zip</link>
 </item>
@@ -9999,10 +9939,6 @@
 <link>http://www.gesetze-im-internet.de/gdtwahlvdvtrg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Erhebung von Gebühren durch die Bundesprüfstelle für jugendgefährdende Medien</title>
-<link>http://www.gesetze-im-internet.de/bpjmgebo/xml.zip</link>
-</item>
-<item>
 <title>Gebührenordnung für Maßnahmen im Straßenverkehr</title>
 <link>http://www.gesetze-im-internet.de/stgebo_2011/xml.zip</link>
 </item>
@@ -10105,10 +10041,6 @@
 <item>
 <title>Gesetz über genetische Untersuchungen bei Menschen</title>
 <link>http://www.gesetze-im-internet.de/gendg/xml.zip</link>
-</item>
-<item>
-<title>Kostenverordnung für die Stellungnahmen der Gendiagnostik-Kommission nach dem Gendiagnostikgesetz</title>
-<link>http://www.gesetze-im-internet.de/gendkkostv/xml.zip</link>
 </item>
 <item>
 <title>Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I)</title>
@@ -10233,10 +10165,6 @@
 <item>
 <title>Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk</title>
 <link>http://www.gesetze-im-internet.de/gestraumprv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Kosten für bestimmte Amtshandlungen von Gesundheitseinrichtungen des Bundes</title>
-<link>http://www.gesetze-im-internet.de/kostvges/xml.zip</link>
 </item>
 <item>
 <title>Rahmenabkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich</title>
@@ -11097,10 +11025,6 @@
 <item>
 <title>Gesetz zur Überwachung des Verkehrs mit Grundstoffen, die für die unerlaubte Herstellung von Betäubungsmitteln missbraucht werden können</title>
 <link>http://www.gesetze-im-internet.de/g_g_2008/xml.zip</link>
-</item>
-<item>
-<title>Grundstoff-Kostenverordnung</title>
-<link>http://www.gesetze-im-internet.de/g_gkostv/xml.zip</link>
 </item>
 <item>
 <title>Güterkraftverkehrsgesetz</title>
@@ -12403,6 +12327,10 @@
 <link>http://www.gesetze-im-internet.de/invzulg2005dv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zum Betrieb des Implantateregisters Deutschland</title>
+<link>http://www.gesetze-im-internet.de/iregbv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz zum Implantateregister Deutschland</title>
 <link>http://www.gesetze-im-internet.de/iregg/xml.zip</link>
 </item>
@@ -13523,6 +13451,10 @@
 <link>http://www.gesetze-im-internet.de/krwg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten</title>
+<link>http://www.gesetze-im-internet.de/kryptowtransferv/xml.zip</link>
+</item>
+<item>
 <title>Künstlersozialabgabe-Verordnung 2020</title>
 <link>http://www.gesetze-im-internet.de/ksabg2020v/xml.zip</link>
 </item>
@@ -13695,10 +13627,6 @@
 <link>http://www.gesetze-im-internet.de/kvbg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Erhebung von Gebühren und Auslagen nach dem Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung</title>
-<link>http://www.gesetze-im-internet.de/kvbggebv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz über das Vermögen der Gemeinden, Städte und Landkreise</title>
 <link>http://www.gesetze-im-internet.de/kvermg/xml.zip</link>
 </item>
@@ -13749,10 +13677,6 @@
 <item>
 <title>Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung</title>
 <link>http://www.gesetze-im-internet.de/kwkg_2016/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Gebühren und Auslagen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle bei der Durchführung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung</title>
-<link>http://www.gesetze-im-internet.de/kwkg2002gebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Meldepflichten für bestimmte Kriegswaffen</title>
@@ -15031,12 +14955,12 @@
 <link>http://www.gesetze-im-internet.de/mbbo/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zur Regelung des Meeresbodenbergbaus</title>
-<link>http://www.gesetze-im-internet.de/mbergg/xml.zip</link>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Zuständigkeitsbereich Meeresbodenbergbau</title>
+<link>http://www.gesetze-im-internet.de/mbergbgebv/xml.zip</link>
 </item>
 <item>
-<title>Meeresbodenbergbau-Kostenverordnung</title>
-<link>http://www.gesetze-im-internet.de/mbergkostv/xml.zip</link>
+<title>Gesetz zur Regelung des Meeresbodenbergbaus</title>
+<link>http://www.gesetze-im-internet.de/mbergg/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Regelung des Planungsverfahrens für Magnetschwebebahnen</title>
@@ -15153,6 +15077,10 @@
 <item>
 <title>Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Metallbauer-Handwerk</title>
 <link>http://www.gesetze-im-internet.de/metallbmstrv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Meisterprüfung in den Teilen I und II im Metallblasinstrumentenmacher-Handwerk</title>
+<link>http://www.gesetze-im-internet.de/metblmstrv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik*</title>
@@ -15497,10 +15425,6 @@
 <item>
 <title>Gesetz zur Durchführung unionsrechtlicher Vorschriften betreffend Medizinprodukte</title>
 <link>http://www.gesetze-im-internet.de/mpdg/xml.zip</link>
-</item>
-<item>
-<title>Gebührenverordnung zum Medizinprodukterecht-Durchführungsgesetz und den zu seiner Ausführung ergangenen Rechtsverordnungen</title>
-<link>http://www.gesetze-im-internet.de/mpdggebv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über Medizinprodukte</title>
@@ -16767,10 +16691,6 @@
 <link>http://www.gesetze-im-internet.de/nachwv_2007/xml.zip</link>
 </item>
 <item>
-<title>Besondere Gebührenverordnung über Gebühren und Auslagen für Maßnahmen des Bundesamtes für Naturschutz nach § 2 des Gesetzes zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014</title>
-<link>http://www.gesetze-im-internet.de/nagprotbgebv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014</title>
 <link>http://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/xml.zip</link>
 </item>
@@ -17033,10 +16953,6 @@
 <item>
 <title>Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde</title>
 <link>http://www.gesetze-im-internet.de/nokanalualotsv_2003/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal</title>
-<link>http://www.gesetze-im-internet.de/nokbefabgv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord</title>
@@ -17831,10 +17747,6 @@
 <link>http://www.gesetze-im-internet.de/pdlv/xml.zip</link>
 </item>
 <item>
-<title>Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz</title>
-<link>http://www.gesetze-im-internet.de/pehrlinstkostv_1996/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts</title>
 <link>http://www.gesetze-im-internet.de/pehrlinstzustv/xml.zip</link>
 </item>
@@ -18067,10 +17979,6 @@
 <link>http://www.gesetze-im-internet.de/pflschg_2012/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Kosten des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit und des Julius Kühn-Instituts im Pflanzenschutzbereich</title>
-<link>http://www.gesetze-im-internet.de/pflschgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Prüfung von Pflanzenschutzgeräten</title>
 <link>http://www.gesetze-im-internet.de/pflschger_tv/xml.zip</link>
 </item>
@@ -18257,10 +18165,6 @@
 <item>
 <title>Verordnung über die Zuweisung der Planfeststellung für länderübergreifende und grenzüberschreitende Höchstspannungsleitungen auf die Bundesnetzagentur</title>
 <link>http://www.gesetze-im-internet.de/plfzv/xml.zip</link>
-</item>
-<item>
-<title>Post-Lizenzgebührenverordnung</title>
-<link>http://www.gesetze-im-internet.de/plgebv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Vereinfachung der Planungsverfahren für Verkehrswege</title>
@@ -18563,10 +18467,6 @@
 <link>http://www.gesetze-im-internet.de/promechg/xml.zip</link>
 </item>
 <item>
-<title>Projekt-Mechanismen-Gebührenverordnung</title>
-<link>http://www.gesetze-im-internet.de/promechgebv/xml.zip</link>
-</item>
-<item>
 <title>Erlaß über die Stiftung der PRO MUSICA-Plakette</title>
 <link>http://www.gesetze-im-internet.de/promusplerl/xml.zip</link>
 </item>
@@ -18673,10 +18573,6 @@
 <item>
 <title>Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten</title>
 <link>http://www.gesetze-im-internet.de/pta-aprv/xml.zip</link>
-</item>
-<item>
-<title>Kostenverordnung für Nutzleistungen der Physikalisch-Technischen Bundesanstalt</title>
-<link>http://www.gesetze-im-internet.de/ptbakosto/xml.zip</link>
 </item>
 <item>
 <title>Besondere Gebührenverordnung für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt</title>
@@ -19197,10 +19093,6 @@
 <item>
 <title>Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Bau einer Straßenbrücke über den Rhein zwischen Weil am Rhein und Hüningen</title>
 <link>http://www.gesetze-im-internet.de/rheinstrbr_ckvtr/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Kosten des Verfahrens im Rahmen der Festsetzung der Rückstandshöchstgehalte in Lebens- und Futtermitteln</title>
-<link>http://www.gesetze-im-internet.de/rhg-gebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Zuständigkeit des Deutschen Patentamts für die Übermittlung von Rechtshilfeersuchen des Europäischen Patentamts</title>
@@ -19729,10 +19621,6 @@
 <item>
 <title>Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten</title>
 <link>http://www.gesetze-im-internet.de/satdsig/xml.zip</link>
-</item>
-<item>
-<title>Gebührenverordnung zum Satellitendatensicherheitsgesetz</title>
-<link>http://www.gesetze-im-internet.de/satdsigebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zum Satellitendatensicherheitsgesetz</title>
@@ -20267,10 +20155,6 @@
 <link>http://www.gesetze-im-internet.de/seebewachdv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Gebühren und Auslagen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle im Zusammenhang mit der Zulassung von Bewachungsunternehmen auf Seeschiffen</title>
-<link>http://www.gesetze-im-internet.de/seebewachgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Zulassung von Bewachungsunternehmen auf Seeschiffen</title>
 <link>http://www.gesetze-im-internet.de/seebewachv/xml.zip</link>
 </item>
@@ -20465,6 +20349,10 @@
 <item>
 <title>Verordnung über die unentgeltliche Beförderung von Soldatinnen und Soldaten in öffentlichen Eisenbahnen bei Privatfahrten</title>
 <link>http://www.gesetze-im-internet.de/seffv/xml.zip</link>
+</item>
+<item>
+<title>Gesetz über die Entschädigung der Soldatinnen und Soldaten</title>
+<link>http://www.gesetze-im-internet.de/seg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Segelmacher und zur Segelmacherin *)</title>
@@ -20825,6 +20713,10 @@
 <item>
 <title>Verordnung zur Verlängerung des besonderen Sicherstellungsauftrags nach dem Sozialdienstleister-Einsatzgesetz</title>
 <link>http://www.gesetze-im-internet.de/sodegverlv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Vergabe von sonstigen Energiegewinnungsbereichen in der ausschließlichen Wirtschaftszone</title>
+<link>http://www.gesetze-im-internet.de/soenergiev/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin</title>
@@ -21975,10 +21867,6 @@
 <link>http://www.gesetze-im-internet.de/stug/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Kosten beim Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik</title>
-<link>http://www.gesetze-im-internet.de/stukostv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik und zur Fachkraft für Wasserwirtschaft</title>
 <link>http://www.gesetze-im-internet.de/stv_wasausbv/xml.zip</link>
 </item>
@@ -22113,10 +22001,6 @@
 <item>
 <title>Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen</title>
 <link>http://www.gesetze-im-internet.de/stzg/xml.zip</link>
-</item>
-<item>
-<title>Kostenverordnung zum Stammzellgesetz</title>
-<link>http://www.gesetze-im-internet.de/stzg-kostv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten der Bundeswehr</title>
@@ -22627,10 +22511,6 @@
 <link>http://www.gesetze-im-internet.de/tiergesg/xml.zip</link>
 </item>
 <item>
-<title>Tierimpfstoff-Kostenverordnung</title>
-<link>http://www.gesetze-im-internet.de/tierimpfstkostv_2010/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz</title>
 <link>http://www.gesetze-im-internet.de/tierimpfstv_2006/xml.zip</link>
 </item>
@@ -22751,10 +22631,6 @@
 <link>http://www.gesetze-im-internet.de/tkg_2004/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Telekommunikationsgebühren</title>
-<link>http://www.gesetze-im-internet.de/tkgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin*)</title>
 <link>http://www.gesetze-im-internet.de/tkonfausbv_2010/xml.zip</link>
 </item>
@@ -22777,10 +22653,6 @@
 <item>
 <title>Telemediengesetz</title>
 <link>http://www.gesetze-im-internet.de/tmg/xml.zip</link>
-</item>
-<item>
-<title>Telekommunikations-Nummerngebührenverordnung</title>
-<link>http://www.gesetze-im-internet.de/tngebv/xml.zip</link>
 </item>
 <item>
 <title>Telekommunikations-Nummerierungsverordnung</title>
@@ -22899,10 +22771,6 @@
 <link>http://www.gesetze-im-internet.de/trgebv_2020/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Gebühren und Auslagen für individuell zurechenbare Leistungen des Umweltbundesamtes nach der Trinkwasserverordnung</title>
-<link>http://www.gesetze-im-internet.de/trinkwgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Qualität von Wasser für den menschlichen Gebrauch 1, 2</title>
 <link>http://www.gesetze-im-internet.de/trinkwv_2001/xml.zip</link>
 </item>
@@ -22979,8 +22847,8 @@
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_abfall_8/xml.zip</link>
 </item>
 <item>
-<title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. September 2020</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohn_ger_stb_6/xml.zip</link>
+<title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. Juni 2021</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohn_ger_stb_7/xml.zip</link>
 </item>
 <item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021</title>
@@ -23871,10 +23739,6 @@
 <link>http://www.gesetze-im-internet.de/vermsammlg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Gebühren für Amtshandlungen betreffend Verkaufsprospekte für Vermögensanlagen nach dem Vermögensanlagengesetz</title>
-<link>http://www.gesetze-im-internet.de/vermverkprospgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über Vermögensanlagen-Verkaufsprospekte</title>
 <link>http://www.gesetze-im-internet.de/vermverkprospv/xml.zip</link>
 </item>
@@ -24627,10 +24491,6 @@
 <link>http://www.gesetze-im-internet.de/wastrg/xml.zip</link>
 </item>
 <item>
-<title>Kostenverordnung zum Bundeswasserstraßengesetz</title>
-<link>http://www.gesetze-im-internet.de/wastrg-kostv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen</title>
 <link>http://www.gesetze-im-internet.de/wastrganlermv/xml.zip</link>
 </item>
@@ -25227,10 +25087,6 @@
 <link>http://www.gesetze-im-internet.de/wppg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Erhebung von Gebühren nach dem Wertpapierprospektgesetz</title>
-<link>http://www.gesetze-im-internet.de/wppgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Durchführung und Ergänzung des Gesetzes zum Schutze des Wappens der Schweizerischen Eidgenossenschaft</title>
 <link>http://www.gesetze-im-internet.de/wpschchegdv/xml.zip</link>
 </item>
@@ -25249,10 +25105,6 @@
 <item>
 <title>Verordnung über den Zeitpunkt sowie den Inhalt und die Form der Mitteilung und der Veröffentlichung der Entscheidung einer Zielgesellschaft nach § 1 Abs. 5 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes</title>
 <link>http://www.gesetze-im-internet.de/wp_gbmv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz</title>
-<link>http://www.gesetze-im-internet.de/wp_ggebv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Durchsetzung von Kostenforderungen aus dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks</title>
@@ -25321,10 +25173,6 @@
 <item>
 <title>Einführungsgesetz zum Wehrstrafgesetz</title>
 <link>http://www.gesetze-im-internet.de/wstrgeg/xml.zip</link>
-</item>
-<item>
-<title>Kostenverordnung für Amtshandlungen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt</title>
-<link>http://www.gesetze-im-internet.de/wsvseekostv_2004/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Anpassung von Zuständigkeiten der Wasser- und Schiffahrtsdirektionen an die Neuordnung der Wasser- und Schiffahrtsverwaltung des Bundes</title>
@@ -26453,10 +26301,6 @@
 <item>
 <title>Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2008 bis 2012</title>
 <link>http://www.gesetze-im-internet.de/zug_2012/xml.zip</link>
-</item>
-<item>
-<title>Kostenverordnung für die Zulassung von Meßgeräten zur Eichung</title>
-<link>http://www.gesetze-im-internet.de/zulkostv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin*</title>
