@@ -4308,7 +4308,7 @@
 </item>
 <item>
 <title>Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales</title>
-<link>http://www.gesetze-im-internet.de/bmasernano/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/bmasernano_2021/xml.zip</link>
 </item>
 <item>
 <title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes</title>
@@ -15155,10 +15155,6 @@
 <link>http://www.gesetze-im-internet.de/mfkregv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Vorausschau zum Mobilfunknetzausbau nach dem Telekommunikationsgesetz</title>
-<link>http://www.gesetze-im-internet.de/mfnvv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz über die Durchführung wissenschaftlicher Meeresforschung</title>
 <link>http://www.gesetze-im-internet.de/mforschg/xml.zip</link>
 </item>
@@ -16944,7 +16940,7 @@
 </item>
 <item>
 <title>Verordnung über die Festsetzung der Schleusenbetriebszeiten an der Bundeswasserstraße Neckar</title>
-<link>http://www.gesetze-im-internet.de/neckarschlbetrzv/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/neckarschlbetrzv_2021/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die rechtliche Stellung der nichtehelichen Kinder</title>
@@ -19351,6 +19347,10 @@
 <link>http://www.gesetze-im-internet.de/rsg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Erhebung eines Entgelts für die staatliche Absicherung nach dem Reisesicherungsfondsgesetz</title>
+<link>http://www.gesetze-im-internet.de/rsgabsentgv/xml.zip</link>
+</item>
+<item>
 <title>Reichssiedlungsgesetz</title>
 <link>http://www.gesetze-im-internet.de/rsiedlg/xml.zip</link>
 </item>
@@ -19461,6 +19461,10 @@
 <item>
 <title>Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2021</title>
 <link>http://www.gesetze-im-internet.de/rvbeitrsbek_2021/xml.zip</link>
+</item>
+<item>
+<title>Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2022</title>
+<link>http://www.gesetze-im-internet.de/rvbeitrsbek_2022/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See</title>
@@ -22403,6 +22407,10 @@
 <link>http://www.gesetze-im-internet.de/telefinv_2021/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2022</title>
+<link>http://www.gesetze-im-internet.de/telefinv_2022/xml.zip</link>
+</item>
+<item>
 <title>Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik</title>
 <link>http://www.gesetze-im-internet.de/telegebv/xml.zip</link>
 </item>
@@ -22708,7 +22716,11 @@
 </item>
 <item>
 <title>Telekommunikationsgesetz</title>
-<link>http://www.gesetze-im-internet.de/tkg_2004/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/tkg_2021/xml.zip</link>
+</item>
+<item>
+<title>Gesetz zur Umsetzung der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (Neufassung) und zur Modernisierung des Telekommunikationsrechts *</title>
+<link>http://www.gesetze-im-internet.de/tkmodg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin*)</title>
@@ -22889,6 +22901,10 @@
 <item>
 <title>Verordnung über die Zulassung des Befahrens der Eder- und der Diemeltalsperre sowie die Abwehr strom- und schifffahrtspolizeilicher Gefahren</title>
 <link>http://www.gesetze-im-internet.de/tspv_2013/xml.zip</link>
+</item>
+<item>
+<title>Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien *</title>
+<link>http://www.gesetze-im-internet.de/ttdsg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen</title>
@@ -24529,6 +24545,10 @@
 <item>
 <title>Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wassermeister/Geprüfte Wassermeisterin</title>
 <link>http://www.gesetze-im-internet.de/wassermeistprv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Kosten und Entgelte für den Zugang zu Wasserstoffnetzen</title>
+<link>http://www.gesetze-im-internet.de/wasserstoffnev/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserwirtschaft für Zwecke der Verteidigung</title>
