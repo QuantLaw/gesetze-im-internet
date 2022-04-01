@@ -5363,10 +5363,6 @@
 <link>http://www.gesetze-im-internet.de/bt_o/xml.zip</link>
 </item>
 <item>
-<title>Anordnung der Verwaltung des Deutschen Bundestages über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beihilfe</title>
-<link>http://www.gesetze-im-internet.de/btbeihzustano/xml.zip</link>
-</item>
-<item>
 <title>Bekanntmachung über die Arbeitsfähigkeit des Deutschen Bundestages in Berlin</title>
 <link>http://www.gesetze-im-internet.de/btberlinbek/xml.zip</link>
 </item>
@@ -5501,6 +5497,10 @@
 <item>
 <title>Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer Amtsbezeichnung</title>
 <link>http://www.gesetze-im-internet.de/btpr_samtsbezano/xml.zip</link>
+</item>
+<item>
+<title>Anordnung zur Übertragung von Zuständigkeiten der Verwaltung des Deutschen Bundestages im Widerspruchsverfahren und über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beihilfe und der Heilfürsorge</title>
+<link>http://www.gesetze-im-internet.de/btvbhhfzustano/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)</title>
@@ -6011,6 +6011,10 @@
 <link>http://www.gesetze-im-internet.de/coronameldepflerwv/xml.zip</link>
 </item>
 <item>
+<title>Dritte Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie</title>
+<link>http://www.gesetze-im-internet.de/coronapflegevverlv_3/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2</title>
 <link>http://www.gesetze-im-internet.de/corsurv/xml.zip</link>
 </item>
@@ -6027,20 +6031,8 @@
 <link>http://www.gesetze-im-internet.de/cov19gewstausglg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Abweichung von der Approbationsordnung für Apotheker im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen</title>
-<link>http://www.gesetze-im-internet.de/covaappoabwv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Abweichung von der Approbationsordnung für Ärzte im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen</title>
-<link>http://www.gesetze-im-internet.de/cov_appro2002abwv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz</title>
 <link>http://www.gesetze-im-internet.de/covinsag/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Abweichung von den Approbationsordnungen für Zahnärzte und für Zahnärzte und Zahnärztinnen im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen</title>
-<link>http://www.gesetze-im-internet.de/covzapproabwv/xml.zip</link>
 </item>
 <item>
 <title>Internationales Übereinkommen über sichere Container</title>
@@ -13603,10 +13595,6 @@
 <link>http://www.gesetze-im-internet.de/k_stmprokbek/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Bezugsdauer und Verlängerung der Erleichterungen der Kurzarbeit</title>
-<link>http://www.gesetze-im-internet.de/kugverlv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Gewährung von Vorrechten und Befreiungen an die &quot;Internationale Studienzentrale für die Erhaltung und Restaurierung von Kulturgut&quot; in Rom</title>
 <link>http://www.gesetze-im-internet.de/kulterhstudzvorrv/xml.zip</link>
 </item>
@@ -18185,6 +18173,10 @@
 <item>
 <title>Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG</title>
 <link>http://www.gesetze-im-internet.de/pkdbv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Erstattung pandemiebedingter Kosten der sozialen Pflegeversicherung durch Bundesmittel</title>
+<link>http://www.gesetze-im-internet.de/pkev_2022/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes</title>
