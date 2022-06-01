@@ -103,10 +103,6 @@
 <link>http://www.gesetze-im-internet.de/bimschv_10_2010/xml.zip</link>
 </item>
 <item>
-<title>Zehnte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk</title>
-<link>http://www.gesetze-im-internet.de/malerarbbv_10/xml.zip</link>
-</item>
-<item>
 <title>Zehnte Verordnung zum Produktsicherheitsgesetz</title>
 <link>http://www.gesetze-im-internet.de/prodsg2011v_10/xml.zip</link>
 </item>
@@ -7635,7 +7631,7 @@
 <link>http://www.gesetze-im-internet.de/entschdtbankv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH</title>
+<title>Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH</title>
 <link>http://www.gesetze-im-internet.de/entschfinv/xml.zip</link>
 </item>
 <item>
@@ -7705,10 +7701,6 @@
 <item>
 <title>Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen während einer epidemischen Lage von nationaler Tragweite</title>
 <link>http://www.gesetze-im-internet.de/epigesausbsichv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Beschaffung von Medizinprodukten und persönlicher Schutzausrüstung bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie</title>
-<link>http://www.gesetze-im-internet.de/epimpupsabeschv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Abweichung von der Approbationsordnung für Zahnärzte bei einer epidemischen Lage von nationaler Tragweite</title>
@@ -14015,6 +14007,10 @@
 <link>http://www.gesetze-im-internet.de/lmzdv/xml.zip</link>
 </item>
 <item>
+<title>Gesetz zur Beschleunigung des Einsatzes verflüssigten Erdgases</title>
+<link>http://www.gesetze-im-internet.de/lngg/xml.zip</link>
+</item>
+<item>
 <title>Gesetz zur Einführung eines Lobbyregisters für die Interessenvertretung gegenüber dem Deutschen Bundestag und gegenüber der Bundesregierung</title>
 <link>http://www.gesetze-im-internet.de/lobbyrg/xml.zip</link>
 </item>
@@ -17969,6 +17965,10 @@
 <item>
 <title>Bekanntmachung zu den Pfändungsfreigrenzen 2021 nach § 850c der Zivilprozessordnung</title>
 <link>http://www.gesetze-im-internet.de/pf_ndfreigrbek_2021/xml.zip</link>
+</item>
+<item>
+<title>Bekanntmachung zu den Pfändungsfreigrenzen 2022 nach § 850c der Zivilprozessordnung</title>
+<link>http://www.gesetze-im-internet.de/pf_ndfreigrbek_2022/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, Öffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken</title>
@@ -22997,10 +22997,6 @@
 <item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. Juni 2021</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_ger_stb_7/xml.zip</link>
-</item>
-<item>
-<title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohn_maler_10/xml.zip</link>
 </item>
 <item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)</title>
