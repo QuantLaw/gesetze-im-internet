@@ -571,16 +571,8 @@
 <link>http://www.gesetze-im-internet.de/rag_7/xml.zip</link>
 </item>
 <item>
-<title>Achte Verordnung über zwingende Arbeitsbedingungen für die Abfallwirtschaft einschließlich Straßenreinigung und Winterdienst</title>
-<link>http://www.gesetze-im-internet.de/abfallarbbv_8/xml.zip</link>
-</item>
-<item>
 <title>Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)</title>
 <link>http://www.gesetze-im-internet.de/lag_ndg_8/xml.zip</link>
-</item>
-<item>
-<title>Achte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung</title>
-<link>http://www.gesetze-im-internet.de/geb_udearbbv8/xml.zip</link>
 </item>
 <item>
 <title>Achte Verordnung über Änderungen des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu diesem Übereinkommen</title>
@@ -597,6 +589,10 @@
 <item>
 <title>Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bimschv_9/xml.zip</link>
+</item>
+<item>
+<title>Neunte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung</title>
+<link>http://www.gesetze-im-internet.de/geb_udearbbv9/xml.zip</link>
 </item>
 <item>
 <title>Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)</title>
@@ -6007,6 +6003,10 @@
 <link>http://www.gesetze-im-internet.de/contstifg/xml.zip</link>
 </item>
 <item>
+<title>SARS-CoV-2-Arbeitsschutzverordnung</title>
+<link>http://www.gesetze-im-internet.de/corona-arbschv_2022-10/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2</title>
 <link>http://www.gesetze-im-internet.de/coronaeinreisev_2021-09/xml.zip</link>
 </item>
@@ -7607,6 +7607,10 @@
 <link>http://www.gesetze-im-internet.de/ensikumav/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Sicherung der Energieversorgung über mittelfristig wirksame Maßnahmen</title>
+<link>http://www.gesetze-im-internet.de/ensimimav/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur priorisierten Abwicklung von schienengebundenen Energieträgertransporten zur Sicherung der Energieversorgung</title>
 <link>http://www.gesetze-im-internet.de/ensitrv/xml.zip</link>
 </item>
@@ -8149,6 +8153,10 @@
 <item>
 <title>Beschluß Nr. 8/93 des Obersten Rates vom 2. Dezember 1993 zur Änderung des Artikels 37 der Gemeinsamen Vorschriften für das Lehrpersonal und das Verwaltungspersonal des Europäischen Hochschulinstituts</title>
 <link>http://www.gesetze-im-internet.de/euhschulbeschl_8_93/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über den automatisierten Abruf von Daten der Familienkassen durch Mitgliedstaaten der Europäischen Union</title>
+<link>http://www.gesetze-im-internet.de/eukigabv/xml.zip</link>
 </item>
 <item>
 <title>Europäisches Übereinkommen über die theoretische und praktische Ausbildung von Krankenschwestern und Krankenpflegern</title>
@@ -15289,10 +15297,6 @@
 <item>
 <title>Verordnung über Meldepflichten nach dem Mindestlohngesetz, dem Arbeitnehmer-Entsendegesetz und dem Arbeitnehmerüberlassungsgesetz</title>
 <link>http://www.gesetze-im-internet.de/milomeldv/xml.zip</link>
-</item>
-<item>
-<title>Dritte Verordnung zur Anpassung der Höhe des Mindestlohns</title>
-<link>http://www.gesetze-im-internet.de/milov3/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Militärseelsorge</title>
@@ -23087,10 +23091,6 @@
 <link>http://www.gesetze-im-internet.de/tvmindestbedingungen_flwi_2/xml.zip</link>
 </item>
 <item>
-<title>Rechtsnormen des Mindestlohntarifvertrags für die Branche Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011, 6. März 2012, 15. Oktober 2012, 24. Juni 2014, 19. Mai 2015 und 29. Mai 2019</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohn_abfall_8/xml.zip</link>
-</item>
-<item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. Juni 2021</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_ger_stb_7/xml.zip</link>
 </item>
@@ -23103,8 +23103,8 @@
 <link>http://www.gesetze-im-internet.de/tvmindestlohndachd_11/xml.zip</link>
 </item>
 <item>
-<title>Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 4. November 2020</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2020/xml.zip</link>
+<title>Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Juni 2022</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2022/xml.zip</link>
 </item>
 <item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019</title>
