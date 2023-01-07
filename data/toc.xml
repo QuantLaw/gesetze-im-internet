@@ -1319,10 +1319,6 @@
 <link>http://www.gesetze-im-internet.de/amgbefugv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Ausnahmen von § 56a des Arzneimittelgesetzes zum Schutz vor der Blauzungenkrankheit</title>
-<link>http://www.gesetze-im-internet.de/amgblauzausnv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder sowie der Aufgaben des Bundesministeriums für Gesundheit nach § 79 Absatz 4a des Arzneimittelgesetzes</title>
 <link>http://www.gesetze-im-internet.de/amg1976zsausnv/xml.zip</link>
 </item>
@@ -1377,10 +1373,6 @@
 <item>
 <title>Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel</title>
 <link>http://www.gesetze-im-internet.de/amverkrv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung mit arzneimittelrechtlichen Vorschriften über die Arzneimittelverwendung in landwirtschaftlichen Betrieben</title>
-<link>http://www.gesetze-im-internet.de/amvlbv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und in handwerksähnlichen Gewerben</title>
@@ -1461,6 +1453,10 @@
 <item>
 <title>Gesetz zum Antarktis-Vertrag vom 1. Dezember 1959</title>
 <link>http://www.gesetze-im-internet.de/antarktvtrg/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Verwendung antibiotisch wirksamer Arzneimittel</title>
+<link>http://www.gesetze-im-internet.de/abamverwv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen</title>
@@ -9017,6 +9013,10 @@
 <item>
 <title>Verordnung über die Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht</title>
 <link>http://www.gesetze-im-internet.de/findasav/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Durchführung der Erstattung von Mitteln aus der Finanzdisziplin des Europäischen Garantiefonds für die Landwirtschaft an die Empfänger von Direktzahlungen</title>
+<link>http://www.gesetze-im-internet.de/findiszerstv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft</title>
@@ -22553,14 +22553,6 @@
 <item>
 <title>Gesetz über den Verkehr mit Tierarzneimitteln und zur Durchführung unionsrechtlicher Vorschriften betreffend Tierarzneimittel 1</title>
 <link>http://www.gesetze-im-internet.de/tamg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Durchführung von Mitteilungen nach §§ 58a und 58b des Arzneimittelgesetzes</title>
-<link>http://www.gesetze-im-internet.de/tammitdurchfv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Anwendung der Arzneimittelprüfrichtlinien, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur Anwendung der Tierarzneimittelprüfrichtlinien *)</title>
-<link>http://www.gesetze-im-internet.de/tampv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Approbation von Tierärztinnen und Tierärzten</title>
