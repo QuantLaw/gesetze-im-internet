@@ -1,3 +1,4 @@
 Host *
   AddKeysToAgent yes
   IdentityFile /root/.ssh/key
+  StrictHostKeyChecking no
