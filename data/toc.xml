@@ -2896,7 +2896,7 @@
 </item>
 <item>
 <title>Bundes-Bodenschutz- und Altlastenverordnung</title>
-<link>http://www.gesetze-im-internet.de/bbodschv/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/bbodschv_2023/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über den Bundesbedarfsplan</title>
@@ -6027,10 +6027,6 @@
 <link>http://www.gesetze-im-internet.de/coronaimpfv_2021-09/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2</title>
-<link>http://www.gesetze-im-internet.de/corsurv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder</title>
 <link>http://www.gesetze-im-internet.de/cov19gewstausglg/xml.zip</link>
 </item>
@@ -6603,10 +6599,6 @@
 <link>http://www.gesetze-im-internet.de/difg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print*</title>
-<link>http://www.gesetze-im-internet.de/dig_printmedausbv_2013/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über das Verfahren und die Anforderungen zur Prüfung der Erstattungsfähigkeit digitaler Gesundheitsanwendungen in der gesetzlichen Krankenversicherung</title>
 <link>http://www.gesetze-im-internet.de/digav/xml.zip</link>
 </item>
@@ -6917,6 +6909,10 @@
 <item>
 <title>Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen 2</title>
 <link>http://www.gesetze-im-internet.de/d_v_2017/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print *</title>
+<link>http://www.gesetze-im-internet.de/dupmedausbv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Durchführung der Vorschriften über die Lohnsteuerhilfevereine</title>
@@ -7849,6 +7845,14 @@
 <item>
 <title>Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2023</title>
 <link>http://www.gesetze-im-internet.de/erpwiplang_2023/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke</title>
+<link>http://www.gesetze-im-internet.de/ersatzbaustoffv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung 1</title>
+<link>http://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Erstanzeige von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken nach dem Gesetz über das Kreditwesen</title>
@@ -9759,10 +9763,6 @@
 <link>http://www.gesetze-im-internet.de/fzgteil_bkrgl_47/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin*</title>
-<link>http://www.gesetze-im-internet.de/fzmechausbv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowie deren Kennzeichnung</title>
 <link>http://www.gesetze-im-internet.de/fztv/xml.zip</link>
 </item>
@@ -10499,6 +10499,10 @@
 <link>http://www.gesetze-im-internet.de/gii170016/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Berufsausbildung zum Gestalter für immersive Medien und zur Gestalterin für immersive Medien *</title>
+<link>http://www.gesetze-im-internet.de/gimedausbv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Förderung der Interoperabilität zwischen informationstechnischen Systemen im Gesundheitswesen*</title>
 <link>http://www.gesetze-im-internet.de/giv/xml.zip</link>
 </item>
@@ -10535,8 +10539,8 @@
 <link>http://www.gesetze-im-internet.de/glappmstrv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin</title>
-<link>http://www.gesetze-im-internet.de/glasappausbv/xml.zip</link>
+<title>Verordnung über die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin *</title>
+<link>http://www.gesetze-im-internet.de/glasappausbv_2023/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Glasbläser/zur Glasbläserin</title>
@@ -12947,6 +12951,10 @@
 <link>http://www.gesetze-im-internet.de/nkommerzwabgv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin *</title>
+<link>http://www.gesetze-im-internet.de/kfbaumechausbv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz zur Bereinigung von Kriegsfolgengesetzen</title>
 <link>http://www.gesetze-im-internet.de/kfbg/xml.zip</link>
 </item>
@@ -13651,8 +13659,8 @@
 <link>http://www.gesetze-im-internet.de/kstoffindmeistprv_2014/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik*)</title>
-<link>http://www.gesetze-im-internet.de/kstoffverfmausbv_2012/xml.zip</link>
+<title>Verordnung über die Berufsausbildung zum Kunststoff- und Kautschuktechnologen und zur Kunststoff- und Kautschuktechnologin *</title>
+<link>http://www.gesetze-im-internet.de/kstofftechausbv/xml.zip</link>
 </item>
 <item>
 <title>Künstlersozialversicherungs-Entgeltverordnung</title>
@@ -21899,8 +21907,8 @@
 <link>http://www.gesetze-im-internet.de/sterilentschaufhg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten</title>
-<link>http://www.gesetze-im-internet.de/stfachangausbv/xml.zip</link>
+<title>Verordnung über die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten*</title>
+<link>http://www.gesetze-im-internet.de/stfachangausbv_2023/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Errichtung eines Finanzmarkt- und eines Wirtschaftsstabilisierungsfonds</title>
