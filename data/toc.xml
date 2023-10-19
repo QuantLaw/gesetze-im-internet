@@ -8907,10 +8907,6 @@
 <link>http://www.gesetze-im-internet.de/feuao/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Bekämpfung der Feuerbrandkrankheit</title>
-<link>http://www.gesetze-im-internet.de/feuerbrandv_1985/xml.zip</link>
-</item>
-<item>
 <title>Feuerschutzsteuergesetz</title>
 <link>http://www.gesetze-im-internet.de/feuerschstg_1979/xml.zip</link>
 </item>
@@ -17207,10 +17203,6 @@
 <link>http://www.gesetze-im-internet.de/nelev/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Bekämpfung von Nelkenwicklern</title>
-<link>http://www.gesetze-im-internet.de/nelkenwv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über Nahrungsergänzungsmittel</title>
 <link>http://www.gesetze-im-internet.de/nemv/xml.zip</link>
 </item>
@@ -18292,7 +18284,11 @@
 </item>
 <item>
 <title>Pflanzenbeschauverordnung</title>
-<link>http://www.gesetze-im-internet.de/pflbeschauv_1989/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/pflbeschv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen vor besonderen unionsgeregelten Nicht-Quarantäneschadorganismen</title>
+<link>http://www.gesetze-im-internet.de/pflbestschv/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Pflegeberufe 1</title>
@@ -20139,10 +20135,6 @@
 <link>http://www.gesetze-im-internet.de/schanpgart11abs2abek/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Bekämpfung der Scharkakrankheit</title>
-<link>http://www.gesetze-im-internet.de/scharkav/xml.zip</link>
-</item>
-<item>
 <title>Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen der Bundesrepublik Deutschland in das Bundesschuldbuch sowie von verzinslichen Schatzanweisungen des Bundeseisenbahnvermögens in das Bundesbahnschuldbuch und von verzinslichen Schatzanweisungen der Deutschen Bundespost in das Schuldbuch der Deutschen Bundespost</title>
 <link>http://www.gesetze-im-internet.de/schatzanwbek/xml.zip</link>
 </item>
@@ -20221,10 +20213,6 @@
 <item>
 <title>Verordnung über die Ermittlung der Beleihungswerte von Schiffen und Schiffsbauwerken nach § 24 Abs. 1 bis 3 des Pfandbriefgesetzes</title>
 <link>http://www.gesetze-im-internet.de/schiffsbelwertv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Bekämpfung der San-Jose-Schildlaus</title>
-<link>http://www.gesetze-im-internet.de/schildlv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Meisterprüfung in den Teilen I und II im Schilder- und Lichtreklamehersteller-Handwerk</title>
