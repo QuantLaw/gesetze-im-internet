@@ -407,6 +407,10 @@
 <link>http://www.gesetze-im-internet.de/gebav_3/xml.zip</link>
 </item>
 <item>
+<title>Dritte Verordnung über die Bezugsdauer für das Kurzarbeitergeld</title>
+<link>http://www.gesetze-im-internet.de/kugbev_3/xml.zip</link>
+</item>
+<item>
 <title>Drittes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1960</title>
 <link>http://www.gesetze-im-internet.de/rag_3/xml.zip</link>
 </item>
@@ -473,10 +477,6 @@
 <item>
 <title>Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bimschv_4_2013/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Durchführung einer vierten Bundeswaldinventur</title>
-<link>http://www.gesetze-im-internet.de/bwaldinvv_4/xml.zip</link>
 </item>
 <item>
 <title>Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung und Betrieb von Heißluftballonen und Heißluft-Luftschiffen)</title>
@@ -613,10 +613,6 @@
 <item>
 <title>Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bimschv_9/xml.zip</link>
-</item>
-<item>
-<title>Neunte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung</title>
-<link>http://www.gesetze-im-internet.de/geb_udearbbv9/xml.zip</link>
 </item>
 <item>
 <title>Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)</title>
@@ -1065,10 +1061,6 @@
 <item>
 <title>Verordnung über die Berufsausbildung zur Fachkraft Agrarservice*)</title>
 <link>http://www.gesetze-im-internet.de/agrarausbv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Gewährung einer außergewöhnlichen Anpassungsbeihilfe für Erzeuger in bestimmten Agrarsektoren</title>
-<link>http://www.gesetze-im-internet.de/agrarerzanpbeihv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung für Beihilfen wegen Frostschäden für bestimmte Agrarerzeuger im Jahr 2024</title>
@@ -2521,6 +2513,10 @@
 <item>
 <title>Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in IT</title>
 <link>http://www.gesetze-im-internet.de/baproitfprv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in Versicherungen und Finanzanlagen</title>
+<link>http://www.gesetze-im-internet.de/baprovffprv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Benutzung von Archivgut beim Bundesarchiv</title>
@@ -4711,6 +4707,10 @@
 <link>http://www.gesetze-im-internet.de/bmvgbeamtvzustano_2021/xml.zip</link>
 </item>
 <item>
+<title>Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenentschädigung im Geschäftsbereich des Bundesministeriums der Verteidigung</title>
+<link>http://www.gesetze-im-internet.de/bmvgsegzustano/xml.zip</link>
+</item>
+<item>
 <title>Verordnung für die Durchführung der Abschlussprüfung im staatlich anerkannten Ausbildungsberuf Verwaltungsfachangestellte und Verwaltungsfachangestellter – Fachrichtung Bundesverwaltung – im Geschäftsbereich des Bundesministeriums der Verteidigung</title>
 <link>http://www.gesetze-im-internet.de/bmvgvfaprv/xml.zip</link>
 </item>
@@ -6543,6 +6543,10 @@
 <link>http://www.gesetze-im-internet.de/dbustiftg/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur arbeits- und sozialrechtlichen Beratung von Drittstaatsangehörigen</title>
+<link>http://www.gesetze-im-internet.de/dbv/xml.zip</link>
+</item>
+<item>
 <title>Digitale-Dienste-Gesetz *</title>
 <link>http://www.gesetze-im-internet.de/ddg/xml.zip</link>
 </item>
@@ -7027,10 +7031,6 @@
 <link>http://www.gesetze-im-internet.de/stbdv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Durchführung des Seesicherheits-Untersuchungs-Gesetzes</title>
-<link>http://www.gesetze-im-internet.de/seeugdv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über den Zeitpunkt der Verlegung des Sitzes der Rundfunkanstalt des Bundesrechts Deutsche Welle von Köln nach Bonn</title>
 <link>http://www.gesetze-im-internet.de/dw-svv/xml.zip</link>
 </item>
@@ -7243,10 +7243,6 @@
 <link>http://www.gesetze-im-internet.de/eg-fgv_2011/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über EU-Normen für Obst und Gemüse</title>
-<link>http://www.gesetze-im-internet.de/eg-obstgem_sev/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Einführung eines Vordrucks für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie eines Vordrucks für die Übermittlung der Anträge auf Bewilligung von Prozesskostenhilfe im grenzüberschreitenden Verkehr</title>
 <link>http://www.gesetze-im-internet.de/eg-pkhvv/xml.zip</link>
 </item>
@@ -7451,8 +7447,8 @@
 <link>http://www.gesetze-im-internet.de/einglmindv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Eingliederungsleistungen und für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende im Jahr 2024</title>
-<link>http://www.gesetze-im-internet.de/einglmv_2024/xml.zip</link>
+<title>Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Eingliederungsleistungen und für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende im Jahr 2025</title>
+<link>http://www.gesetze-im-internet.de/einglmv_2025/xml.zip</link>
 </item>
 <item>
 <title>Einheitliche Europäische Akte</title>
@@ -9011,8 +9007,8 @@
 <link>http://www.gesetze-im-internet.de/fev2010ausnv_2/xml.zip</link>
 </item>
 <item>
-<title>Gesetz über Maßnahmen zur Förderung des deutschen Films*</title>
-<link>http://www.gesetze-im-internet.de/ffg_2017/xml.zip</link>
+<title>Gesetz über Maßnahmen zur Förderung des deutschen Films *</title>
+<link>http://www.gesetze-im-internet.de/ffg_2025/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zum Filmförderungsgesetz</title>
@@ -10911,8 +10907,8 @@
 <link>http://www.gesetze-im-internet.de/gr_bg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Pauschalen für Anlegung, Instandsetzung und Pflege der Gräber, Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre 2019 und 2020</title>
-<link>http://www.gesetze-im-internet.de/gr_bpauschv_2019_2020/xml.zip</link>
+<title>Verordnung über die Pauschalen für Anlegung, Instandsetzung und Pflege der Gräber, Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre 2025 und 2026</title>
+<link>http://www.gesetze-im-internet.de/gr_bpauschv_2025_2026/xml.zip</link>
 </item>
 <item>
 <title>Staatsvertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze</title>
@@ -11879,10 +11875,6 @@
 <link>http://www.gesetze-im-internet.de/hwo_5aabs2v/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Gründung, Tätigkeit und Umwandlung von Produktionsgenossenschaften des Handwerks</title>
-<link>http://www.gesetze-im-internet.de/hwpgv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Anerkennung von Prüfungen für die Eintragung in die Handwerksrolle</title>
 <link>http://www.gesetze-im-internet.de/hwreintrv/xml.zip</link>
 </item>
@@ -11897,10 +11889,6 @@
 <item>
 <title>Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung))</title>
 <link>http://www.gesetze-im-internet.de/hwwahlo/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über eine spezielle sektorengleiche Vergütung</title>
-<link>http://www.gesetze-im-internet.de/hybdrgv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Ablösung früherer Rechte und andere vermögensrechtliche Fragen</title>
@@ -12741,10 +12729,6 @@
 <item>
 <title>Gesetz zum Schutze der arbeitenden Jugend</title>
 <link>http://www.gesetze-im-internet.de/jarbschg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über das Verbot der Beschäftigung von Personen unter 18 Jahren mit sittlich gefährdenden Tätigkeiten</title>
-<link>http://www.gesetze-im-internet.de/jarbschsittv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die ärztlichen Untersuchungen nach dem Jugendarbeitsschutzgesetz</title>
@@ -13791,12 +13775,12 @@
 <link>http://www.gesetze-im-internet.de/krzwmg/xml.zip</link>
 </item>
 <item>
-<title>Künstlersozialabgabe-Verordnung 2023</title>
-<link>http://www.gesetze-im-internet.de/ksabg2023v/xml.zip</link>
-</item>
-<item>
 <title>Künstlersozialabgabe-Verordnung 2024</title>
 <link>http://www.gesetze-im-internet.de/ksabg2024v/xml.zip</link>
+</item>
+<item>
+<title>Künstlersozialabgabe-Verordnung 2025</title>
+<link>http://www.gesetze-im-internet.de/ksabg2025v/xml.zip</link>
 </item>
 <item>
 <title>Kündigungsschutzgesetz</title>
@@ -17823,6 +17807,10 @@
 <link>http://www.gesetze-im-internet.de/ogewv_2016/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Durchführung der unionsrechtlichen Regelungen für Vermarktungsnormen für Obst und Gemüse</title>
+<link>http://www.gesetze-im-internet.de/ogvermnormdv/xml.zip</link>
+</item>
+<item>
 <title>Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Sozialistischen Republik Vietnam über die Zusammenarbeit bei der Bekämpfung von schwerwiegenden Straftaten und der Organisierten Kriminalität</title>
 <link>http://www.gesetze-im-internet.de/okzusaabk_vnm/xml.zip</link>
 </item>
@@ -18241,6 +18229,10 @@
 <item>
 <title>Verordnung über Personalausweise, eID-Karten für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums und den elektronischen Identitätsnachweis</title>
 <link>http://www.gesetze-im-internet.de/pauswv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Anpassung des Beitragssatzes in der sozialen Pflegeversicherung 2025</title>
+<link>http://www.gesetze-im-internet.de/pbav_2025/xml.zip</link>
 </item>
 <item>
 <title>Postbankarbeitszeitverordnung</title>
@@ -19231,10 +19223,6 @@
 <link>http://www.gesetze-im-internet.de/qfuv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Qualitätsnormen für Bananen</title>
-<link>http://www.gesetze-im-internet.de/qnormbanv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zur Prüfung von Daten multinationaler Unternehmensgruppen zur Sicherung der Qualität der Volkswirtschaftlichen Gesamtrechnungen und der Wirtschaftsstatistiken</title>
 <link>http://www.gesetze-im-internet.de/qvwsg/xml.zip</link>
 </item>
@@ -19419,8 +19407,8 @@
 <link>http://www.gesetze-im-internet.de/rbkpr_serl/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Bestimmung der für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 des Zwölften Buches Sozialgesetzbuch maßgeblichen Prozentsätze sowie zur Ergänzung der Anlage zu §§ 28 und 34 des Zwölften Buches Sozialgesetzbuch für das Jahr 2024</title>
-<link>http://www.gesetze-im-internet.de/rbsfv_2024/xml.zip</link>
+<title>Verordnung zur Bestimmung der für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 des Zwölften Buches Sozialgesetzbuch maßgeblichen Prozentsätze sowie zur Ergänzung der Anlage zu §§ 28 und 34 des Zwölften Buches Sozialgesetzbuch für das Jahr 2025</title>
+<link>http://www.gesetze-im-internet.de/rbsfv_2025/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder</title>
@@ -21047,6 +21035,10 @@
 <link>http://www.gesetze-im-internet.de/segelmmstrv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Führung einer amtlichen Statistik auf dem Gebiet des Soldatenentschädigungsgesetzes</title>
+<link>http://www.gesetze-im-internet.de/segstatv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung über die Berufsausbildung zum Seiler und zur Seilerin *)</title>
 <link>http://www.gesetze-im-internet.de/seilausbv_2008/xml.zip</link>
 </item>
@@ -21089,6 +21081,10 @@
 <item>
 <title>Gesetz zum Vorschlag für eine Verordnung des Rates über befristete Maßnahmen in Bezug auf die Hauptversammlungen Europäischer Gesellschaften (SE) und die Generalversammlungen Europäischer Genossenschaften (SCE)</title>
 <link>http://www.gesetze-im-internet.de/seuscevvorschlg/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zum Soldatenentschädigungsgesetz</title>
+<link>http://www.gesetze-im-internet.de/sev/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Rechtsstellung der Soldaten</title>
@@ -21231,12 +21227,24 @@
 <link>http://www.gesetze-im-internet.de/sgb5_291verlv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Übertragung der Befugnis zum Erlass einer Rechtsverordnung nach § 172c Absatz 3 Satz 1 des Siebten Buches Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung</title>
+<link>http://www.gesetze-im-internet.de/sgb7_172cabs3s1_bertrv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Übertragung der Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 Satz 1 des Siebten Buches Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung</title>
+<link>http://www.gesetze-im-internet.de/sgb7_178abs1s1_v/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch</title>
 <link>http://www.gesetze-im-internet.de/sgb7_178abs1v/xml.zip</link>
 </item>
 <item>
 <title>Zweite Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch</title>
 <link>http://www.gesetze-im-internet.de/sgb7_178abs1v_2/xml.zip</link>
+</item>
+<item>
+<title>Dritte Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch</title>
+<link>http://www.gesetze-im-internet.de/sgb7_178abs1v_3/xml.zip</link>
 </item>
 <item>
 <title>Erstes Gesetz zur Änderung des Achten Buches Sozialgesetzbuch</title>
@@ -22863,6 +22871,10 @@
 <link>http://www.gesetze-im-internet.de/svbezgrv_2024/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2025</title>
+<link>http://www.gesetze-im-internet.de/svbezgrv_2025/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Auflösung der Staatlichen Versicherung der Deutschen Demokratischen Republik in Abwicklung</title>
 <link>http://www.gesetze-im-internet.de/svddrauflg/xml.zip</link>
 </item>
@@ -22887,12 +22899,8 @@
 <link>http://www.gesetze-im-internet.de/svfangausbv_1997/xml.zip</link>
 </item>
 <item>
-<title>Gesetz über die Versorgung für die früheren Soldaten der Bundeswehr und ihre Hinterbliebenen</title>
-<link>http://www.gesetze-im-internet.de/svg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Anpassung des Bemessungsbetrages und von Geldleistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz</title>
-<link>http://www.gesetze-im-internet.de/svg-kov-anpv_2024/xml.zip</link>
+<title>Gesetz über die Versorgung der früheren Soldatinnen und früheren Soldaten und ihrer Hinterbliebenen</title>
+<link>http://www.gesetze-im-internet.de/svg_2025/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes*</title>
@@ -23007,8 +23015,8 @@
 <link>http://www.gesetze-im-internet.de/tabstv_2010/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über tierärztliche Hausapotheken</title>
-<link>http://www.gesetze-im-internet.de/t_hav/xml.zip</link>
+<title>Verordnung über tierärztliche Hausapotheken*</title>
+<link>http://www.gesetze-im-internet.de/t_hav_2025/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen*)</title>
@@ -23077,10 +23085,6 @@
 <item>
 <title>Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen*)</title>
 <link>http://www.gesetze-im-internet.de/tehg_2011/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2024</title>
-<link>http://www.gesetze-im-internet.de/telefinv_2024/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2025</title>
@@ -23633,10 +23637,6 @@
 <item>
 <title>Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohndachd_12/xml.zip</link>
-</item>
-<item>
-<title>Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Juni 2022</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2022/xml.zip</link>
 </item>
 <item>
 <title>Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022</title>
@@ -24603,10 +24603,6 @@
 <link>http://www.gesetze-im-internet.de/verschg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin für Versicherungen und Finanzen</title>
-<link>http://www.gesetze-im-internet.de/versfachwprv_2008/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzanlagen und zur Kauffrau für Versicherungen und Finanzanlagen *</title>
 <link>http://www.gesetze-im-internet.de/versfinkflausbv/xml.zip</link>
 </item>
@@ -24733,14 +24729,6 @@
 <item>
 <title>Gesetz über die weitere Sicherung des Einsatzes von Gemeinschaftskohle in der Elektrizitätswirtschaft</title>
 <link>http://www.gesetze-im-internet.de/verstromg_3/xml.zip</link>
-</item>
-<item>
-<title>Gesetz über Hilfen für den deutschen Steinkohlebergbau bis zum Jahr 2005</title>
-<link>http://www.gesetze-im-internet.de/verstromg_5/xml.zip</link>
-</item>
-<item>
-<title>Gesetz zur Abwicklung des Ausgleichsfonds nach dem Dritten Verstromungsgesetz</title>
-<link>http://www.gesetze-im-internet.de/verstromg3abwg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über gewerbsmäßige Versteigerungen</title>
