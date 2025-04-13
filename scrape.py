@@ -3,6 +3,7 @@ import os
 import shutil
 from multiprocessing.pool import Pool
 from zipfile import ZipFile, BadZipFile
+import time
 
 import requests
 from bs4 import BeautifulSoup
@@ -34,6 +35,7 @@ def ensure_exists(path):
 
 
 def handle_links(link, TEMP_PATH, ITEMS_PATH):
+    time.sleep(0.25)
     error = None
     # print("Loading", link)
 
