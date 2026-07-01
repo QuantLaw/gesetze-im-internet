@@ -571,10 +571,6 @@
 <link>http://www.gesetze-im-internet.de/erd_lfrv_6/xml.zip</link>
 </item>
 <item>
-<title>Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche</title>
-<link>http://www.gesetze-im-internet.de/pflegearbbv_6/xml.zip</link>
-</item>
-<item>
 <title>Sechste Verordnung zum Produktsicherheitsgesetz 1</title>
 <link>http://www.gesetze-im-internet.de/prodsg2011v_6/xml.zip</link>
 </item>
@@ -593,6 +589,10 @@
 <item>
 <title>Siebte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung</title>
 <link>http://www.gesetze-im-internet.de/binschstro2012abwv_7/xml.zip</link>
+</item>
+<item>
+<title>Siebte Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche</title>
+<link>http://www.gesetze-im-internet.de/pflegearbbv_7/xml.zip</link>
 </item>
 <item>
 <title>Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung</title>
@@ -1823,8 +1823,8 @@
 <link>http://www.gesetze-im-internet.de/augenoptausbv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Augenoptiker-Handwerk</title>
-<link>http://www.gesetze-im-internet.de/augoptmstrv/xml.zip</link>
+<title>Verordnung über die Meisterprüfung in den Teilen I und II im Augenoptiker-Handwerk</title>
+<link>http://www.gesetze-im-internet.de/augoptmstrv_2026/xml.zip</link>
 </item>
 <item>
 <title>Sechste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes</title>
@@ -3259,6 +3259,10 @@
 <link>http://www.gesetze-im-internet.de/berrehag/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Anpassung der Höhe der monatlichen Ausgleichsleistungen nach § 8 Absatz 1 Satz 4 des Beruflichen Rehabilitierungsgesetzes ab dem 1. Juli 2026</title>
+<link>http://www.gesetze-im-internet.de/berrehaganpv_2026/xml.zip</link>
+</item>
+<item>
 <title>Verordnung über die Berichterstattung von Versicherungsunternehmen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht</title>
 <link>http://www.gesetze-im-internet.de/berversv_2017/xml.zip</link>
 </item>
@@ -4259,10 +4263,6 @@
 <link>http://www.gesetze-im-internet.de/bmdvtkbgebv/xml.zip</link>
 </item>
 <item>
-<title>Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich *</title>
-<link>http://www.gesetze-im-internet.de/bmelbgebv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder</title>
 <link>http://www.gesetze-im-internet.de/bmelddav_2022/xml.zip</link>
 </item>
@@ -4459,10 +4459,6 @@
 <link>http://www.gesetze-im-internet.de/bmjgerernano/xml.zip</link>
 </item>
 <item>
-<title>Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz</title>
-<link>http://www.gesetze-im-internet.de/bmjgerwidano_2024/xml.zip</link>
-</item>
-<item>
 <title>Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Zuständigkeitsbereich des Bundesministeriums der Justiz</title>
 <link>http://www.gesetze-im-internet.de/bmjma_gabenberg/xml.zip</link>
 </item>
@@ -4475,12 +4471,20 @@
 <link>http://www.gesetze-im-internet.de/bmjvertrano_2013/xml.zip</link>
 </item>
 <item>
+<title>Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz</title>
+<link>http://www.gesetze-im-internet.de/bmjvgerwidano_2026/xml.zip</link>
+</item>
+<item>
 <title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts</title>
 <link>http://www.gesetze-im-internet.de/bmjvwidvertrano/xml.zip</link>
 </item>
 <item>
 <title>Anordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse</title>
 <link>http://www.gesetze-im-internet.de/bmlehbeih_bertrano/xml.zip</link>
+</item>
+<item>
+<title>Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich</title>
+<link>http://www.gesetze-im-internet.de/bmelbgebv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat</title>
@@ -5549,10 +5553,6 @@
 <item>
 <title>Verordnung über die Berufsausbildung zum Bürsten- und Pinselmacher und zur Bürsten- und Pinselmacherin*</title>
 <link>http://www.gesetze-im-internet.de/b_pinausbv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld *</title>
-<link>http://www.gesetze-im-internet.de/algiiv_2008/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement*</title>
@@ -10087,6 +10087,10 @@
 <link>http://www.gesetze-im-internet.de/grstg_1973/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld</title>
+<link>http://www.gesetze-im-internet.de/algiiv_2008/xml.zip</link>
+</item>
+<item>
 <title>Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens</title>
 <link>http://www.gesetze-im-internet.de/gruwerl/xml.zip</link>
 </item>
@@ -11983,6 +11987,10 @@
 <link>http://www.gesetze-im-internet.de/kmag/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kryptomärkteaufsichtsgesetz</title>
+<link>http://www.gesetze-im-internet.de/kmanzv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Konkretisierung von Mitteilungspflichten zur Offenlegung von Insiderinformationen nach § 36 des Kryptomärkteaufsichtsgesetzes</title>
 <link>http://www.gesetze-im-internet.de/kmmv/xml.zip</link>
 </item>
@@ -12811,6 +12819,10 @@
 <link>http://www.gesetze-im-internet.de/logsystfachwbaprofv/xml.zip</link>
 </item>
 <item>
+<title>Siebte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung</title>
+<link>http://www.gesetze-im-internet.de/lohnuga_v_7/xml.zip</link>
+</item>
+<item>
 <title>Erlass über die Stiftung des Silbernen Lorbeerblattes</title>
 <link>http://www.gesetze-im-internet.de/lorbblerl_2013/xml.zip</link>
 </item>
@@ -13433,10 +13445,6 @@
 <item>
 <title>Verordnung über die Zulässigkeit der Anwendung der Niedrigdosis-Computertomographie zur Früherkennung von Lungenkrebs bei rauchenden Personen 1</title>
 <link>http://www.gesetze-im-internet.de/lukrfr_herkv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über besondere Anforderungen an Saatgut von Weißer Lupine im Rahmen der Saatgutanerkennung 2026</title>
-<link>http://www.gesetze-im-internet.de/lupinenv_2026/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes</title>
@@ -18315,6 +18323,10 @@
 <link>http://www.gesetze-im-internet.de/rwbestv_2025/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2026</title>
+<link>http://www.gesetze-im-internet.de/rwbestv_2026/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums</title>
 <link>http://www.gesetze-im-internet.de/rzv/xml.zip</link>
 </item>
@@ -18511,8 +18523,8 @@
 <link>http://www.gesetze-im-internet.de/schausnahmv/xml.zip</link>
 </item>
 <item>
-<title>Schiffsausrüstungsverordnung</title>
-<link>http://www.gesetze-im-internet.de/schausrv/xml.zip</link>
+<title>Schiffsausrüstungsverordnung 1</title>
+<link>http://www.gesetze-im-internet.de/schausrv_2026/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung</title>
@@ -19115,7 +19127,7 @@
 <link>http://www.gesetze-im-internet.de/sgb_12/xml.zip</link>
 </item>
 <item>
-<title>Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954) *</title>
+<title>Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende</title>
 <link>http://www.gesetze-im-internet.de/sgb_2/xml.zip</link>
 </item>
 <item>
@@ -20161,6 +20173,10 @@
 <item>
 <title>Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet</title>
 <link>http://www.gesetze-im-internet.de/strrehag/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Anpassung der Höhe der monatlichen besonderen Zuwendung nach § 17a Absatz 1 Satz 5 des Strafrechtlichen Rehabilitierungsgesetzes ab dem 1. Juli 2026</title>
+<link>http://www.gesetze-im-internet.de/strrehaganpv_2026/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 21 Absatz 6 Satz 1 des Strafrechtlichen Rehabilitierungsgesetzes</title>
