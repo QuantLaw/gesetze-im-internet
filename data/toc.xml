@@ -6623,10 +6623,6 @@
 <link>http://www.gesetze-im-internet.de/drucklv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Drucker-(Buchdrucker-)Handwerk</title>
-<link>http://www.gesetze-im-internet.de/druckmstrv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung*)</title>
 <link>http://www.gesetze-im-internet.de/druckverarbausbv/xml.zip</link>
 </item>
@@ -7367,12 +7363,12 @@
 <link>http://www.gesetze-im-internet.de/entwhstg/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Personenkraftwagen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen</title>
-<link>http://www.gesetze-im-internet.de/envkg_2012/xml.zip</link>
+<title>Verordnung zur Sanktionsbewehrung unionsrechtlicher Verordnungen auf dem Gebiet der Kennzeichnung von energieverbrauchsrelevanten Produkten 2</title>
+<link>http://www.gesetze-im-internet.de/envkbgv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen</title>
-<link>http://www.gesetze-im-internet.de/envkv/xml.zip</link>
+<title>Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Personenkraftwagen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen</title>
+<link>http://www.gesetze-im-internet.de/envkg_2012/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Energiewirtschaft oder Geprüfte Fachwirtin für Energiewirtschaft – Bachelor-Professional in Energiewirtschaft</title>
@@ -7945,14 +7941,6 @@
 <item>
 <title>Eisenbahnverkehrs-Verordnung</title>
 <link>http://www.gesetze-im-internet.de/evo_2023/xml.zip</link>
-</item>
-<item>
-<title>Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte*)</title>
-<link>http://www.gesetze-im-internet.de/ebpg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte</title>
-<link>http://www.gesetze-im-internet.de/evpgv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen bei den Besonderen Leistungen im Einzelfall im Sozialen Entschädigungsrecht</title>
@@ -8585,10 +8573,6 @@
 <item>
 <title>Verordnung über den Erwerb land- und forstwirtschaftlicher Flächen und das Verfahren nach dem Ausgleichsleistungsgesetz</title>
 <link>http://www.gesetze-im-internet.de/flerwv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Flexografen-Handwerk</title>
-<link>http://www.gesetze-im-internet.de/flexmstrv/xml.zip</link>
 </item>
 <item>
 <title>Fleischgesetz*)</title>
@@ -16175,6 +16159,10 @@
 <link>http://www.gesetze-im-internet.de/_kodesigng/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Durchführung des Ökodesign-Gesetzes 1</title>
+<link>http://www.gesetze-im-internet.de/_kodesigngv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus</title>
 <link>http://www.gesetze-im-internet.de/_kokennzg/xml.zip</link>
 </item>
@@ -17369,6 +17357,10 @@
 <item>
 <title>Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte</title>
 <link>http://www.gesetze-im-internet.de/prhaushstatg/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Meisterprüfung in den Teilen I und II im Print- und Medientechnologen (Drucker, Siebdrucker, Flexografen)-Handwerk</title>
+<link>http://www.gesetze-im-internet.de/printmedmstrv/xml.zip</link>
 </item>
 <item>
 <title>Prisengerichtsordnung</title>
@@ -18771,10 +18763,6 @@
 <link>http://www.gesetze-im-internet.de/schrg_ndg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Schriftsetzer-(Buchdrucker-)Handwerk</title>
-<link>http://www.gesetze-im-internet.de/schrisemstrv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zum Wiener Abkommen vom 12. Juni 1973 über den Schutz typographischer Schriftzeichen und ihre internationale Hinterlegung</title>
 <link>http://www.gesetze-im-internet.de/schrzabkg/xml.zip</link>
 </item>
@@ -19421,10 +19409,6 @@
 <item>
 <title>Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck*)</title>
 <link>http://www.gesetze-im-internet.de/siebdrausbv_2011/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Siebdrucker-Handwerk</title>
-<link>http://www.gesetze-im-internet.de/siebdrmstrv_2006/xml.zip</link>
 </item>
 <item>
 <title>Erlaß über die Stiftung der Silbermedaille für den Behindertensport</title>
