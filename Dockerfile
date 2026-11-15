@@ -1,4 +1,4 @@
-FROM python:3.7-bullseye
+FROM python:3.13-trixie
 
 RUN apt-get update && apt-get -y install cron
 
